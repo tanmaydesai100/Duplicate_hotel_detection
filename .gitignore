@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+
+__pycache__/
+**/__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Prevent committing large raw Kaggle exports
+kaggle/*.csv
