@@ -1,0 +1,33 @@
+{
+  "evaluation_timestamp": "20250820_120440",
+  "total_addresses": 206,
+  "total_candidate_pairs": 21115,
+  "pairs_evaluated": 214,
+  "pairs_skipped_by_distance": 20901,
+  "distance_threshold_m": 500.0,
+  "ground_truth_positives": 103,
+  "found_positives": 53,
+  "evaluation_method": "exhaustive_pairwise",
+  "metrics": {
+    "accuracy": 0.9485981308411215,
+    "precision": 0.9513715015245793,
+    "recall": 0.9485981308411215,
+    "f1": 0.9493504530799263,
+    "precision_binary": 0.8620689655172413,
+    "recall_binary": 0.9433962264150944,
+    "f1_binary": 0.9009009009009009,
+    "confusion_matrix": [
+      [
+        153,
+        8
+      ],
+      [
+        3,
+        50
+      ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.98      0.95      0.97       161\n           1       0.86      0.94      0.90        53\n\n    accuracy                           0.95       214\n   macro avg       0.92      0.95      0.93       214\nweighted avg       0.95      0.95      0.95       214\n"
+  },
+  "model_path": "outputs/llama3-dupe",
+  "base_model": "meta-llama/Meta-Llama-3-8B-Instruct"
+}

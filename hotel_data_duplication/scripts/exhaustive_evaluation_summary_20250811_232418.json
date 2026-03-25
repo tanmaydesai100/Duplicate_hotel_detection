@@ -1,0 +1,28 @@
+{
+  "evaluation_timestamp": "20250811_232418",
+  "total_addresses": 10,
+  "total_candidate_pairs": 45,
+  "pairs_evaluated": 1,
+  "pairs_skipped_by_distance": 44,
+  "distance_threshold_m": 500.0,
+  "ground_truth_positives": 0,
+  "found_positives": 0,
+  "evaluation_method": "exhaustive_pairwise",
+  "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "precision_binary": 0.0,
+    "recall_binary": 0.0,
+    "f1_binary": 0.0,
+    "confusion_matrix": [
+      [
+        1
+      ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00         1\n\n    accuracy                           1.00         1\n   macro avg       1.00      1.00      1.00         1\nweighted avg       1.00      1.00      1.00         1\n"
+  },
+  "model_path": "outputs/llama3-dupe",
+  "base_model": "meta-llama/Meta-Llama-3-8B-Instruct"
+}

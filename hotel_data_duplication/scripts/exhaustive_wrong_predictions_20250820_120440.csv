@@ -1,0 +1,12 @@
+indexA,indexB,text_a,text_b,distance_m,true_label,pred_label,generated_text,error_type
+6201,2333,"King Edward Hotel, 44 King Edward Avenue Blackpool, North West, FY29TA","Brooklands Hotel, 28-30, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TA",31.07669757682725,1,0,NO_MATCH,False Negative
+6253,2440,"Victoria Hotel Blackpool, 30 Charnley Road Blackpool, North West, FY14PF","The Pearl Hotel, 52, Charnley Road, Blackpool, , United Kingdom, North West, FY14PF",13.08334040164045,0,1,MATCH,False Positive
+6253,2435,"Victoria Hotel Blackpool, 30 Charnley Road Blackpool, North West, FY14PF","Charnley Gold, 38, Charnley Road, Blackpool, , United Kingdom, North West, FY14PF",33.81787525157577,0,1,MATCH,False Positive
+33860,2440,"The Darfield Hotel, 54 Charnley Road Blackpool, North West, FY14PF","The Pearl Hotel, 52, Charnley Road, Blackpool, , United Kingdom, North West, FY14PF",21.591231241860807,0,1,MATCH,False Positive
+33860,2435,"The Darfield Hotel, 54 Charnley Road Blackpool, North West, FY14PF","Charnley Gold, 38, Charnley Road, Blackpool, , United Kingdom, North West, FY14PF",57.75486230974699,0,1,MATCH,False Positive
+8218,8308,"Brighton Marina House Hotel B&B, 8 Charlotte Street Brighton, Brighton and Hove, South East, BN21AG","Brighton Surf Guest House, 16 Charlotte Street Brighton and Hove Brighton, South East, BN21AG",13.82086535462182,1,0,NO_MATCH,False Negative
+65851,2608,"The Windsor Hotel, South Parade Whitley BayTyne and Wear, North Tyneside, North East, NE262RF","Aald Northville Hotel, South Parade, Whitley Bay, , United Kingdom, North Tyneside, North East, NE262RE",89.45775278572484,0,1,MATCH,False Positive
+6251,6219,"Avenue Guest House, 56 Reads Avenue Blackpool, North West, FY14DE","Four Rooms Blackpool B&B, 60 Reads Avenue Blackpool, North West, FY14DE",16.396703484204238,1,0,NO_MATCH,False Negative
+6169,6169,"Charnleygold Hotel, 38 Charnley Road Blackpool, North West, FY14PF","Charnleygold Hotel, 38 Charnley Road Blackpool, North West, FY14PF",0.0,0,1,MATCH,False Positive
+33995,2440,"Victoria Hotel Blackpool, 30 Charnley Road Blackpool, North West, FY14PF","The Pearl Hotel, 52, Charnley Road, Blackpool, , United Kingdom, North West, FY14PF",13.08334040164045,0,1,MATCH,False Positive
+33995,2435,"Victoria Hotel Blackpool, 30 Charnley Road Blackpool, North West, FY14PF","Charnley Gold, 38, Charnley Road, Blackpool, , United Kingdom, North West, FY14PF",33.81787525157577,0,1,MATCH,False Positive

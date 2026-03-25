@@ -1,0 +1,916 @@
+orig_indexA,orig_indexB,addressA,addressB,score
+20,1161,"The Falcon Inn Retreat, 1 Incline Row Aberdare, Rhondda Cynon Taf, CF446LU","The Falcon, Incline Row, Godreaman, , United Kingdom, Rhondda Cynon Taf, CF446LU",0.8
+35,4011,"The Aberdeen Altens Hotel, Souterhead Road Aberdeen, Aberdeen City, AB123LF","Aberdeen Altens Hotel, Souterhead Road, Aberdeen City, AB123LF",0.8282
+51,5240,"The Marcliffe Hotel and Spa, North Deeside Road PitfodelsAberdeen, Aberdeen City, AB159YA","Marcliffe, North Deeside Road, Aberdeen, Aberdeen City, AB159YA",0.8
+80,10770,"The Chester Hotel, 59 63 Queens Road AberdeenScotland, Aberdeen City, AB154YP","The Chester Hotel, 55-63, Queen's Road, Aberdeen, Aberdeen City, AB154YP",0.85
+84,5272,"Travelodge Aberdeen Bucksburn, A96 Inverurie Road Bucksburn Bucksburn Aberdeen, Aberdeen City, AB219BB","Travelodge, Inverurie Road, Aberdeen, Aberdeen City, AB219BB",0.8625
+112,5213,"Newmachar Hotel, Oldmeldrum Road Newmachar, Aberdeenshire, AB210QD","Newmachar Hotel, Oldmeldrum Road, , GB, Aberdeenshire, AB210QD",0.8
+171,10416,"The Dunavon, 60 Victoria Street Dyce DyceAberdeen, Aberdeen City, AB217EE","Dunavon, 60, Victoria Street, Aberdeen, , GB, Aberdeen City, AB217EE",0.8875
+236,9503,"Hilton Aberdeen TECA, East Burn Road Stoneywood, Aberdeen City, AB219FX","Hilton Aberdeen TECA, East Burn Road, Aberdeen, Aberdeen City, AB219FX",0.8992
+317,7795,"Ailean Chraggan Hotel Weem AberfeldyPerthshire, Perth and Kinross, PH152LD","Ailean Chraggan Hotel & Restaurant, Weem, Perth and Kinross, PH152LD",0.8
+323,1571,"Breadalbane Arms Hotel, Bridgend AberfeldyPerthshire, Perth and Kinross, PH152DF","Breadalbane Arms Hotel, Bridge End, Aberfeldy, , United Kingdom, Perth and Kinross, PH152DF",0.8
+715,4895,"Premier Inn Abingdon, Marcham Road AbingdonOxon, Vale of White Horse, South East, OX141AD","Premier Inn, Marcham Road, Vale of White Horse, South East, OX141AD",0.8
+733,5230,"Travelodge Cambridge Fourwentways, A11 Fourwentways Abington Cambridge, South Cambridgeshire, East of England, CB216AP","Travelodge, Fourwentways Services, Cambridge, South Cambridgeshire, East of England, CB216AP",0.8023
+813,5454,"The Wentworth Hotel, Wentworth Road AldeburghSuffolk, East Suffolk, East of England, IP155BD","Wentworth Hotel, Wentworth Road, East Suffolk, East of England, IP155BD",0.8073
+881,9698,"De Trafford By Good Night Inns, Congleton Road Alderley EdgeWilmslowCheshire, Cheshire East, North West, SK97AA","De Trafford Arms Hotel, 2, Congleton Road, Alderley Edge, Cheshire East, North West, SK97AA",0.8
+897,2891,"Lomond Park Hotel, Balloch Road Balloch West Dunbartonshire, G838SR","Lomond Park Hotel, Balloch Road, Alexandria, , United Kingdom, West Dunbartonshire, G838SR",0.8
+715,4895,"Premier Inn Abingdon, Marcham Road AbingdonOxon, Vale of White Horse, South East, OX141AD","Premier Inn, Marcham Road, Vale of White Horse, South East, OX141AD",0.8
+733,5230,"Travelodge Cambridge Fourwentways, A11 Fourwentways Abington Cambridge, South Cambridgeshire, East of England, CB216AP","Travelodge, Fourwentways Services, Cambridge, South Cambridgeshire, East of England, CB216AP",0.8023
+813,5454,"The Wentworth Hotel, Wentworth Road AldeburghSuffolk, East Suffolk, East of England, IP155BD","Wentworth Hotel, Wentworth Road, East Suffolk, East of England, IP155BD",0.8073
+881,9698,"De Trafford By Good Night Inns, Congleton Road Alderley EdgeWilmslowCheshire, Cheshire East, North West, SK97AA","De Trafford Arms Hotel, 2, Congleton Road, Alderley Edge, Cheshire East, North West, SK97AA",0.8
+897,2891,"Lomond Park Hotel, Balloch Road Balloch West Dunbartonshire, G838SR","Lomond Park Hotel, Balloch Road, Alexandria, , United Kingdom, West Dunbartonshire, G838SR",0.8
+901,7358,"The Loch Lomond Arms Hotel, Main Road Luss, Argyll and Bute, G838NY","Loch Lomond Arms Hotel, Main Road, Luss, Argyll and Bute, G838NY",0.8293
+1067,3254,"Half Moon Hotel And Restaurant, 25 28 West Street AlfordLincolnshire, East Lindsey, East Midlands, LN139DG","The Half Moon Hotel & Restaurant, 25-28, West Street, Alford, , GB, East Lindsey, East Midlands, LN139DG",0.8401
+1136,5407,"Nether Grange, Marine Road Alnmouth Alnmouth Alnwick, Northumberland, North East, NE662RZ","HF Holidays Nether Grange, Pease's Lane, Alnwick, , GB, Northumberland, North East, NE662RZ",0.8
+1155,5347,"White Swan Hotel, Bondgate Within Alnwick Northumberland, North East, NE661TD","The White Swan Hotel, 16, Bondgate Within, Alnwick, Northumberland, North East, NE661TD",0.8685
+1166,5407,"Nether Grange, Marine Road Alnmouth Alnmouth Alnwick, Northumberland, North East, NE662RZ","HF Holidays Nether Grange, Pease's Lane, Alnwick, , GB, Northumberland, North East, NE662RZ",0.8
+1316,11361,"Travelodge Alton Four Marks, A31 156 Winchester Road Four Marks Four MarksAltonHampshire, East Hampshire, South East, GU345HZ","Travelodge, 156, Winchester Road, Alton, East Hampshire, South East, GU345HZ",0.8
+1319,8656,"The Crown Hotel, High Street AltonHampshire, East Hampshire, South East, GU341BN","The Crown Hotel, High Street, Alton, , GB, East Hampshire, South East, GU341BN",0.8
+1723,11027,"Best Western Andover Hotel, Micheldever Road AndoverHampshire, Test Valley, South East, SP116LA","Best Western Andover Hotel, Micheldever Road, Andover, Test Valley, South East, SP116LA",0.8
+1724,3781,"The Star And Garter A Citylodge Hotel, High Street, 2 ANDOVER, Test Valley, South East, SP101PB","Star and Garter Hotel, 2, High Street, Andover, , United Kingdom, Test Valley, South East, SP101PB",0.875
+1725,7801,"Esseborne Manor, Hurstbourne Tarrant AndoverHampshire, Test Valley, South East, SP110ER","Esseborne Manor Hotel, Andover, Test Valley, South East, SP110ER",0.8
+1767,9444,"Balcomie Links Hotel, Balcomie Road Crail CrailFife Scotland, KY103TN","Balcomie Links Hotel, Balcomie Road, Crail, Fife, KY103TN",0.8
+1868,8330,"The Pierhouse Hotel, Port Appin Argyll, Argyll and Bute, PA384DE","The Pierhouse, Argyll and Bute, PA384DE",0.8
+1946,901,"Grey Gull Inn, Glenburn Road Ardrishaig Argyll, Argyll and Bute, PA308EU","The Grey Gull Hotel, Glenburn Road, Ardrishaig, , United Kingdom, Argyll and Bute, PA308EU",0.8966
+2056,8326,"Callow Hall, Mappleton Rd, Ashbourne, Derbyshire ASHBOURNE, Derbyshire Dales, East Midlands, DE62AA","Callow Hall, Mapleton Road, Ashbourne, Derbyshire Dales, East Midlands, DE62AA",0.864
+2063,658,"The Boars Head Hotel, Station Road Draycott In The Clay Draycott-in-the-clay Draycott in the Clay Ashbourne, East Staffordshire, West Midlands, DE65GX","Boars Head Hotel, Station Road, Ashbourne, , United Kingdom, East Staffordshire, West Midlands, DE65GX",0.8
+2089,5168,"Newton House Apartment, Newton House Buxton Road Newton Grange, Derbyshire Dales, East Midlands, DE61NJ","Newton House, Buxton Road, Ashbourne, , GB, Derbyshire Dales, East Midlands, DE61NJ",0.8
+2133,42,"Travelodge Canterbury Chaucer Central, IVY LANE CANTERBURY KENT, 63 CANTERBURY, South East, CT11TU","Travelodge Chaucer Central, 63, Ivy Lane, Canterbury, Kent, , GB, South East, CT11TU",0.8
+2134,39,"The Bow Window Inn, HIGH STREET, 50 CANTERBURY, South East, CT31ST","Bay Window Hotel and Restaurant, High Street, Canterbury, , United Kingdom, South East, CT31ST",0.864
+2146,5503,"Holiday Inn Express Canterbury, Upper Harbledown Canterbury, South East, CT29HX","Canterbury Holiday Inn Express, Canterbury, South East, CT29HX",0.8929
+2402,9407,"Sherbourne House, 8 Norwich Road AttleboroughNorfolk, Breckland, East of England, NR172JX","Sherbourne House Hotel, 8, Norwich Road, Breckland, East of England, NR172JX",0.8636
+2454,11129,"Coylumbridge Hotel, Coylumbridge Aviemore, Highland, PH221QN","Coylumbridge Aviemore Hotel, Coylumbridge, Aviemore, Highland, PH221QN",0.8
+2609,7779,"Mercure Ayr Hotel, Dalblair Rd Ayr, South Ayrshire, KA71UG","Mercure Ayr, Dalblair Road, Ayr, South Ayrshire, KA71UG",0.875
+2628,7774,"Travelodge Ayr, Highfield Drive Ayr, South Ayrshire, KA89SH","Travelodge, Highfield Drive, Ayr, South Ayrshire, KA89SH",0.8628
+2630,1088,"Chalmers Guest House, 34 CARRICK ROAD AYR, South Ayrshire, KA72RB","Carrick Lodge, 46, Carrick Road, Ayr, , United Kingdom, South Ayrshire, KA72RB",0.8363
+2638,1083,"The Ayrshire and Galloway, 1 Killoch Place AyrAyrshire, South Ayrshire, KA72EA","Ayrshire & Galloway Hotel, 1, Killoch Place, Ayr, , United Kingdom, South Ayrshire, KA72EA",0.8053
+2736,4996,"The Monsal Head Hotel, Monsal Head BakewellDerbyshire, Derbyshire Dales, East Midlands, DE451NL","Monsal Head Hotel, Bakewell, Derbyshire Dales, East Midlands, DE451NL",0.8
+3022,1545,"The Romany Inn, Bridge Street BAMPTON, West Oxfordshire, South East, OX182HA","Fleur De Lys, Bridge Street, Bampton, , United Kingdom, West Oxfordshire, South East, OX182HA",0.8
+3120,4805,"Banff Springs Hotel, Golden Knowes Road Banff Scotland, Aberdeenshire, AB452JE","Banff Springs Hotel, Golden Knowes Road, Aberdeenshire, , GB, AB452JE",0.8
+3126,9948,"The Boyne Hotel, 2 North High Street Portsoy, Aberdeenshire, AB452PA","The Boyne Hotel, 2, North High Street, Aberdeenshire, AB452PA",0.8125
+3329,11200,"Barnham Broom Hotel Golf & Spa, Honingham Road Barnham Broom Barnham Broom NorwichNorfolk, South Norfolk, East of England, NR94DD","Barnham Broom Hotel & Country Club, Honingham Road, Norwich, , GB, South Norfolk, East of England, NR94DD",0.8452
+3351,9058,"The Hunters Inn, Heddon Valley Parracombe ExmoorNorth Devon, South West, EX314PY","Hunter's Inn, Barnstaple, North Devon, South West, EX314PY",0.8
+3468,4802,"Tadross Hotel, 271 Holton Rd Barry, Vale of Glamorgan, CF634HT","Tadross Hotel, 271, Holton Road, Vale of Glamorgan, CF634HT",0.87
+3588,7899,"Abbey Hotel Bw Signature Collection By Best Western, North Parade BathSomerset, Bath and North East Somerset, South West, BA11LF","The Abbey Hotel, 1, North Parade Buildings, Bath and North East Somerset, South West, BA11LF",0.8
+3596,9337,"Henrietta House, 33 Henrietta Street Bath, Bath and North East Somerset, South West, BA26LR","Henrietta House, 27-29, Henrietta Street, , GB, Bath and North East Somerset, South West, BA26LR",0.8
+3649,6307,"The Old Mill Hotel, Toll Bridge Road Batheaston BatheastonBath, Bath and North East Somerset, South West, BA17DE","The Old Mill Hotel, Toll Bridge Road, Bath and North East Somerset, South West, BA17DE",0.8
+3665,8265,"The Halcyon, SOUTH PARADE, 2-3 BATH, Bath and North East Somerset, South West, BA24AA","Hotel Indigo, 2-8, South Parade, Bath, , GB, Bath and North East Somerset, South West, BA24AA",0.8571
+3699,4043,"Number 17 Bath, 17 Pulteney Road Bath, Bath and North East Somerset, South West, BA24EZ","The Bird Hotel, 18-19, Pulteney Road, Bath and North East Somerset, South West, BA24EZ",0.8
+3719,8682,"Apex City of Bath Hotel, 1 James Street West Bath, Bath and North East Somerset, South West, BA12DA","Apex City of Bath Hotel, James Street West, Bath, Bath and North East Somerset, South West, BA12DA",0.8077
+3758,4183,"Eight, 3 North Parade Passage Bath, Bath and North East Somerset, South West, BA11NX","eight, 3, North Parade Passage, Bath and North East Somerset, South West, BA11NX",0.825
+3901,7020,"Kaim Park Hotel, EDINBURGH ROAD, 17 BATHGATE, WEST LOTHIAN, EH481EP","Kaim Park Hotel, Edinburgh Road, Bathgate, West Lothian, EH481EP",0.871
+3905,4758,"Premier Inn Livingston, Starlaw Road LIVINGSTON, West Lothian, EH481LQ","Premier Inn Bathgate, Starlaw Road, Bathgate, West Lothian, EH481LQ",0.8
+4034,5751,"Castle Court, Castle Square Beaumaris, Isle of Anglesey, LL588DA","Castle Court, Beaumaris, Isle of Anglesey, LL588DA",0.816
+4066,10045,"Waveney House Hotel, Puddingmoor BecclesSuffolk, East Suffolk, East of England, NR349PL","Waveney House Hotel, Puddingmoor, Beccles, East Suffolk, East of England, NR349PL",0.8
+4212,6752,"Burnhouse Manor Hotel, Barmill Road Burnhouse  Ayrshire, North Ayrshire, KA151LJ","Burnhouse Manor Hotel, Barrmill Road, Burnhouse, North Ayrshire, KA151LJ",0.8324
+4253,8521,"Ibis Belfast City Centre, 100 Castle Street Nothern Ireland Belfast, BT11HF","Ibis, 100, Castle Street, Belfast, BT11HF",0.8857
+4262,3097,"Premier Inn Belfast City Centre, Alfred Street Belfast Northern Ireland, BT28ED","Premier Inn, Alfred Street, Belfast, , United Kingdom, BT28ED",0.8963
+4586,11159,"Dark Island, Liniclate Isle of BenbeculaOuter Hebrides, Na h-Eileanan Siar, HS75PJ","Dark Island Hotel, Isle of Benbecula, , GB, Na h-Eileanan Siar, HS75PJ",0.8
+4608,951,"The Kings Arms Hotel, 43 Hide Hill Berwick-upon-Tweed Northumberland, North East, TD151EJ","Kings Arms Hotel, 43, Hide Hill, Berwick Upon Tweed, Northumberland, , United Kingdom, North East, TD151EJ",0.8714
+4862,8431,"Bexleyheath Marriott Hotel, 1 Broadway BexleyheathEngland, London, DA67JZ","Bexleyheath Marriott Hotel, 1, Broadway, Bexleyheath, Kent, , GB, London, DA67JZ",0.8371
+4872,10772,"Almond Tree Hotel, 1 Murdock Road BicesterOxon, Cherwell, South East, OX264PP","Almond Tree Hotel, Murdock Road, Bicester, Cherwell, South East, OX264PP",0.8
+5113,11228,"Holiday Inn Birmingham Airport, Coventry Rd  Birmingham, Solihull, West Midlands, B263QW","Holiday Inn, Coventry Road, Solihull, , GB, West Midlands, B263QW",0.875
+5116,1654,"Castle Bromwich Hall Hotel, Chester Road Birmingham, Solihull, West Midlands, B369DE","Castle Bromwich Hall Hotel, Chester Road, Solihull, , United Kingdom, West Midlands, B369DE",0.8
+5119,3822,"Hilton Garden Inn Birmingham Brindley Place, 1 Brunswick Square Brindleyplace Birmingham, West Midlands, B12HW","Hilton Garden Inn Birmingham Brindleyplace, 1, Brunswick Square, Birmingham, West Midlands, B12HW",0.8395
+5137,7387,"Holiday Inn Birmingham M6 J7, Chapel Lane Great Barr Great BarrBirmingham, Sandwell, West Midlands, B437BG","Holiday Inn, Chapel Lane, Birmingham, Sandwell, West Midlands, B437BG",0.8755
+5147,4461,"Best Western Plough & Harrow Hotel, 135 Hagley Road The Plough & Harrow/135 EdgbastonBirmingham, West Midlands, B168LS","The Plough And Harrow, 135, Hagley Road, Birmingham, , GB, West Midlands, B168LS",0.8
+5149,4557,"Novotel Wolverhampton, Union Street Wolverhampton, West Midlands, WV13JN","Novotel Wolverhampton, Union Street, Wolverhampton, West Midlands, WV13JN",0.8852
+5175,4515,"Cobden Hotel Birmingham, 166 Hagley Rd Birmingham, West Midlands, B169NZ","Cobden Hotel, 166-174, Hagley Road, Birmingham, , GB, West Midlands, B169NZ",0.8653
+5199,5478,"Travelodge Birmingham Central Moor Street, Carrs Lane Birmingham, West Midlands, B47SS","Travelodge Birmingham Central Moor Street, Carrs Lane, Birmingham, West Midlands, B47SS",0.8821
+5206,7130,"Quality Hotel Wolverhampton, Tettenhall Road 60 Wolverhampton, West Midlands, WV14SW","Quality Hotel, 40-50, Tettenhall Road, Wolverhampton, West Midlands, WV14SW",0.8727
+5233,11189,"The Arden Hotel & Leisure Club, Coventry Road, Bickenhill BickenhillSolihull, West Midlands, B920EH","Arden Hotel, Coventry Road, Birmingham, , GB, Solihull, West Midlands, B920EH",0.8
+5257,5138,"Metro Inns Walsall, Birmingham Rd Walsall, West Midlands, WS53AB","Metro Inns Walsall, Birmingham Road, Walsall, West Midlands, WS53AB",0.8786
+5260,4422,"Radisson Blu Hotel Birmingham, 12 Holloway Circus QueenswayBirmingham, West Midlands, B11BT","Radisson Blu hotel, 12, Holloway Circus Queensway, Birmingham, West Midlands, B11BT",0.825
+5272,5509,"Best Western Plus Windmill Village Hotel, Birmingham Road Allesley Allesley Coventry, West Midlands, CV59AL","Windmill Village Hotel, Birmingham Road, Coventry, West Midlands, CV59AL",0.8557
+5281,8583,"ibis Birmingham International Airport NEC, Ambassador Road Bickenhill, Solihull BIRMINGHAM, West Midlands, B263AW","Ibis Budget, Ambassador Road, Birmingham, Solihull, West Midlands, B263AW",0.8
+5300,7756,"The Jacobean Hotel, Holyhead Road Coventry, West Midlands, CV58HX","The Jacobean, Holyhead Road, Coventry, West Midlands, CV58HX",0.8745
+5345,6658,"Strawberry Bank Hotel, Main Rd Meriden MeridenCoventryWest Midlands, Solihull, CV77NF","Strawberry Bank Hotel & Restaurant, 72, Main Road, Meriden, , GB, Solihull, West Midlands, CV77NF",0.8625
+5352,4501,"Lucas House Hotel, 48 Edgbaston Park Road Lucas House Reception48 Edgbaston Park RoadEdgbaston, Birmingham, West Midlands, B152RA","Lucas House, Edgbaston Park Road, Birmingham, West Midlands, B152RA",0.8269
+5358,11198,"Forest Hotel, Station Approach DorridgeSolihull, West Midlands, B938JA","The Forest Hotel, Station Approach, Solihull, West Midlands, B938JA",0.8
+5427,8065,"The Castle Hotel, Market Square Shropshire, West Midlands, SY95BN","Castle Hotel, Market Square, Bishop's Castle, Shropshire, West Midlands, SY95BN",0.8
+5517,5504,"Forshaws Hotel, Sure Hotel Collection by Best Western, Blackpool, Talbot Square Blackpool, FY11ND","Forshaws Hotel, Talbot Square, Blackpool, FY11ND",0.8938
+5579,2308,"The Pilatus Guest house, Willshaw Road, 10 BLACKPOOL, North West, FY29SH","The Pilatus, 10, Willshaw Road, Blackpool, , United Kingdom, North West, FY29SH",0.869
+5654,2327,"Number 42, King Edward Ave Blackpool, North West, FY29TA","King Edward Hotel, 44, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TA",0.8727
+5654,2328,"Number 42, King Edward Ave Blackpool, North West, FY29TA","Number 42, 42, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TA",0.8727
+5675,2294,"The Grosvenor View Guest house, King Edward Avenue, 7 BLACKPOOL, North West, FY29TD","Grosvenor View, 7, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TD",0.8842
+5686,2293,"The Alpha Guest Accommodation, King Edward Avenue, 9 BLACKPOOL, North West, FY29TD","The Alpha, 9, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TD",0.8842
+5744,2304,"The Sefton Hotel, Northumberland Avenue, 16 BLACKPOOL, North West, FY29SB","Sefton Hotel, 16, Northumberland Avenue, Blackpool, , United Kingdom, North West, FY29SB",0.88
+5797,2494,"St Albans Hotel Guest House, 355 Promenade South Shore Blackpool Lancashire, North West, FY16BJ","St Albans, 355, Promenade, Blackpool, , United Kingdom, North West, FY16BJ",0.88
+5820,3637,"The New Guilderoy Hotel, 59 Holmfield Rd North Shore Blackpool North Shore, North West, FY29RU","New Guilderoy Hotel, 59, Holmfield Road, Blackpool, , United Kingdom, North West, FY29RU",0.8769
+6103,2377,"New Odyssey Hotel, 4 6 Burlington Road Blackpool, North West, FY41NL","New Odyssey Hotel, 4, Burlington Road West, Blackpool, , United Kingdom, North West, FY41NL",0.8571
+6207,2444,"The Kings Cross Hotel, 44 Charnley Rd Blackpool, North West, FY14PF","Kingsway Hotel, 68, Charnley Road, Blackpool, , United Kingdom, North West, FY14PF",0.852
+6274,2476,"The Vernon, 6-8 Wellington Road Blackpool, North West, FY16AR","The Vernon, Wellington Road, Blackpool, , United Kingdom, North West, FY16AR",0.8689
+6283,10831,"Adelaide Lodge, 100 Adelaide Street Blackpool, North West, FY14LA","Adelaide House Hotel, 66-68, Adelaide Street, Blackpool, North West, FY14LA",0.8127
+6293,2542,"HY Hotel BW Premier Collection, 318-328 Clifton Dr N Lytham Saint Annes, Fylde, North West, FY82PB","HY Hotel, 318-328, Clifton Drive North, Lytham St Annes, , United Kingdom, Fylde, North West, FY82PB",0.8053
+6586,10515,"The Seaview Hotel, Seaview Road Boddam, Aberdeenshire, AB423NS","Seaview Hotel, Seaview Road, Boddam, , GB, Aberdeenshire, AB423NS",0.8
+6755,8903,"Britannia Hotel Bolton, Beaumont Road Bolton, North West, BL34TA","Britannia Hotel, Beaumont Road, Bolton, North West, BL34TA",0.8438
+6801,6245,"ibis London Elstree Borehamwood, Elstree Way BorehamwoodLondon, Hertsmere, East of England, WD61JY","Ibis, Elstree Way, Borehamwood, Hertsmere, East of England, WD61JY",0.8
+6802,5577,"Travelodge Borehamwood Hotel, Elstree Way Borehamwood BorehamwoodLondon, Hertsmere, East of England, WD61SD","Travelodge, Elstree Way, Borehamwood, Hertsmere, East of England, WD61SD",0.8
+6818,8644,"Borrowdale Gates Hotel, Grange-in-Borrowdale KeswickCumbria, Cumberland, North West, CA125UQ","Borrowdale Gates Hotel, Grange, Cumberland, North West, CA125UQ",0.899
+6949,6116,"The New England Hotel, Wide Bargate Boston, East Midlands, PE216SH","The New England Hotel, 49, Wide Bargate, Boston, , GB, East Midlands, PE216SH",0.8211
+7363,6970,"Premier Inn Silverstone, Brackley Hatch Syresham Brackley, West Northamptonshire, East Midlands, NN135TX","Premier Inn Silverstone Hotel, Brackley, , GB, West Northamptonshire, East Midlands, NN135TX",0.8
+7372,3272,"Hilton Bracknell, Bagshot Road  Bracknell, Bracknell Forest, South East, RG120QJ","Village Hotel Bracknell, Bagshot Road, Bracknell, , GB, Bracknell Forest, South East, RG120QJ",0.8681
+7383,9040,"The Admiral Cunningham Hotel, Priestwood Court Road BracknellBerkshire, Bracknell Forest, South East, RG421TU","The Admiral Cunningham, Priestwood Court Road, Bracknell, Bracknell Forest, South East, RG421TU",0.8066
+7521,7647,"Farlam Hall Country House Hotel, Hallbankgate Cumbria, Cumberland, North West, CA82NG","Farlam Hall, Brampton, Cumberland, North West, CA82NG",0.8
+7568,6102,"The Great Eastern Hotel, High Street Suffolk  Brandon, West Suffolk, East of England, IP270AX","Great Eastern Hotel, High Street, Brandon, West Suffolk, East of England, IP270AX",0.8571
+7776,6690,"Holiday Inn Brentwood M25 Jct. 28, Brook Street Brentwood, East of England, CM145NF","Holiday Inn, Brook Street, Brentwood, East of England, CM145NF",0.8511
+7909,5270,"The Tudor Hotel & Restaurant, 21 St Mary's Street Bridgwater, Somerset, South West, TA63LX","The Tudor Hotel & Restaurant, 21-25, St Mary Street, Bridgwater, Somerset, , GB, South West, TA63LX",0.88
+7910,9757,"Holiday Inn Express Bridgwater M5, Market Way, Bridgwater, , United Kingdom, Somerset, South West, TA66DF","Holiday Inn Express, Market Way, Bridgwater, Somerset, , GB, South West, TA66DF",0.8609
+8090,95,"Mon Fort Guesthouse, 1 Tennyson Avenue, East Riding of Yorkshire, Yorkshire and The Humber, YO152EU","The Mon Fort Hotel, 1, Tennyson Avenue, Bridlington, , United Kingdom, East Riding of Yorkshire, Yorkshire and The Humber, YO152EU",0.8087
+8202,9186,"ibis Brighton City Centre, 88 92 Queens Roadeast Sussex East Sussex East SussexBrighton, Brighton and Hove, South East, BN13XE","Ibis Brighton City Centre, 88-92, Queen's Road, Brighton, , GB, Brighton and Hove, South East, BN13XE",0.8091
+8207,5394,"Mercure Brighton Seafront Hotel, 149 Kings Road  BrightonEast Sussex, Brighton and Hove, South East, BN12PP","Mercure Brighton Seafront, 149, Kings Road, Brighton, Brighton and Hove, South East, BN12PP",0.8818
+8212,7807,"The Grand Brighton, 97 99 Kings Road BrightonEast Sussex, Brighton and Hove, South East, BN12FW","The Grand Hotel, 97-99, King's Road, Brighton, Brighton and Hove, South East, BN12FW",0.8588
+8220,3323,"Ambassador Hotel, 22 23 New Steine Brighton PierBrighton, Brighton and Hove, South East, BN21PD","Ambassador Hotel, 22,23, New Steine, Brighton, , GB, Brighton and Hove, South East, BN21PD",0.8429
+8223,5369,"Adelaide House, 51 Regency Square Brighton, Brighton and Hove, South East, BN12FF","Adelaide House, 51, Regency Square, Brighton, , GB, Brighton and Hove, South East, BN12FF",0.8
+8225,5574,"Preston Park Hotel, 216 Preston Road  BrightonEast Sussex, Brighton and Hove, South East, BN16UU","Preston Park Hotel, 216, Preston Road, Brighton, Brighton and Hove, South East, BN16UU",0.8946
+8237,5395,"The Brighton Hotel, 143-145 Kings Road BrightonEast Sussex, Brighton and Hove, South East, BN12PQ","Brighton Hotel, 143-145, Kings Road, Brighton, Brighton and Hove, South East, BN12PQ",0.8818
+8268,11133,"Premier Inn Brighton City Centre, 144 North Street BrightonEast Sussex, Brighton and Hove, South East, BN11RE","Premier Inn Brighton City Centre, 144, North Street, Brighton, Brighton and Hove, South East, BN11RE",0.8946
+8282,2689,"Britannia Study Hotel, 150 Western Road BrightonEast Sussex, Brighton and Hove, South East, BN12DA","Britannia Study Hotel, 150, Western Road, Brighton, , United Kingdom, Brighton and Hove, South East, BN12DA",0.8946
+8359,5860,"Queens Square Brighton Guest Homes, Flat 1 4 Queens Square, Brighton and Hove, South East, BN13FD","Q Square, 11, Queen Square, Brighton, Brighton and Hove, South East, BN13FD",0.888
+8574,5755,"Rounceval House Hotel, Rounceval Street BRISTOL, South Gloucestershire, South West, BS376AR","Rounceval House Hotel, 64, Rounceval Street, Chipping Sodbury, South Gloucestershire, South West, BS376AR",0.8
+8609,3844,"Ibis Bristol Temple Meads, Avon Street Bristol, Bristol, City of, South West, BS20PS","Hotel Ibis, Anvil Street, Bristol, Bristol, City of, South West, BS20PS",0.8348
+8616,8289,"Cameley Lodge, Cameley Temple Cloud Temple CloudBristol, Bath and North East Somerset, South West, BS395AH","Cameley Lodge, Temple Cloud, Bath and North East Somerset, South West, BS395AH",0.8
+8632,2194,"Grasmere Court, 22-24 Bath Road Keynsham KeynshamBristol, Bath and North East Somerset, South West, BS311SN","Grasmere Court Hotel, 22-24, Bath Road, Bristol, , United Kingdom, Bath and North East Somerset, South West, BS311SN",0.8
+8640,4601,"Berwick Lodge, Berwick Drive HenburyBristol, South Gloucestershire, South West, BS107TD","Berwick Lodge, Berwick Drive, Bristol, South Gloucestershire, South West, BS107TD",0.8
+9214,1793,"Edinburghhouse Hotel, 90-92 Pilrig Street EdinburghMidlothian, City of Edinburgh, EH65AY","Edinburgh House Hotel, 90-92, Pilrig Street, Edinburgh, , United Kingdom, City of Edinburgh, EH65AY",0.8696
+9229,1606,"The Wine House 1821, 4 Picardy Place New Town Edinburgh, City of Edinburgh, EH13JT","The Wine House Hotel 1821, 4, Picardy Place, Edinburgh, , United Kingdom, City of Edinburgh, EH13JT",0.8
+9354,4510,"The Springs & Golf Club, Wallingford Road WALLINGFORD, South Oxfordshire, South East, OX106BE","The Springs Hotel, 1, Wallingford Road, North Stoke, South Oxfordshire, South East, OX106BE",0.8
+9525,10010,"The Greyhound Hotel, 3 Garth Rd Builth WellsPowysMid Wales, LD23AR","Greyhound, 3, Garth Road, Builth Wells, Powys, LD23AR",0.8667
+9567,11096,"The Swan Inn, Swinbrook Near BurfordOxon, West Oxfordshire, South East, OX184DY","The Swan, West Oxfordshire, South East, OX184DY",0.8
+9613,3257,"Creeksea Place Barns, Creeksea Place Farm Ferry Road Burnham On Crouch Burnham on CrouchEssex, Maldon, East of England, CM08PJ","Creeksea Place Barns, Ferry Road, Burnham-on-Crouch, , United Kingdom, Maldon, East of England, CM08PJ",0.8268
+9694,6829,"Premier Inn Burton On Trent Central, Wellington Road Burton On Trent Staffordshire, East Staffordshire, West Midlands, DE142DQ","Premier Inn, Wellington Road, Burton-on-Trent, East Staffordshire, West Midlands, DE142DQ",0.8
+9695,6536,"Dovecliff Hall Hotel, Dovecliff Road Stretton StrettonBurton upon TrentStaffordshire, East Staffordshire, West Midlands, DE130DJ","Dovecliff Hall Hotel, Dovecliff Road, Burton-on-Trent, East Staffordshire, West Midlands, DE130DJ",0.8
+9701,163,"Grail Court Hotel, Station street Burton-Upon-TrentStaffordshire, East Staffordshire, West Midlands, DE141BN","Grail Court Hotel, Station Street, Burton-on-Trent, , United Kingdom, East Staffordshire, West Midlands, DE141BN",0.8
+9704,344,"Three Queens Hotel, One Bridge Street Burton upon TrentStaffordshire, East Staffordshire, West Midlands, DE141SY","Three Queen's Hotel, 1, Bridge Street, Burton-on-Trent, , United Kingdom, East Staffordshire, West Midlands, DE141SY",0.8
+9709,2108,"Hoar Cross Hall, Maker Lane.Hoar Cross Hoar CrossBurton upon TrentStaffordshire, East Staffordshire, West Midlands, DE138QS","Hoar Cross Hall, Maker Lane, Burton-on-Trent, , United Kingdom, East Staffordshire, West Midlands, DE138QS",0.8
+9746,8263,"The Grange Hotel, Barton Road Thurston Bury St EdmundsThurstonSuffolk, Mid Suffolk, East of England, IP313PQ","The Grange Hotel, Barton Road, Bury St Edmunds, Mid Suffolk, East of England, IP313PQ",0.8
+9747,165,"The Bull Inn, The Street Barton Mills Barton MillsMildenhall Bury St Edmunds, West Suffolk, East of England, IP286AA","The Bull Inn, The Street, Bury St Edmunds, , United Kingdom, West Suffolk, East of England, IP286AA",0.8
+9800,8263,"The Grange Hotel, Barton Road Thurston Bury St EdmundsThurstonSuffolk, Mid Suffolk, East of England, IP313PQ","The Grange Hotel, Barton Road, Bury St Edmunds, Mid Suffolk, East of England, IP313PQ",0.8
+9801,165,"The Bull Inn, The Street Barton Mills Barton MillsMildenhall Bury St Edmunds, West Suffolk, East of England, IP286AA","The Bull Inn, The Street, Bury St Edmunds, , United Kingdom, West Suffolk, East of England, IP286AA",0.8
+9893,5062,"The Palace Hotel Buxton and Spa, Palace Road Buxton, High Peak, East Midlands, SK176AG","Palace Hotel, Palace Road, Buxton, High Peak, East Midlands, SK176AG",0.8673
+10372,5230,"Travelodge Cambridge Fourwentways, A11 Fourwentways Abington Cambridge, South Cambridgeshire, East of England, CB216AP","Travelodge, Fourwentways Services, Cambridge, South Cambridgeshire, East of England, CB216AP",0.8023
+10392,5580,"Premier Inn Cambridge North, Huntingdon Road GirtonCambridgeshire, East of England, CB30DL","Premier Inn Cambridge North (Girton), Huntingdon Road, Cambridge, East of England, CB30DL",0.8
+10664,1769,"Argyll Arms Hotel, Main Street CampbeltownArgyll, Argyll and Bute, PA286AB","The Argyll Arms, Main Street, Campbeltown, , GB, Argyll and Bute, PA286AB",0.8
+10665,1419,"Carradale Hotel, Argyll Argyll, Argyll and Bute, PA286RY","Carradale Hotel, B879, Carradale, , GB, Argyll and Bute, PA286RY",0.8
+10668,2706,"Craigard House Hotel, Low Askomil CampbeltownArgyll, Argyll and Bute, PA286EP","Craigard House - Hotel, Low Askomil, Campbeltown, , United Kingdom, Argyll and Bute, PA286EP",0.8
+10668,9721,"Craigard House Hotel, Low Askomil CampbeltownArgyll, Argyll and Bute, PA286EP","Craiguard House Hotel, High Askomill, Campbeltown, Argyll and Bute, PA286EP",0.8
+10670,1420,"Ashbank Hotel, Carradale CarradaleArgyll, Argyll and Bute, PA286RY","Ashbank Hotel, B879, Carradale, , GB, Argyll and Bute, PA286RY",0.8
+10698,818,"Cross Keys Hotel, Main Street Canonbie CanonbieDumfriesshire, Dumfries and Galloway, DG140SY","Cross Keys Hotel, B7201, Canonbie, , United Kingdom, Dumfries and Galloway, DG140SY",0.8
+10702,42,"Travelodge Canterbury Chaucer Central, IVY LANE CANTERBURY KENT, 63 CANTERBURY, South East, CT11TU","Travelodge Chaucer Central, 63, Ivy Lane, Canterbury, Kent, , GB, South East, CT11TU",0.8
+10870,11127,"Park Plaza Cardiff, Greyfriars Rd Cardiff Wales, CF103AL","Park Plaza, Greyfriars Road, Cardiff, , GB, CF103AL",0.8713
+10881,6565,"Clayton Hotel Cardiff, St Mary Street Cardiff Wales, CF101GD","Clayton Hotel, Saint Mary Street, Cardiff, CF101GD",0.871
+10884,4623,"ibis budget Cardiff Centre, Tyndall Street Cardiff, CF104BE","Ibis Budget, Tyndall Street, Cardiff, CF104BE",0.8783
+10888,3672,"Ml Lodge, 108 St Mary Street Cardiff, CF101DX","ML Lodge, Saint Mary Street, Cardiff, , United Kingdom, CF101DX",0.871
+10890,7109,"St Pierre Marriott Hotel & Country Club, St Pierre Park Chepstow, Monmouthshire, NP166YA","St Pierre Country Club, Chepstow, Monmouthshire, NP166YA",0.8356
+10915,4802,"Tadross Hotel, 271 Holton Rd Barry, Vale of Glamorgan, CF634HT","Tadross Hotel, 271, Holton Road, Vale of Glamorgan, CF634HT",0.87
+10919,3167,"Travelodge Cardiff Atlantic Wharf, Atlantic Wharf Leisure Park Hemingway Rd Cardiff, CF104JY","Travelodge, Hemingway Road, Cardiff, , GB, CF104JY",0.8769
+10940,3334,"Jolyons Boutique Hotel, Bute Cresent Cardiff, CF105AN","Jolyons Boutique Hotel, Bute Crescent, Cardiff, , United Kingdom, CF105AN",0.888
+10968,3342,"Manor Parc Hotel, Thornhill Road  Cardiff, CF149UA","Manor Parc Country Hotel & Restaurant, Thornhill Road, Cardiff, , GB, CF149UA",0.8
+10971,2573,"Glendale Hotel, Plymouth Road PenarthCardiff, Vale of Glamorgan, CF643DH","Glendale Hotel, 8-10, Plymouth Road, Penarth, , United Kingdom, Vale of Glamorgan, CF643DH",0.8
+11046,1047,"Crown And Mitre Hotel, 4 English Street CarlisleCumbria, Cumberland, North West, CA38HZ","Crown and Mitre Hotel, 4, English Street, Carlisle, , United Kingdom, Cumberland, North West, CA38HZ",0.8909
+11065,7596,"Warwick Hall Warwick On Eden CarlisleCumbria, Cumberland, North West, CA48PG","Warwick Hall, Warwick-On-Eden, Cumberland, North West, CA48PG",0.8
+11225,1983,"The Royal Station Hotel, Market Street Carnforth, Lancaster, North West, LA59BT","The Royal Station Hotel, Market Street, Carnforth, , United Kingdom, Lancaster, North West, LA59BT",0.8167
+11228,8677,"The Longlands, Tewitfield CarnforthLancashire, Lancaster, North West, LA61JH","Tewitfield Marina, Tewitfield, Lancaster, North West, LA61JH",0.8
+11373,1419,"Carradale Hotel, Argyll Argyll, Argyll and Bute, PA286RY","Carradale Hotel, B879, Carradale, , GB, Argyll and Bute, PA286RY",0.8
+11375,1420,"Ashbank Hotel, Carradale CarradaleArgyll, Argyll and Bute, PA286RY","Ashbank Hotel, B879, Carradale, , GB, Argyll and Bute, PA286RY",0.8
+11428,11213,"Donington Manor Hotel, High Street Castle Donington Castle Donington, North West Leicestershire, East Midlands, DE742PP","Donington Manor Hotel, High Street, Derby, North West Leicestershire, East Midlands, DE742PP",0.8
+11554,10550,"The Phoenix Hotel, 15 Fore Street Chard, Somerset, South West, TA201PH","The Phoenix Hotel, Fore St, Chard, Somerset, South West, TA201PH",0.8166
+11592,2598,"St George Hotel, 7 8 New Road Av Chatham, Kent, Medway, South East, ME46BB","St. George Hotel, 7-8, New Road Avenue, Chatham, , United Kingdom, Medway, South East, ME46BB",0.8538
+11593,3351,"The Charles Hotel, 15 New Road Chatham Kent, Medway, South East, ME44QJ","The Charles Hotel, New Road, Chatham, , United Kingdom, Medway, South East, ME44QJ",0.8
+11697,5797,"County Hotel, Rainsford Road ChelmsfordEssex, East of England, CM12PZ","The County Hotel & Resturant, 29, Rainsford Road, Chelmsford, East of England, CM12PZ",0.8
+11702,7704,"Premier Inn Chelmsford, Main Road Boreham BorehamChelmsford, East of England, CM33HJ","Premier Inn (Boreham), Main Road, Chelmsford, East of England, CM33HJ",0.8
+11708,7730,"Saracens Hotel, 3 High street ChelmsfordEssex, East of England, CM11BE","Saracens Head Hotel, 3, High Street, Chelmsford, East of England, CM11BE",0.8347
+11733,5779,"Queens Hotel Cheltenham MGallery by Sofitel, The Promenade Cheltenham, South West, GL501NN","Mercure Cheltenham Queen's Hotel, The Promenade, Cheltenham, South West, GL501NN",0.8223
+11768,5780,"Holiday Inn Express Cheltenham Town Centre, Dunalley Street Cheltenham, South West, GL504AP","Holiday Inn Express, Dunalley Street, Cheltenham, South West, GL504AP",0.8
+11781,6559,"Lypiatt House, Lypiatt Road Cheltenham, South West, GL502QW","Lypiatt House Hotel, Lypiatt Road, Cheltenham, South West, GL502QW",0.8093
+11983,7109,"St Pierre Marriott Hotel & Country Club, St Pierre Park Chepstow, Monmouthshire, NP166YA","St Pierre Country Club, Chepstow, Monmouthshire, NP166YA",0.8356
+12017,4125,"Holiday Inn Chester South, Wrexham Road Chester, Cheshire West and Chester, North West, CH49DL","Holiday Inn Chester South, Wrexham Road, Chester, Cheshire West and Chester, North West, CH49DL",0.8714
+12025,2812,"Macdonald New Blossoms Hotel, St. John Street  Chester, Cheshire West and Chester, North West, CH11HL","Macdonald New Blossoms Hotel, 1, Saint John Street, Chester, , United Kingdom, Cheshire West and Chester, North West, CH11HL",0.871
+12028,7244,"The Queen at Chester Hotel, BW Premier Collection, City Road ChesterCheshire, Cheshire West and Chester, North West, CH13AH","Queen Hotel, City Road, Chester, Cheshire West and Chester, North West, CH13AH",0.8
+12029,9276,"Dene Hotel, 95 Hoole Road ChesterChesire, Cheshire West and Chester, North West, CH23ND","Dene Hotel, 95, Hoole Road, Chester, Cheshire West and Chester, North West, CH23ND",0.8944
+12038,378,"Peckforton Castle, Stone House Lane TARPORLEY, Cheshire East, North West, CW69TN","Peckforton Castle, Stone House Lane, , United Kingdom, Cheshire East, North West, CW69TN",0.8
+12091,436,"Belgrave, City Road Chester, Cheshire West and Chester, North West, CH13AE","Belgrave Hotel, 61, City Road, Chester, , United Kingdom, Cheshire West and Chester, North West, CH13AE",0.8
+12092,3980,"The Park Royal QHotels, Stretton Road Stretton Stretton Warrington, North West, WA44NS","Park Royal Hotel, Stretton Road, Warrington, North West, WA44NS",0.8285
+12093,11244,"Mill Hotel & Spa Destination, Milton Street Chester, Cheshire West and Chester, North West, CH13NF","Mill Hotel & Spa, Milton Street, Chester, Cheshire West and Chester, North West, CH13NF",0.89
+12098,4029,"Campanile Runcorn, Lowlands Road  Runcorn Cheshire, Halton, North West, WA75TP","Campanile, Lowlands Road, Runcorn, Halton, North West, WA75TP",0.8
+12104,1310,"Crown Hotel, HIGH STREET, NANTWICH CREWE, Cheshire East, North West, CW55AS","Crown Hotel, Bar & Grill, High Street, Nantwich, , United Kingdom, Cheshire East, North West, CW55AS",0.8
+12123,6275,"Travelodge Middlewich, A54 Holmes Chapel Road Middlewich Cheshire, Cheshire East, North West, CW100JB","Travelodge Middlewich Hotel, Holmes Chapel Road, Middlewich, Cheshire East, North West, CW100JB",0.8239
+12134,7509,"Cottons, Manchester Road Knutsford Cheshire, Cheshire East, North West, WA160SU","Cottons Hotel & Spa, Manchester Road, Knutsford, Cheshire East, North West, WA160SU",0.8652
+12135,9719,"The Patten Arms Hotel, Parker Street Warrington, North West, WA11LS","Patten Arms Hotel, Parker Street, Warrington, North West, WA11LS",0.8794
+12141,3213,"Hamilton Court Guest House, Hamilton St Chester, Cheshire West and Chester, North West, CH23JG","Hamilton Court Hotel, 5-7, Hamilton Street, Chester, , United Kingdom, Cheshire West and Chester, North West, CH23JG",0.8538
+12145,9698,"De Trafford By Good Night Inns, Congleton Road Alderley EdgeWilmslowCheshire, Cheshire East, North West, SK97AA","De Trafford Arms Hotel, 2, Congleton Road, Alderley Edge, Cheshire East, North West, SK97AA",0.8
+12146,7449,"Premier Inn Chester Central North, 76 Liverpool Road Chester ChesterCheshire, Cheshire West and Chester, North West, CH21AU","Premier Inn, 76, Liverpool Road, Chester, Cheshire West and Chester, North West, CH21AU",0.8945
+12147,8327,"Premier Inn Chester Central, Caldy Valley Road BoughtonChester, Cheshire West and Chester, North West, CH35PR","Premier Inn Chester Central South East, Caldy Valley Road, Chester, Cheshire West and Chester, North West, CH35PR",0.8
+12156,6802,"Premier Inn Manchester Wilmslow, Racecourse Road Wilmslow WilmslowCheshire, Cheshire East, North West, SK95LR","Premier Inn Manchester (Wilmslow), Racecourse Road, Cheshire East, North West, SK95LR",0.8
+12178,4125,"Holiday Inn Chester South, Wrexham Road Chester, Cheshire West and Chester, North West, CH49DL","Holiday Inn Chester South, Wrexham Road, Chester, Cheshire West and Chester, North West, CH49DL",0.8714
+12184,2812,"Macdonald New Blossoms Hotel, St. John Street  Chester, Cheshire West and Chester, North West, CH11HL","Macdonald New Blossoms Hotel, 1, Saint John Street, Chester, , United Kingdom, Cheshire West and Chester, North West, CH11HL",0.871
+12186,7244,"The Queen at Chester Hotel, BW Premier Collection, City Road ChesterCheshire, Cheshire West and Chester, North West, CH13AH","Queen Hotel, City Road, Chester, Cheshire West and Chester, North West, CH13AH",0.8
+12187,9276,"Dene Hotel, 95 Hoole Road ChesterChesire, Cheshire West and Chester, North West, CH23ND","Dene Hotel, 95, Hoole Road, Chester, Cheshire West and Chester, North West, CH23ND",0.8944
+12206,436,"Belgrave, City Road Chester, Cheshire West and Chester, North West, CH13AE","Belgrave Hotel, 61, City Road, Chester, , United Kingdom, Cheshire West and Chester, North West, CH13AE",0.8
+12207,11244,"Mill Hotel & Spa Destination, Milton Street Chester, Cheshire West and Chester, North West, CH13NF","Mill Hotel & Spa, Milton Street, Chester, Cheshire West and Chester, North West, CH13NF",0.89
+12220,3213,"Hamilton Court Guest House, Hamilton St Chester, Cheshire West and Chester, North West, CH23JG","Hamilton Court Hotel, 5-7, Hamilton Street, Chester, , United Kingdom, Cheshire West and Chester, North West, CH23JG",0.8538
+12222,7449,"Premier Inn Chester Central North, 76 Liverpool Road Chester ChesterCheshire, Cheshire West and Chester, North West, CH21AU","Premier Inn, 76, Liverpool Road, Chester, Cheshire West and Chester, North West, CH21AU",0.8945
+12223,8327,"Premier Inn Chester Central, Caldy Valley Road BoughtonChester, Cheshire West and Chester, North West, CH35PR","Premier Inn Chester Central South East, Caldy Valley Road, Chester, Cheshire West and Chester, North West, CH35PR",0.8
+12228,9379,"The Pheasant Inn, Higher Burwardsley Tattenhall TattenhallCheshire, Cheshire West and Chester, North West, CH39PF","Pheasant Inn, Chester, Cheshire West and Chester, North West, CH39PF",0.8
+12273,6938,"Casa Hotel, Lockoford Lane Chesterfield, East Midlands, S417JB","Casa Hotel, Lockoford Lane, Chesterfield, East Midlands, S417JB",0.8267
+12361,1530,"Millstream Hotel and Restaurant, Bosham Lane Bosham  Chichester, South East, PO188HL","Millstream Hotel, Bosham Lane, Chichester, , United Kingdom, South East, PO188HL",0.8276
+12457,9983,"Sign of the Angel, 6 Church Street Chippenham LacockChippenham, Wiltshire, South West, SN152LB","At the Sign of the Angel, Church Street, Lacock, Wiltshire, South West, SN152LB",0.8
+12503,9208,"Eight Bells Inn, Church Street Chipping CampdenGloucestershire, Cotswold, South West, GL556JG","Eight Bells, Church Street, Cotswold, South West, GL556JG",0.802
+12726,10862,"Corinium Hotel & Restaurant, 12 Gloucester Street Cirencester CirencesterGloucestershire, Cotswold, South West, GL72DG","The Corinium Hotel And Restaurant, 12, Gloucester Street, Cotswold, South West, GL72DG",0.8036
+12750,3560,"Thames Head Inn, Tetbury Road Cirencester, Cotswold, South West, GL76NZ","The Thames Head Inn, Tetbury Road, Cotswold, , United Kingdom, South West, GL76NZ",0.8
+12965,6193,"Hilton Cobham, Seven Hills Road South Cobham, Elmbridge, South East, KT111EW","Hilton Cobham, Seven Hills Road, Cobham, Elmbridge, South East, KT111EW",0.8526
+13053,10935,"Riverside Hotel, 2 North Station Rd ColchesterEssex, East of England, CO11RB","Riverside Hotel, 2, North Station Road, Colchester, , GB, East of England, CO11RB",0.8824
+13065,7770,"The Railway Sleeper Lodge, Bergholt Road EssexColchester, East of England, CO45AJ","Railway Sleeper Lodge, 172, Bergholt Road, Colchester, East of England, CO45AJ",0.8
+13170,7717,"The Norfolk Mead Hotel, Church Loke Coltishall ColtishallNorfolk, Broadland, East of England, NR127DN","Norfolk Mead Hotel & Spa, Church Loke, Broadland, East of England, NR127DN",0.8
+13233,617,"Comrie Hotel, Drummond Street ComriePerthshire, Perth and Kinross, PH62DY","Comrie Hotel, Drummond Street, Comrie, , United Kingdom, Perth and Kinross, PH62DY",0.8
+13239,8856,"Alexandra Court Hotel, 7 Newcastle Road CongletonCheshire, Cheshire East, North West, CW124HN","Alexandra Court Hotel, 7, Newcastle Road, Cheshire East, North West, CW124HN",0.8348
+13442,7929,"Premier Inn Corby, 1 Little Colliers Field CorbyNorthants, North Northamptonshire, East Midlands, NN188TJ","Premier Inn, 1, Little Collier's Field, Corby, , GB, North Northamptonshire, East Midlands, NN188TJ",0.8791
+13686,3562,"Meudon Hotel, Mawnan Smith Cornwall, South West, TR115HT","Hotel Meudon, Mawnan Smith, Mawnan Smith, , United Kingdom, Cornwall, South West, TR115HT",0.8
+13824,5049,"The Atlantic Hotel, Dane Road Newquay, Cornwall, South West, TR71EN","Atlantic Hotel, Dane Road, Newquay, Cornwall, South West, TR71EN",0.8987
+13847,2619,"Membly Hall Hotel, Cliff Road, Cornwall, South West, TR114NT","Membly Hall, 12, Cliff Road, Falmouth, , GB, Cornwall, South West, TR114NT",0.8618
+13986,8300,"The St Ives Bay Hotel, The Terrace St Ives, Cornwall, South West, TR262BP","St Ives Bay Hotel, The Terrace, St Ives, , GB, Cornwall, South West, TR262BP",0.8
+14041,1967,"The Bay Hotel, Bay Hotel North Corner Coverack CoverackHelston, Cornwall, South West, TR126TF","Bay Hotel, North Corner, Coverack, , United Kingdom, Cornwall, South West, TR126TF",0.8
+14294,6337,"The Penellen Bed And Breakfast, 64 Riviere Towans Phillack Hayle, Cornwall, South West, TR275AF","The Penellen Bed and Breakfast, 64, Riviere Towans, Hayle, , GB, Cornwall, South West, TR275AF",0.827
+14294,6337,"The Penellen Bed And Breakfast, 64 Riviere Towans Phillack Hayle, Cornwall, South West, TR275AF","The Penellen Bed and Breakfast, 64, Riviere Towans, Hayle, , GB, Cornwall, South West, TR275AF",0.827
+16302,7756,"The Jacobean Hotel, Holyhead Road Coventry, West Midlands, CV58HX","The Jacobean, Holyhead Road, Coventry, West Midlands, CV58HX",0.8745
+16379,2713,"The Anchor Inn, 1 3 High Street, Isle of Wight, South East, PO317SA","The Anchor Inn, 1, High Street, Cowes, , GB, Isle of Wight, South East, PO317SA",0.8
+16744,617,"Comrie Hotel, Drummond Street ComriePerthshire, Perth and Kinross, PH62DY","Comrie Hotel, Drummond Street, Comrie, , United Kingdom, Perth and Kinross, PH62DY",0.8
+16778,957,"Hotel De Paris, High Street CromerNorfolk, North Norfolk, East of England, NR279HG","Hotel de Paris, High Street, Cromer, , United Kingdom, North Norfolk, East of England, NR279HG",0.8
+16840,7502,"Dial House Hotel, 62 Dukes Ride CrowthorneBerkshire, Bracknell Forest, South East, RG456DL","Dial House Hotel, 62, Duke's Ride, Crowthorne, , GB, Bracknell Forest, South East, RG456DL",0.8571
+16841,6900,"Premier Inn London Croydon Town Centre, Phillips House 6 Lansdowne Road 6 Lansdowne RoadCroydon, London, CR02BX","Premier Inn, 6, Lansdowne Road, Croydon, London, CR02BX",0.8615
+16849,2930,"Kirkdale Hotel, 22 St Peters Road CroydonSurrey, London, CR01HD","Kirkdale Hotel, 22, St. Peter's Road, Croydon, , United Kingdom, London, CR01HD",0.8814
+16857,5814,"Premier Inn London Croydon South, 104 Coombe Road CroydonSurrey, London, CR05RB","Premier Inn Croydon South, 104, Coombe Road, Croydon, London, CR05RB",0.8833
+16858,5403,"Premier Inn London Croydon Purley A23, The Colonnades Leisure Park 619 Purley Way  Croydon Surrey 619 Purley WayCroydonSurrey, London, CR04RQ","Premier Inn Croydon West, 619, Purley Way, Croydon, London, CR04RQ",0.8818
+16899,9128,"Ockenden Manor Hotel & Spa, Ockenden Lane Cuckfield Cuckfield West Sussex, Mid Sussex, South East, RH175LD","Ockenden Manor Hotel & Spa, Ockenden Lane, Haywards Heath, Mid Sussex, South East, RH175LD",0.8
+16930,4698,"DoubleTree by Hilton Glasgow Westerwood Spa & Golf Resort, 1 St Andrews Drive Cumbernauld Cumbernauld, North Lanarkshire, G680EW","DoubleTree by Hilton Glasgow Westerwood Spa & Golf Resort, 1, St Andrews Drive, Glasgow, North Lanarkshire, G680EW",0.8136
+17063,7515,"Wheyrigg Hall Hotel, Wheyrigg Wheyrigg Wigton Cumbria, Cumberland, North West, CA70DH","Wheyrigg Hall Hotel, Wheyrigg, Cumberland, North West, CA70DH",0.8529
+17102,1047,"Crown And Mitre Hotel, 4 English Street CarlisleCumbria, Cumberland, North West, CA38HZ","Crown and Mitre Hotel, 4, English Street, Carlisle, , United Kingdom, Cumberland, North West, CA38HZ",0.8909
+17106,7647,"Farlam Hall Country House Hotel, Hallbankgate Cumbria, Cumberland, North West, CA82NG","Farlam Hall, Brampton, Cumberland, North West, CA82NG",0.8
+17135,7675,"Sella Park House Hotel, Calderbridge Cumbria, Cumberland, North West, CA201DW","Sella Park, Calder Bridge, Cumberland, North West, CA201DW",0.8
+17252,2237,"The Hall Park Hotel, 23 Carlton Road WorkingtonCumbria, Cumberland, North West, CA144BX","Hall Park hotel, 23, Carlton Road, Workington, , United Kingdom, Cumberland, North West, CA144BX",0.8532
+17279,8644,"Borrowdale Gates Hotel, Grange-in-Borrowdale KeswickCumbria, Cumberland, North West, CA125UQ","Borrowdale Gates Hotel, Grange, Cumberland, North West, CA125UQ",0.899
+17289,2953,"The Pennington Hotel & Inn at Ravenglass, Main Street Ravenglass, Cumberland, North West, CA181SQ","Pennington Hotel, Main Street, Ravenglass, , United Kingdom, Cumberland, North West, CA181SQ",0.8
+17320,7536,"The Golf Hotel, Criffel Street  Silloth - On - Solway, Cumberland, North West, CA74AB","The Golf Hotel, Criffel Street, Silloth, Cumberland, North West, CA74AB",0.8
+17332,2240,"The Sleepwell Inn, Washington Street Workington, Cumberland, North West, CA143AX","The Sleepwell Inn, Washington Street, Workington, , United Kingdom, Cumberland, North West, CA143AX",0.8
+17354,1452,"Manor House Hotel, 11-12 Main Street Saint BeesCumbria, Cumberland, North West, CA270DE","Manor House, 11-12, Main Street, St Bees, , United Kingdom, Cumberland, North West, CA270DE",0.8
+17388,7596,"Warwick Hall Warwick On Eden CarlisleCumbria, Cumberland, North West, CA48PG","Warwick Hall, Warwick-On-Eden, Cumberland, North West, CA48PG",0.8
+17724,7603,"Keswick Park Hotel, 33 Station Road KeswickCumbria, Cumberland, North West, CA124NA","Keswick Park Hotel, 33, Station Road, Keswick, Cumberland, North West, CA124NA",0.8846
+17811,1453,"Queens Hotel, Main Street St Bees, Cumberland, North West, CA270DE","Queens Hotel, 130, Main Street, St Bees, , United Kingdom, Cumberland, North West, CA270DE",0.82
+17951,7890,"Devonport Hotel, 16 18 The Front Middleton One Row Middleton One RowDarlingtonDurham, North East, DL21AS","The Devonport, 16-18, The Front, Darlington, North East, DL21AS",0.8463
+17965,4632,"Premier Inn Darlington East Morton Park, Morton Park Way Morton Park  Darlington Morton ParkDarlington, North East, DL14PJ","Premier Inn, Morton Park Way, Darlington, North East, DL14PJ",0.8056
+18035,3883,"Holiday Inn Express London Dartford, University Way Dartford, South East, DA15PA","Holiday Inn Express London - Dartford, University Way, Dartford, South East, DA15PA",0.8501
+18058,8743,"The Royal Castle Hotel Ltd, The Quay DartmouthDevon, South Hams, South West, TQ69PS","Royal Castle Hotel, 11, The Quay, Dartmouth, South Hams, South West, TQ69PS",0.8
+18061,8752,"Browns Hotel, 27-29 Victoria Road DartmouthDevon, South Hams, South West, TQ69RT","Browns, 27-29, Victoria Road, Dartmouth, South Hams, South West, TQ69RT",0.8
+18069,221,"Townstal Farmhouse, Townstal Road Dartmouth, South Hams, South West, TQ69HY","Townstal Farm House Hotel, Townstal Road, Dartmouth, , United Kingdom, South Hams, South West, TQ69HY",0.8184
+18201,3182,"The Clarendon Hotel, 51/53 Beach Street DealKent, Dover, South East, CT146HY","Clarendon Hotel, 51-55, Beach Street, Deal, Kent, , United Kingdom, Dover, South East, CT146HY",0.8182
+18300,4960,"Travelodge Derby Chaddesdon, Nottingham Road Chaddesden Derby ChaddesdenDerby, East Midlands, DE216LZ","Travelodge, Nottingham Road, Derby, East Midlands, DE216LZ",0.8
+18313,1153,"Holiday Inn Derby Riverlights, Morledge Derby, East Midlands, DE12AY","Holiday Inn, Derby, , United Kingdom, East Midlands, DE12AY",0.8503
+18315,360,"ibis budget Derby, B5008 Etwall Road Willington Etwall RoadWillington, South Derbyshire, East Midlands, DE656DX","Ibis Budget, Etwall Road, Derby, , United Kingdom, South Derbyshire, East Midlands, DE656DX",0.8
+18317,4957,"Travelodge Derby Cricket Ground, The County Ground Nottingham Road Nottingham RoadDerbyDerbyshire, East Midlands, DE216DA","Travelodge, Nottingham Road, Derby, East Midlands, DE216DA",0.8
+18318,11213,"Donington Manor Hotel, High Street Castle Donington Castle Donington, North West Leicestershire, East Midlands, DE742PP","Donington Manor Hotel, High Street, Derby, North West Leicestershire, East Midlands, DE742PP",0.8
+18319,4523,"Derby Mickleover Hotel, BW Signature Collection, Etwall Road Mickleover MickleoverDerby, South Derbyshire, East Midlands, DE30XX","Derby Mickleover Hotel, Etwall Road, Derby, South Derbyshire, East Midlands, DE30XX",0.8
+18320,4192,"International Hotel, 288 Burton Rd Derby, East Midlands, DE236AD","The Continental, 288-290, Burton Road, Derby, , GB, East Midlands, DE236AD",0.87
+18334,4289,"Risley Hall Hotel - Sure Hotel Collection by Best Western, Derby Road Risley Risley Derbyshire, Erewash, East Midlands, DE723SS","Risley Hall Hotel, Derby Road, Derby, Erewash, East Midlands, DE723SS",0.8
+18355,4273,"The Farmhouse, 60 Ashbourne Road DerbyEngland, Amber Valley, East Midlands, DE224LY","The Farmhouse Mackworth Hotel, 60, Ashbourne Road, Derby, Amber Valley, East Midlands, DE224LY",0.8049
+18520,721,"The Fountain Inn, Fore Street OkehamptonDevon, West Devon, South West, EX201AP","Fountain Hotel, Fore Street, Okehampton, , United Kingdom, West Devon, South West, EX201AP",0.8
+18538,5672,"Arundell Arms, Fore Street Devon, West Devon, South West, PL160AA","The Arundell, Fore Street, West Devon, South West, PL160AA",0.8444
+18704,3109,"Best Western Exmouth Beach Hotel, MORTON CRESCENT EXMOUTH, East Devon, South West, EX81BE","Best Western Exmouth Beach, 2-5, Morton Crescent, Exmouth, , United Kingdom, East Devon, South West, EX81BE",0.8982
+19078,544,"Novar Arms Hotel, Balconie Street Schottland, Highland, IV169UN","Novar Arms Hotel, Balconie Street, Evanton, , United Kingdom, Highland, IV169UN",0.8
+19079,859,"National Hotel, High Street Dingwall, Highland, IV159HA","The National Hotel, High Street, Dingwall, , United Kingdom, Highland, IV159HA",0.8
+19141,8067,"Royal Ship, Queens Square Dolgellau, Gwynedd, LL401AR","Royal Ship Hotel, Queen Square, Dolgellau, Gwynedd, LL401AR",0.888
+19817,4178,"Premier Inn Dover East, Jubilee Way Guston Wood Guston WoodDover Kent, South East, CT155FD","Premier Inn, Jubilee Way, Guston Wood, Dover, South East, CT155FD",0.8
+19966,949,"Benleva Hotel, Kilmore Road Drumnadrochit Loch Ness, Highland, IV636UH","Benleva Hotel, Kilmore Road, Drumnadrochit, , United Kingdom, Highland, IV636UH",0.8
+20035,2656,"Tigh na Sgiath Country House Hotel, SKYE OF CURR ROAD GRANTOWN ON SPEY, INVERNESS, Highland, PH263PA","Tigh na Sgiath, Skye of Curr Road, Dulnain Bridge, , United Kingdom, Highland, PH263PA",0.8
+20062,1520,"Premier Inn Dumbarton Loch Lomond, Lomondgate Drive Dumbarton DumbartonWest Dumbarton, West Dunbartonshire, G822QU","Premier Inn Dumbarton Loch Lomond, Lomondgate Drive, Dumbarton, , United Kingdom, West Dunbartonshire, G822QU",0.8
+20176,8398,"Travelodge Dundee Strathmore Avenue, 296A Strathmore  Dundee, Dundee City, DD36SH","Travelodge, 296A, Strathmore Avenue, Dundee, Dundee City, DD36SH",0.8615
+20205,9422,"Hotel Indigo Dundee, Lower Dens Mill Constable Street Lower Dens MillDundee, Dundee City, DD46AD","Hotel Indigo Dundee, Constable Street, Dundee, Dundee City, DD46AD",0.84
+20243,11236,"DoubleTree by Hilton Edinburgh Queensferry Crossing, St Margaret's Head North Queensferry North Queensferry, Fife, KY111HP","DoubleTree by Hilton Edinburgh - Queensferry Crossing, St Margaret's Head, North Queensferry, Fife, KY111HP",0.8
+20251,9396,"Davaar House Hotel, 126 Grieve Street  Dunfermline Dunfermline, Fife, KY128DW","Davaar House Hotel, 126, Grieve Street, Dunfermline, , GB, Fife, KY128DW",0.8176
+20263,9166,"The Guildhall and Linen Exchange, 79-83 High Street Dunfermline, Fife, KY127DR","The Guildhall & Linen Exchange, 79Ã¢ÂÂÃÂÃÂ¬83, High Street, Dunfermline, Fife, KY127DR",0.8621
+20269,3266,"Hill Park Hotel, 10 Heath Road Rosyth Rosyth, Fife, KY112BT","Hillpark Hotel, 10, Heath Road, Rosyth, , GB, Fife, KY112BT",0.8973
+20313,11149,"Dunkeld House, Blairgowrie Road DunkeldPerthshire, Perth and Kinross, PH80HX","Dunkeld House Hotel, Blairgowrie Road, Dunkeld, Perth and Kinross, PH80HX",0.8
+20315,3050,"Royal Dunkeld Hotel, Atholl Street DunkeldPerthshire, Perth and Kinross, PH80AR","Royal Dunkeld Hotel, Atholl Street, Dunkeld, , United Kingdom, Perth and Kinross, PH80AR",0.8
+20335,3301,"Park Hotel Dunoon, 3 Glenmorag Avenue The West BayDunoonArgyll, Argyll and Bute, PA237LG","Park Hotel, 3, Glenmorag Avenue, Dunoon, , GB, Argyll and Bute, PA237LG",0.8341
+20363,8671,"Culzean House Glen Finart, Argyll and Bute, PA238TT","Culzean House, Ardentinny, Argyll and Bute, PA238TT",0.8
+20390,1435,"The White Swan Hotel, 31-32 Market Square DunsBerwickshire, Scottish Borders, TD113AL","White Swan, 31-34, Market Square, Duns, , United Kingdom, Scottish Borders, TD113AL",0.8
+20479,3962,"Best Western Grand Hotel, Swainson Street HartlepoolCleveland, North East, TS248AA","The Best Western Grand Hotel, Hartlepool, Swainson Street, Hartlepool, North East, TS248AA",0.8675
+20487,4477,"Travelodge Durham, Station Lane Gilesgate GilesgateDurhamCounty Durham, North East, DH11LJ","Travelodge, Durham, County Durham, North East, DH11LJ",0.8971
+20504,3961,"Beamish Hall Country House Hotel BW Premier Collection, Beamish StanleyDurham, County Durham, North East, DH90YB","Beamish Hall Country House Hotel, Stanley, County Durham, North East, DH90YB",0.8222
+20843,8998,"Afton Hotel, 2-8 Cavendish Place EastbourneEast Sussex, South East, BN213EJ","Afton Hotel, 1-8, Cavendish Place, Eastbourne, South East, BN213EJ",0.8
+20893,9305,"Haddon Hall Hotel, Devonshire Place East Sussex Eastbourne, South East, BN214AJ","Haddon Hall, Devonshire Place, Eastbourne, South East, BN214AJ",0.8182
+21036,6741,"Premier Inn Edinburgh Airport, 5 Hallbarns Crescent Newbridge NewbridgeEdinburgh, City of Edinburgh, EH288TH","Premier Inn, 5, Hallbarns Crescent, Edinburgh, City of Edinburgh, EH288TH",0.8139
+21040,2266,"Apex Haymarket Hotel, 90 Haymarket Terrace Edinburgh, City of Edinburgh, EH125LQ","Haymarket Hotel, Haymarket Terrace, City of Edinburgh, , United Kingdom, EH125LQ",0.8498
+21082,1503,"Murrayfield Hotel, 18 Corstorphine Rd MurrayfieldEdinburgh, City of Edinburgh, EH126HN","Murrayfield Hotel, 18, Corstorphine Road, Edinburgh, , United Kingdom, City of Edinburgh, EH126HN",0.8811
+21088,1956,"Edinburgh Lodges, Nr Carberry Tower MUSSELBURGH, East Lothian, EH218PY","Edinburgh Lodges, A6124, Whitecraig, , United Kingdom, East Lothian, EH218PY",0.8
+21099,1504,"Hampton Hotel, 14 Corstorphine Road EdinburghMidlothian, City of Edinburgh, EH126HN","Hampton Hotel, 14, Corstorphine Road, Edinburgh, , United Kingdom, City of Edinburgh, EH126HN",0.8889
+21141,1599,"ibis Edinburgh Centre Royal Mile Hunter Square, 6 Hunter Square Off Royal MileEdinburgh, City of Edinburgh, EH11QW","Ibis, 6, Hunter Square, Edinburgh, , United Kingdom, City of Edinburgh, EH11QW",0.856
+21148,2096,"The Raeburn, 112 Raeburn Place StockbridgeEdinburgh, City of Edinburgh, EH41HG","The Raeburn, 112, Raeburn Place, Edinburgh, , United Kingdom, City of Edinburgh, EH41HG",0.866
+21172,3932,"The Bridge Inn, 27 Baird Road RathoMidlothian, City of Edinburgh, EH288RA","The Bridge Inn, 27, Baird Road, Ratho, City of Edinburgh, EH288RA",0.8667
+21181,7020,"Kaim Park Hotel, EDINBURGH ROAD, 17 BATHGATE, WEST LOTHIAN, EH481EP","Kaim Park Hotel, Edinburgh Road, Bathgate, West Lothian, EH481EP",0.871
+21185,7064,"The Original Rosslyn Hotel, 2-4 Main Street RoslinScotland, Midlothian, EH259LE","The Original Rosslyn Inn, Main Street, Midlothian, EH259LE",0.8
+21200,850,"Hilton Edinburgh Carlton, North Bridge 19  Edinburgh Edinburgh, EH11SD","Hilton Edinburgh Carlton, 19, North Bridge, Edinburgh, , United Kingdom, EH11SD",0.8143
+21208,2043,"B B Edinburgh, 3 Rothesay Terrace  Edinburgh, City of Edinburgh, EH37RY","The Edinburgh Residence, 7, Rothesay Terrace, Edinburgh, , United Kingdom, City of Edinburgh, EH37RY",0.8602
+21250,7254,"ibis budget Edinburgh Park, Edinburgh Business Park 6 Lochside View 6 Lochside ViewEdinburgh, City of Edinburgh, EH129DH","Ibis Budget Edinburgh Park, 6, Lochside View, Edinburgh, City of Edinburgh, EH129DH",0.8636
+21264,2638,"Fountain Court Apartments EQ2, 1 Lower Gilmore Bank Off Lower Gilmore Place Edinburgh, City of Edinburgh, EH39QP","Fountain Court EQ2, 1, Lower Gilmore Place, Edinburgh, , GB, City of Edinburgh, EH39QP",0.8869
+21292,10714,"Eight Acres Hotel & Leisure Club, Morriston Road Elgin, Moray, IV306UL","Eight Acres Hotel and Spa, Morriston Road, Elgin, Moray, IV306UL",0.8681
+21294,4332,"Premier Inn Elgin, 15 Linkwood Way ElginMoray, IV301HY","Premier Inn Elgin, 15, Linkwood Way, Elgin, Moray, IV301HY",0.8921
+21367,8621,"The Nyton Guesthouse, 7 Barton Road ElyCambridgeshire, East Cambridgeshire, East of England, CB74HZ","Nyton Hotel, 7, Barton Road, East Cambridgeshire, East of England, CB74HZ",0.8484
+21368,5943,"Lamb Hotel, 2 Lynn Rd ElyCambridgeshire, East Cambridgeshire, East of England, CB74EJ","The Lamb, 2, Lynn Road, Ely, East Cambridgeshire, East of England, CB74EJ",0.8625
+21388,9207,"The Little Downham Anchor, 25 Main Street Little DownhamEly Cambridgeshire, East Cambridgeshire, East of England, CB62ST","The Anchor, 25, Main Street, Ely, East Cambridgeshire, East of England, CB62ST",0.8276
+21391,40,"Castle Lodge, 50 New Barns Rd ElyCambs, East Cambridgeshire, East of England, CB74PW","Castle Lodge Hotel, 50, New Barns Road, Ely, , United Kingdom, East Cambridgeshire, East of England, CB74PW",0.8769
+21437,6522,"Travelodge London Enfield, 1 Lumina Way Great Cambridge RoadEnfield, London, EN11FS","Travelodge, 1, Lumina Way, Enfield, London, EN11FS",0.825
+21468,6648,"The Enniskillen Hotel, 72 Forthill Street EnniskillenFermanagh, Fermanagh and Omagh, BT746AJ","The Enniskillen Hotel, 72, Forthill Street, Enniskillen, Fermanagh and Omagh, BT746AJ",0.8901
+21574,6690,"Holiday Inn Brentwood M25 Jct. 28, Brook Street Brentwood, East of England, CM145NF","Holiday Inn, Brook Street, Brentwood, East of England, CM145NF",0.8511
+21584,2775,"Novotel London Stansted, Round Coppice Road . London Stansted Airport Stansted, Uttlesford, East of England, CM241SF","Novotel Stansted Airport, Round Coppice Road, Stansted, , GB, Uttlesford, East of England, CM241SF",0.8769
+21599,5797,"County Hotel, Rainsford Road ChelmsfordEssex, East of England, CM12PZ","The County Hotel & Resturant, 29, Rainsford Road, Chelmsford, East of England, CM12PZ",0.8
+21655,7704,"Premier Inn Chelmsford, Main Road Boreham BorehamChelmsford, East of England, CM33HJ","Premier Inn (Boreham), Main Road, Chelmsford, East of England, CM33HJ",0.8
+21664,10935,"Riverside Hotel, 2 North Station Rd ColchesterEssex, East of England, CO11RB","Riverside Hotel, 2, North Station Road, Colchester, , GB, East of England, CO11RB",0.8824
+21700,7730,"Saracens Hotel, 3 High street ChelmsfordEssex, East of England, CM11BE","Saracens Head Hotel, 3, High Street, Chelmsford, East of England, CM11BE",0.8347
+21724,7770,"The Railway Sleeper Lodge, Bergholt Road EssexColchester, East of England, CO45AJ","Railway Sleeper Lodge, 172, Bergholt Road, Colchester, East of England, CO45AJ",0.8
+21794,3257,"Creeksea Place Barns, Creeksea Place Farm Ferry Road Burnham On Crouch Burnham on CrouchEssex, Maldon, East of England, CM08PJ","Creeksea Place Barns, Ferry Road, Burnham-on-Crouch, , United Kingdom, Maldon, East of England, CM08PJ",0.8268
+21959,9009,"The Crown And Cushion, 84 Hight Street Eton EtonBerkshire, Windsor and Maidenhead, South East, SL46AF","The Crown and Cushion, 84, High Street, Windsor and Maidenhead, South East, SL46AF",0.8571
+21967,544,"Novar Arms Hotel, Balconie Street Schottland, Highland, IV169UN","Novar Arms Hotel, Balconie Street, Evanton, , United Kingdom, Highland, IV169UN",0.8
+21979,6465,"The Northwick Hotel, Waterside EveshamWorcestershire, Wychavon, West Midlands, WR111BT","Northwick Hotel, Waterside, Evesham, Wychavon, West Midlands, WR111BT",0.8
+21980,5589,"The Wood Norton, Worcester Road  EveshamWorcestershire, Wychavon, West Midlands, WR114YB","The Wood Norton, Worcester Road, Evesham, Wychavon, West Midlands, WR114YB",0.8
+22025,2563,"Woodhayes Country House Woodhayes Lane Whimple Exeter, East Devon, South West, EX52TQ","Woodhayes Country House Hotel, Woodhayes Lane, Exeter, , United Kingdom, East Devon, South West, EX52TQ",0.8333
+22048,241,"St Olaves, MARY ARCHES STREET EXETER, South West, EX43AZ","St Olaves Hotel, Mary Archers Street, Exeter, , United Kingdom, South West, EX43AZ",0.8
+22052,2582,"The Globe Hotel, 34 Fore Street Topsham Topsham Exeter, South West, EX30HR","The Globe, Fore Street, Exeter, , United Kingdom, South West, EX30HR",0.8
+22088,9234,"Holiday Inn Express Exeter City Centre, Tudor Street Exeter, South West, EX43FL","Holiday Inn Express Exeter - City Centre, Tudor Street, Exeter, Devon, South West, EX43FL",0.8616
+22094,8768,"Premier Inn Exeter City Centre, 2 Southernhay Gardens, Exeter, Devon , United Kingdom, South West, EX11SG","Premier Inn, 2, Southernhay Gardens, Exeter, South West, EX11SG",0.8
+22160,3295,"Ash Hotel, 1 Mamhead View Exmouth Devon, East Devon, South West, EX81DS","Ash, 1, Mamhead View, Exmouth, , United Kingdom, East Devon, South West, EX81DS",0.84
+22167,3407,"Manor Hotel, The Beacon Devon Exmouth  England Exeter  Exmouth, East Devon, South West, EX82AG","Manor Hotel, The Beacon, Exmouth, , United Kingdom, East Devon, South West, EX82AG",0.8774
+22199,10082,"Bull Auberge, Ipswich Road Yaxley YaxleyEyeSuffolk, Mid Suffolk, East of England, IP238BZ","The Auberge, Ipswich Road, Mid Suffolk, East of England, IP238BZ",0.8
+22314,3562,"Meudon Hotel, Mawnan Smith Cornwall, South West, TR115HT","Hotel Meudon, Mawnan Smith, Mawnan Smith, , United Kingdom, Cornwall, South West, TR115HT",0.8
+22338,2619,"Membly Hall Hotel, Cliff Road, Cornwall, South West, TR114NT","Membly Hall, 12, Cliff Road, Falmouth, , GB, Cornwall, South West, TR114NT",0.8618
+22488,5703,"Village Hotel Farnborough, Pinehurst Road Farnborough Business Park Farnborough, Rushmoor, South East, GU147BF","Village Hotel, Farnborough, Pinehurst Road, Farnborough, Rushmoor, South East, GU147BF",0.837
+22557,6388,"The Orwell Hotel, Hamilton Rd FelixstoweSuffolk, East Suffolk, East of England, IP117DX","The Orwell Hotel, Hamilton Road, Felixstowe, East Suffolk, East of England, IP117DX",0.8571
+22559,7722,"Best Western Brook Hotel Felixstowe, Orwell Road FelixstoweSuffolk, East Suffolk, East of England, IP117PF","The Brook Hotel, Orwell Road, Felixstowe, East Suffolk, East of England, IP117PF",0.8656
+22565,3824,"St Giles Feltham Heathrow, Hounslow Road Middlesex FelthamMiddlesex, London, TW149AD","St Giles Hotel, 4, Hounslow Road, Feltham, London, TW149AD",0.8179
+22610,2032,"The Beveridge Park Hotel, 6 Abbotshall Road KirkcaldyFife Scotland, KY25PQ","Beveridge Park Hotel, 6, Abbotshall Road, Kirkcaldy, , United Kingdom, Fife, KY25PQ",0.8411
+22613,11236,"DoubleTree by Hilton Edinburgh Queensferry Crossing, St Margaret's Head North Queensferry North Queensferry, Fife, KY111HP","DoubleTree by Hilton Edinburgh - Queensferry Crossing, St Margaret's Head, North Queensferry, Fife, KY111HP",0.8
+22644,9396,"Davaar House Hotel, 126 Grieve Street  Dunfermline Dunfermline, Fife, KY128DW","Davaar House Hotel, 126, Grieve Street, Dunfermline, , GB, Fife, KY128DW",0.8176
+22645,2663,"Five Pilmour Place, 5 Pilmour Place Saint AndrewsScotland, Fife, KY169HZ","Pilmour Hotel, 1, Pilmour Place, St Andrews, , United Kingdom, Fife, KY169HZ",0.8
+22651,9444,"Balcomie Links Hotel, Balcomie Road Crail CrailFife Scotland, KY103TN","Balcomie Links Hotel, Balcomie Road, Crail, Fife, KY103TN",0.8
+22691,9166,"The Guildhall and Linen Exchange, 79-83 High Street Dunfermline, Fife, KY127DR","The Guildhall & Linen Exchange, 79Ã¢ÂÂÃÂÃÂ¬83, High Street, Dunfermline, Fife, KY127DR",0.8621
+22742,3266,"Hill Park Hotel, 10 Heath Road Rosyth Rosyth, Fife, KY112BT","Hillpark Hotel, 10, Heath Road, Rosyth, , GB, Fife, KY112BT",0.8973
+22756,892,"The Windsor Hotel Kirkcaldy, 38 Victoria Rd Kirkcaldy, Fife, KY11DR","The Windsor Hotel, 38,40, Victoria Road, Kirkcaldy, , GB, Fife, KY11DR",0.875
+23028,9822,"Best Western Plus Burlington Hotel, 3-5 Earls Avenue Folkestone Kent, Folkestone and Hythe, South East, CT202HR","Best Western Plus Burlington Hotel, 3-5, Earls Avenue, Folkestone and Hythe, South East, CT202HR",0.88
+23029,11008,"The Royal Norfolk Hotel, 7 Sandgate High Street FolkestoneKent, Folkestone and Hythe, South East, CT203BD","The Royal Norfolk Hotel, 7, Sandgate High Street, Sandgate, Folkestone and Hythe, South East, CT203BD",0.8875
+23030,2180,"Southcliff Hotel, 22-26 The Leas FolkestoneKent, Folkestone and Hythe, South East, CT202DY","The Southcliff Hotel, 22-26, The Leas, Folkestone and Hythe, , United Kingdom, South East, CT202DY",0.8548
+23039,9976,"The Relish, 4 Augusta Gardens FolkestoneKent, Folkestone and Hythe, South East, CT202RR","The Relish, 4, Augusta Gardens, Folkestone, Folkestone and Hythe, South East, CT202RR",0.8
+23352,1484,"Findlay's Hotel, Smiddyhill Road Aberdeenshire Aberdeenshire Fraserburgh, AB439WL","Findlay's, Smiddyhill Road, Fraserburgh, , United Kingdom, Aberdeenshire, AB439WL",0.825
+23363,8859,"Ban-Car Hotel, Main Road Lonmay Fraserburgh, Aberdeenshire, AB438RL","Ban-Car Hotel, Main Road, Fraserburgh, Aberdeenshire, AB438RL",0.8
+23554,2057,"Eslington Villa, 8 Station Road Low Fell Low FellGatesheadTyne & Wear, North East, NE96DR","Eslington Villa, 8, Station Road, Gateshead, , United Kingdom, North East, NE96DR",0.8
+23559,2236,"Rowers Hotel, St Omers Road Dunston GatesheadTyne & Wear, North East, NE119EJ","Rowers Hotel, St Omers Road, Gateshead, , United Kingdom, North East, NE119EJ",0.8
+23564,861,"Rivers Hotel Green Lane Riverside ParkGateshead, North East, NE100SB","Rivers Edge Hotel, Green Lane, Gateshead, , United Kingdom, North East, NE100SB",0.8
+23674,1591,"Premier Inn Glasgow City Centre Buchanan Galleries, St Andrew House 141 Nile Street 141 West Nile StreetGlasgow, Glasgow City, G12RN","Premier Inn, 141, West Nile Street, Glasgow, , United Kingdom, Glasgow City, G12RN",0.8745
+23679,1193,"citizenM Glasgow hotel, 60 Renfrew Street corner of Hope StreetGlasgow, Glasgow City, G23BW","CitizenM Hotel, 60, Renfrew Street, Glasgow, , United Kingdom, Glasgow City, G23BW",0.8474
+23685,3874,"Campanile Hotel Glasgow SECC, 10 Tunnel Street  Glasgow, Glasgow City, G38HL","Campanile Hotel, 10, Tunnel Street, Glasgow, Glasgow City, G38HL",0.869
+23697,4698,"DoubleTree by Hilton Glasgow Westerwood Spa & Golf Resort, 1 St Andrews Drive Cumbernauld Cumbernauld, North Lanarkshire, G680EW","DoubleTree by Hilton Glasgow Westerwood Spa & Golf Resort, 1, St Andrews Drive, Glasgow, North Lanarkshire, G680EW",0.8136
+23764,6401,"Glencarse Hotel, Main Street Glencarse GlencarsePerth, Perth and Kinross, PH27LX","Glencarse Hotel, 7, Main Street, Glencarse, Perth and Kinross, PH27LX",0.8
+23773,7154,"The Prince's House Hotel, Glenfinnan Inverness-shire, Highland, PH374LT","The Prince's House Hotel, Glenfinnan, Highland, PH374LT",0.8
+23858,5779,"Queens Hotel Cheltenham MGallery by Sofitel, The Promenade Cheltenham, South West, GL501NN","Mercure Cheltenham Queen's Hotel, The Promenade, Cheltenham, South West, GL501NN",0.8223
+23954,5780,"Holiday Inn Express Cheltenham Town Centre, Dunalley Street Cheltenham, South West, GL504AP","Holiday Inn Express, Dunalley Street, Cheltenham, South West, GL504AP",0.8
+23979,10862,"Corinium Hotel & Restaurant, 12 Gloucester Street Cirencester CirencesterGloucestershire, Cotswold, South West, GL72DG","The Corinium Hotel And Restaurant, 12, Gloucester Street, Cotswold, South West, GL72DG",0.8036
+23986,6559,"Lypiatt House, Lypiatt Road Cheltenham, South West, GL502QW","Lypiatt House Hotel, Lypiatt Road, Cheltenham, South West, GL502QW",0.8093
+24015,7856,"The Ormond At Tetbury, 23 Long Street Tetbury Gloucestershire, Cotswold, South West, GL88AA","The Ormond, Long Street, Tetbury, Cotswold, South West, GL88AA",0.8
+24221,9208,"Eight Bells Inn, Church Street Chipping CampdenGloucestershire, Cotswold, South West, GL556JG","Eight Bells, Church Street, Cotswold, South West, GL556JG",0.802
+24467,11240,"Stoke Rochford Hall Best Western Premier Collection, Stoke Rochford Hall GranthamLincolnshire, South Kesteven, East Midlands, NG335EJ","Stoke Rochford Hall, Grantham, , GB, South Kesteven, East Midlands, NG335EJ",0.8
+24473,11271,"Urban Hotel Grantham, Swingbridge Road Lincolnshire Grantham, South Kesteven, East Midlands, NG317XT","Urban Leisure Hotel, Swingbridge Road, Grantham, South Kesteven, East Midlands, NG317XT",0.8559
+24513,2656,"Tigh na Sgiath Country House Hotel, SKYE OF CURR ROAD GRANTOWN ON SPEY, INVERNESS, Highland, PH263PA","Tigh na Sgiath, Skye of Curr Road, Dulnain Bridge, , United Kingdom, Highland, PH263PA",0.8
+24661,7730,"Saracens Hotel, 3 High street ChelmsfordEssex, East of England, CM11BE","Saracens Head Hotel, 3, High Street, Chelmsford, East of England, CM11BE",0.8347
+24680,5192,"The Foley Arms Hotel Wetherspoon, 14 Worcester Road MalvernWorcestershire, Malvern Hills, West Midlands, WR144QS","The Foley Arms Hotel, 14, Worcester Road, Great Malvern, Worcestershire, Malvern Hills, West Midlands, WR144QS",0.868
+24749,6698,"Knights Court, 22 North Drive Great YarmouthNorfolk, East of England, NR304EW","Knight's Court, 22, North Drive, Great Yarmouth, East of England, NR304EW",0.8779
+24751,10322,"The Palm Court Hotel, North Drive Great YarmouthNorfolk, East of England, NR301EG","Palm Court Hotel, 9-12, North Drive, Great Yarmouth, East of England, NR301EG",0.8
+24766,6605,"The Cliff Hotel, Cliff Hill Suffolk Gorleston-On-SeaGreat Yarmouth, East of England, NR316DH","Cliff Hotel, Cliff Hill, Great Yarmouth, East of England, NR316DH",0.8
+24780,1628,"Gable End Hotel, 30 North Drive Great YarmouthNorfolk, East of England, NR304EW","Gable End Hotel, 30, North Drive, Great Yarmouth, , United Kingdom, East of England, NR304EW",0.8942
+24805,5964,"Hotel Victoria, Kings Road Great YarmouthNorfolk, East of England, NR303JW","Hotel Victoria, 2, Kings Road, Great Yarmouth, East of England, NR303JW",0.8
+24825,6511,"St Annes Hotel, 7 Norfolk Square Great YarmouthNorfolk, East of England, NR301EE","St Anne's Hotel, 7, Norfolk Square, Great Yarmouth, East of England, NR301EE",0.8471
+24831,5951,"Arona Guest, 14 15 Sandown Rd Great YarmouthNorfolk, East of England, NR301EY","A'rona Hotel, 14-15, Sandown Road, Norwich, , GB, Great Yarmouth, East of England, NR301EY",0.8727
+24874,5955,"The Trotwood Guest House, North Drive, Great Yarmouth, East of England, NR301ED","The Trotwood, 2, North Drive, Great Yarmouth, East of England, NR301ED",0.8302
+25010,3732,"Hilton Woking, Church Street West, Woking , United Kingdom, South East, GU216AX","Hilton Woking, Church Street W, Woking, , United Kingdom, South East, GU216AX",0.8421
+25216,8067,"Royal Ship, Queens Square Dolgellau, Gwynedd, LL401AR","Royal Ship Hotel, Queen Square, Dolgellau, Gwynedd, LL401AR",0.888
+25223,8447,"The Valley Anglesey, London Road ValleyAnglesey, Isle of Anglesey, LL653DU","Valley Hotel, London Road, Holyhead, , GB, Isle of Anglesey, LL653DU",0.8
+25284,5751,"Castle Court, Castle Square Beaumaris, Isle of Anglesey, LL588DA","Castle Court, Beaumaris, Isle of Anglesey, LL588DA",0.816
+26640,5977,"Holiday Inn Express Hamilton, Keith Street Hamilton, South Lanarkshire, ML37BL","Holiday Inn Express, Keith Street, Hamilton, South Lanarkshire, ML37BL",0.8182
+26653,4773,"Macdonald Botley Park Hotel & Spa, Winchester Road Botley Boorley Green Boorley GreenSouthampton, Eastleigh, South East, SO322UA","Macdonald Botley Park Hotel & Spa, Winchester Road, Southampton, Eastleigh, South East, SO322UA",0.8
+26653,5641,"Macdonald Botley Park Hotel & Spa, Winchester Road Botley Boorley Green Boorley GreenSouthampton, Eastleigh, South East, SO322UA","Macdonald Botley Park Hotel & Spa, Winchester Road, Southampton, Eastleigh, South East, SO322UA",0.8
+26725,8186,"Holiday Inn Stoke on Trent M6 Jct 15, Clayton Road Newcastle-under-Lyme, West Midlands, ST54DL","Holiday Inn, Clayton Road, Newcastle-under-Lyme, West Midlands, ST54DL",0.8453
+27007,3962,"Best Western Grand Hotel, Swainson Street HartlepoolCleveland, North East, TS248AA","The Best Western Grand Hotel, Hartlepool, Swainson Street, Hartlepool, North East, TS248AA",0.8675
+27060,10568,"Minstrels Rest, 21 Greville Road HastingsEast Sussex, South East, TN355AL","Minstrel's Rest, 21, Greville Road, Hastings, South East, TN355AL",0.8
+27072,7681,"Town House Rooms, 9-10 South Terrace HastingsEast Sussex, South East, TN341SA","Town House Rooms, 10, South Terrace, Hastings, South East, TN341SA",0.8
+27161,7845,"Twr y Felin Hotel, Caerfai Road Pembrokeshire, SA626QT","Twr y Felin Hotel, Ffordd Caerfai, Pembrokeshire, SA626QT",0.8333
+27448,9294,"The Kinder Lodge, 10 New Mills Road HayfieldHigh Peak, East Midlands, SK222JG","Kinder Lodge, 10, New Mills Road, High Peak, , GB, East Midlands, SK222JG",0.8049
+27468,6337,"The Penellen Bed And Breakfast, 64 Riviere Towans Phillack Hayle, Cornwall, South West, TR275AF","The Penellen Bed and Breakfast, 64, Riviere Towans, Hayle, , GB, Cornwall, South West, TR275AF",0.827
+27507,9128,"Ockenden Manor Hotel & Spa, Ockenden Lane Cuckfield Cuckfield West Sussex, Mid Sussex, South East, RH175LD","Ockenden Manor Hotel & Spa, Ockenden Lane, Haywards Heath, Mid Sussex, South East, RH175LD",0.8
+27509,8635,"Highley Manor, Crawley Lane Haywards Heath, Mid Sussex, South East, RH176LA","Highley Manor, Crawley Lane, Haywards Heath, Mid Sussex, South East, RH176LA",0.8088
+27626,1967,"The Bay Hotel, Bay Hotel North Corner Coverack CoverackHelston, Cornwall, South West, TR126TF","Bay Hotel, North Corner, Coverack, , United Kingdom, Cornwall, South West, TR126TF",0.8
+27763,183,"Boxmoor Lodge Hotel, London Road Hemel Hempstead Hertfordshire, Dacorum, East of England, HP12RA","Boxmoor Lodge Hotel, London Road, Dacorum, , United Kingdom, East of England, HP12RA",0.8
+27791,481,"The Red Lion Hotel, Hart Street Oxfordshire, South Oxfordshire, South East, RG92AR","The Red Lion Hotel, Riverside, Hart Street, Henley-on-Thames, , United Kingdom, South Oxfordshire, South East, RG92AR",0.8
+27796,7824,"The Catherine Wheel Hotel, 7-15 Hart Street Henley-on-ThamesOxfordshire, South Oxfordshire, South East, RG92AR","The Catherine Wheel, 7-15, Hart Street, Henley-on-Thames, , GB, South Oxfordshire, South East, RG92AR",0.8748
+27980,26,"Baker Arms, 9 Ashendene Road BayfordHertford, East Hertfordshire, East of England, SG138PX","Baker Arms, Ashendene Road, East Hertfordshire, , United Kingdom, East of England, SG138PX",0.8
+27989,11266,"Slaley Hall SlaleyHexhamNorthumberland, North East, NE470BX","Slaley Hall, Slaley, Northumberland, North East, NE470BX",0.8174
+28002,5156,"Hadrian Hotel Inn, Wall  Hexham, Northumberland, North East, NE464EE","The Hadrian, Front Street, Wall, Northumberland, North East, NE464EE",0.8206
+28004,8070,"The George Hotel, Chollerford HexhamNorthumberland, North East, NE464EW","George Hotel, Hexham, Northumberland, North East, NE464EW",0.8143
+28017,2118,"Battlesteads, Wark On Tyne Nr Hexham nr HexhamNorthumberland, North East, NE483LS","Battlesteads Hotel & Restaurant, Hexham Road, Wark, Northumberland, , United Kingdom, North East, NE483LS",0.8
+28119,9294,"The Kinder Lodge, 10 New Mills Road HayfieldHigh Peak, East Midlands, SK222JG","Kinder Lodge, 10, New Mills Road, High Peak, , GB, East Midlands, SK222JG",0.8049
+28225,3933,"Sun Hotel, Sun St HitchinHertfordshire, North Hertfordshire, East of England, SG51AF","The Sun, North Hertfordshire, East of England, SG51AF",0.8
+28420,8447,"The Valley Anglesey, London Road ValleyAnglesey, Isle of Anglesey, LL653DU","Valley Hotel, London Road, Holyhead, , GB, Isle of Anglesey, LL653DU",0.8
+28554,8758,"Deer Park Country Hotel, Buckerell Village WestonHonitonDevon, East Devon, South West, EX143PG","Deer Park Hotel, Honiton, , GB, East Devon, South West, EX143PG",0.8595
+28616,5874,"The Old Hall Hotel, Market Place Hope Valley, High Peak, East Midlands, S336RH","The Old Hall Hotel, Hope Valley, High Peak, East Midlands, S336RH",0.8292
+28646,5874,"The Old Hall Hotel, Market Place Hope Valley, High Peak, East Midlands, S336RH","The Old Hall Hotel, Hope Valley, High Peak, East Midlands, S336RH",0.8292
+28790,8796,"Wimblehurst Hotel, 6 Wimblehurst Road HorshamWest Sussex, South East, RH122ED","Wimblehurst Hotel, 6, Wimblehurst Road, Horsham, South East, RH122ED",0.8182
+28797,7388,"Premier Inn Horsham, 57 North Street HorshamWest Sussex, South East, RH121RB","Premier Inn, 57, North Street, Horsham, South East, RH121RB",0.8
+28814,3823,"Hilton London Heathrow Airport, Heathrow Airport Terminal 4 Hounslow, Hillingdon, London, TW63AF","Hilton London Heathrow Airport, Terminal 4, Hounslow, Hillingdon, TW63AF",0.8
+28841,10988,"London Plus Heathrow B & B, 21 Woodfield Road HounslowGreater London, TW46LL","Heathrow Travellers Hub, 21, Woodfield Road, Cranford, Hounslow, London, TW46LL",0.8909
+28857,6773,"Best Western Princes Marine Hotel, 153 Kingsway HoveEast Sussex, Brighton and Hove, South East, BN34GR","Princes Marine Hotel, 153, Kingsway, Hove, , GB, Brighton and Hove, South East, BN34GR",0.892
+29246,162,"The Olde Bell, High Street Hurley Hurley, Windsor and Maidenhead, South East, SL65LX","The Olde Bell, High Street, Hurley, , United Kingdom, Windsor and Maidenhead, South East, SL65LX",0.8276
+29295,2641,"Park Hotel, 327 Cranbrook Road Ilford IlfordEssex, Redbridge, London, IG14UE","Park Hotel, 327, Cranbrook Road, Ilford, , GB, Redbridge, London, IG14UE",0.8787
+29301,10718,"Rossmore Hotel, Cranbrook Road IlfordEssex, Redbridge, London, IG14UA","Rossmore Hotel, 301-309, Cranbrook Road, Ilford, Redbridge, London, IG14UA",0.81
+29302,10685,"Best Western London Ilford Hotel, 5 Argyle Road IlfordEssex, Redbridge, London, IG13BH","Best Western, 3-5, Argyle Road, Ilford, Redbridge, London, IG13BH",0.8941
+29304,10691,"Citybest Hotel Limited, 31 33 Mansfield Road IlfordEssex, Redbridge, London, IG13BB","City Best Hotel, 31-37, Mansfield Road, Ilford, Redbridge, London, IG13BB",0.81
+29309,10688,"Cranford Hotel, 22 26 Argyle Road IlfordEssex, Redbridge, London, IG13BQ","Cranford Hotel, 22-26, Argyle Road, Ilford, Redbridge, London, IG13BQ",0.8941
+29394,2828,"Poplars Hotel, Woodlands Combe MartinNorth Devon, South West, EX340AR","Poplars Hotel, Woodlands, North Devon, , United Kingdom, South West, EX340AR",0.8
+29626,1320,"Premier Inn Inverness West, Glenurquhart Road  Inverness Scotland Inverness, Highland, IV35TD","Premier Inn, Glenurquhart Road, Inverness, , United Kingdom, Highland, IV35TD",0.8615
+29656,6430,"Crown Court Townhouse Hotel, Southside Road, 25 INVERNESS, Highland, IV23BG","Crown Court Hotel, 25, Southside Road, Inverness, Highland, IV23BG",0.871
+29674,6477,"Rocpool Reserve hotel & Chez Roux restaurant, 14 Culduthel Road Iverness, Highland, IV24AG","Rocpool Reserve, 14, Culduthel Road, Inverness, Highland, IV24AG",0.8887
+29698,949,"Benleva Hotel, Kilmore Road Drumnadrochit Loch Ness, Highland, IV636UH","Benleva Hotel, Kilmore Road, Drumnadrochit, , United Kingdom, Highland, IV636UH",0.8
+29734,7370,"Kingsmills Hotel, Culcabock Road Inverness, Highland, IV23LP","Kingsmills Hotel, Culcabock Road, Inverness, Highland, IV23LP",0.8737
+29769,4990,"Talisker, 25 Ness Bank  Inverness, Highland, IV24SF","The Waterside, 19, Ness Bank, Inverness, Highland, IV24SF",0.8966
+30005,7672,"The Sidings Inverurie, Loco Works Road Inverurie Aberdeenshire, AB514FY","The Sidings, Loco Works Road, Inverurie, , GB, Aberdeenshire, AB514FY",0.8531
+30030,7776,"Premier Inn Ipswich, Old Hadleigh Road  Ipswich, Babergh, East of England, IP83AR","Premier Inn, Hadleigh Road, Ipswich, , GB, Babergh, East of England, IP83AR",0.8241
+30032,3892,"Novotel Ipswich, Greyfriars Road Ipswich, East of England, IP11UP","Novotel, Grey Friars Road, Ipswich, East of England, IP11UP",0.807
+30120,9118,"The Tontine, Tontine Hill Ironbridge IronbridgeTelford, Telford and Wrekin, West Midlands, TF87AL","Tontine Hotel, Tontine Hill, Telford, , GB, Telford and Wrekin, West Midlands, TF87AL",0.8
+30300,5551,"Bourne Hall Country Hotel, Luccombe Rd Shanklin Isle of Wight, South East, PO376RR","Bourne Hall Country House Hotel, 11, Luccombe Road, Shanklin, Isle Of Wight, , GB, South East, PO376RR",0.875
+30358,3122,"Holiday Inn NEWPORT, The Coldra Newport, NP182YG","Holiday Inn Newport, The Coldra, Newport, , United Kingdom, NP182YG",0.8652
+30371,694,"Travelodge Newport Isle of Wight, Lugley Street Newport Isle of Wight, South East, PO305ET","Travelodge, 41, Lugley Street, Newport, , GB, Isle of Wight, South East, PO305ET",0.8394
+30377,5235,"Luccombe Manor Country House Hotel, Popham Road Shanklin Isle of Wight, South East, PO376RG","Luccombe Manor, Popham Road, Shanklin, , GB, Isle of Wight, South East, PO376RG",0.8956
+30389,8395,"The Kenbury B&B, Clarence Road Shanklin, Isle of Wight, South East, PO377BH","The Kenbury, Clarence Road, Shanklin, , GB, Isle of Wight, South East, PO377BH",0.8415
+30398,8180,"Bertram Lodge, Leed Street, 3 SANDOWN, Isle of Wight, South East, PO369DA","Bertram Lodge, 3, Leed Street, Sandown, , GB, Isle of Wight, South East, PO369DA",0.875
+30401,2784,"Melville Hall Hotel and Utopia Spa, Melville Street Sandown Isle of Wight, South East, PO369DH","Melville Hall Hotel, Melville Street, Sandown, , GB, Isle of Wight, South East, PO369DH",0.8891
+30484,5354,"The Seaview Hotel And Restaurant, The High Street Seaview, Isle of Wight, South East, PO345EX","Seaview Hotel, High Street, Seaview, , GB, Isle of Wight, South East, PO345EX",0.8538
+30533,8862,"Victoria Lodge Hotel, Alexandra Road Shanklin Isle Of Wight, South East, PO376AF","Victoria Lodge Hotel, 5, Alexandra Road, Shanklin, , GB, Isle of Wight, South East, PO376AF",0.8928
+30663,2713,"The Anchor Inn, 1 3 High Street, Isle of Wight, South East, PO317SA","The Anchor Inn, 1, High Street, Cowes, , GB, Isle of Wight, South East, PO317SA",0.8
+31068,5012,"Cross Keys Hotel Kelso, The Cross Keys Hotel 36 37 The Square KelsoScotlandRoxburgshire, Scottish Borders, TD57HL","Cross Keys Hotel, 36-37, The Square, Scottish Borders, TD57HL",0.8647
+31266,9822,"Best Western Plus Burlington Hotel, 3-5 Earls Avenue Folkestone Kent, Folkestone and Hythe, South East, CT202HR","Best Western Plus Burlington Hotel, 3-5, Earls Avenue, Folkestone and Hythe, South East, CT202HR",0.88
+31280,11008,"The Royal Norfolk Hotel, 7 Sandgate High Street FolkestoneKent, Folkestone and Hythe, South East, CT203BD","The Royal Norfolk Hotel, 7, Sandgate High Street, Sandgate, Folkestone and Hythe, South East, CT203BD",0.8875
+31285,3182,"The Clarendon Hotel, 51/53 Beach Street DealKent, Dover, South East, CT146HY","Clarendon Hotel, 51-55, Beach Street, Deal, Kent, , United Kingdom, Dover, South East, CT146HY",0.8182
+31291,376,"Hussar Inn, 219 Canterbury Rd Margate Kent, Thanet, South East, CT95JP","Hussar Hotel, 219, Canterbury Road, Margate, , United Kingdom, Thanet, South East, CT95JP",0.8786
+31294,6193,"Hilton Cobham, Seven Hills Road South Cobham, Elmbridge, South East, KT111EW","Hilton Cobham, Seven Hills Road, Cobham, Elmbridge, South East, KT111EW",0.8526
+31306,2180,"Southcliff Hotel, 22-26 The Leas FolkestoneKent, Folkestone and Hythe, South East, CT202DY","The Southcliff Hotel, 22-26, The Leas, Folkestone and Hythe, , United Kingdom, South East, CT202DY",0.8548
+31323,3883,"Holiday Inn Express London Dartford, University Way Dartford, South East, DA15PA","Holiday Inn Express London - Dartford, University Way, Dartford, South East, DA15PA",0.8501
+31328,9976,"The Relish, 4 Augusta Gardens FolkestoneKent, Folkestone and Hythe, South East, CT202RR","The Relish, 4, Augusta Gardens, Folkestone, Folkestone and Hythe, South East, CT202RR",0.8
+31354,4178,"Premier Inn Dover East, Jubilee Way Guston Wood Guston WoodDover Kent, South East, CT155FD","Premier Inn, Jubilee Way, Guston Wood, Dover, South East, CT155FD",0.8
+31412,10566,"The Ship Hotel, 83 High Street  New RomneyKent, Folkestone and Hythe, South East, TN288AZ","The Ship Hotel, 83, High Street, New Romney, Kent, Folkestone and Hythe, South East, TN288AZ",0.8784
+31454,10544,"Littlestone Hotel, 3 Littlestone Road New RomneyKent, Folkestone and Hythe, South East, TN288LN","Littlestone Hotel, 3, Littlestone Road, Littlestone, Folkestone and Hythe, South East, TN288LN",0.8913
+31627,9238,"Rosslyn Court, 62 Sweyn Rd Cliftonville, Thanet, South East, CT92DD","Rosslyn Court, 62, Sweyn Road, Margate, Kent, , GB, Thanet, South East, CT92DD",0.8667
+31731,8644,"Borrowdale Gates Hotel, Grange-in-Borrowdale KeswickCumbria, Cumberland, North West, CA125UQ","Borrowdale Gates Hotel, Grange, Cumberland, North West, CA125UQ",0.899
+31794,7603,"Keswick Park Hotel, 33 Station Road KeswickCumbria, Cumberland, North West, CA124NA","Keswick Park Hotel, 33, Station Road, Keswick, Cumberland, North West, CA124NA",0.8846
+32160,2537,"Royal Hotel, Market Place Kettering, North Northamptonshire, East Midlands, NN160AJ","Royal Hotel, Market Place, Kettering, , GB, North Northamptonshire, East Midlands, NN160AJ",0.8
+32171,6936,"Blue Bell, Rothwell Rothwell, North Northamptonshire, East Midlands, NN146BP","The Blue Bell Hotel, Bell Hill, Kettering, North Northamptonshire, East Midlands, NN146BP",0.8
+32191,8486,"Hawthorn House Hotel 2 Hawthorn Road, North Northamptonshire, East Midlands, NN157HS","Hawthorn Guest House, 2, Hawthorn Road, Kettering, , GB, North Northamptonshire, East Midlands, NN157HS",0.8438
+32204,2194,"Grasmere Court, 22-24 Bath Road Keynsham KeynshamBristol, Bath and North East Somerset, South West, BS311SN","Grasmere Court Hotel, 22-24, Bath Road, Bristol, , United Kingdom, Bath and North East Somerset, South West, BS311SN",0.8
+32214,7687,"Travelodge Kidderminster, Park Lane Kidderminster, Wyre Forest, West Midlands, DY116TL","Travelodge, Park Lane, Kidderminster, Wyre Forest, West Midlands, DY116TL",0.8873
+32299,4644,"Clover Cottage, New Road, Pembrokeshire, SA680YF","Begelly Arms Inn, New Road, Pembrokeshire, SA680YF",0.8
+32370,9943,"The Grange Hotel, Willow Park King's LynnNorfolk, King's Lynn and West Norfolk, East of England, PE303BP","The Grange Hotel, Willow Park, King's Lynn, Norfolk, King's Lynn and West Norfolk, East of England, PE303BP",0.8833
+32372,7246,"Bank House Hotel, KingÃÂs Staithe Square KingÃÂs LynnNorfolk, King's Lynn and West Norfolk, East of England, PE301RD","Bank House Hotel, Kings Staithe Square, King's Lynn, King's Lynn and West Norfolk, East of England, PE301RD",0.8065
+32376,11168,"The Dukes Head Hotel, 5-6 Tuesday Market Place King's LynnNorfolk, King's Lynn and West Norfolk, East of England, PE301JS","The Duke's Head, 5-6, Tuesday Market Place, King's Lynn, King's Lynn and West Norfolk, East of England, PE301JS",0.8814
+32382,6844,"The Kings Head Hotel, Great Bircham Kings Lynn Norfolk, King's Lynn and West Norfolk, East of England, PE316RJ","The Kings Head, King's Lynn, , GB, King's Lynn and West Norfolk, East of England, PE316RJ",0.8
+32387,3043,"Fairlight Lodge, 79 Goodwins Road Kings LynnNorfolk, King's Lynn and West Norfolk, East of England, PE305PE","Fairlight B&B, 79, Goodwins Road, King's Lynn, , United Kingdom, King's Lynn and West Norfolk, East of England, PE305PE",0.8667
+32495,761,"Two Brewers Hotel by Good Night Inns, The Common ChipperfieldKings LangleyHertfordshire, Dacorum, East of England, WD49BS","The Two Brewers, The Common, Dacorum, , United Kingdom, East of England, WD49BS",0.8
+32662,899,"Osprey Hotel, Ruthven Road Kingussie, Highland, PH211EN","Osprey Hotel, Ruthven Road, Kingussie, , United Kingdom, Highland, PH211EN",0.8486
+32697,11238,"The Green Hotel Golf & Leisure Resort, 2 The Muirs KinrossPerthshire, Perth and Kinross, KY138AS","The Green Hotel, 2, The Muirs, Kinross, Perth and Kinross, KY138AS",0.8591
+32706,1399,"Thistle Hotel, 25 New Road Milnathort Kinross, Perth and Kinross, KY139XT","The Thistle, New Road, Milnathort, , United Kingdom, Perth and Kinross, KY139XT",0.8
+32804,2032,"The Beveridge Park Hotel, 6 Abbotshall Road KirkcaldyFife Scotland, KY25PQ","Beveridge Park Hotel, 6, Abbotshall Road, Kirkcaldy, , United Kingdom, Fife, KY25PQ",0.8411
+32810,892,"The Windsor Hotel Kirkcaldy, 38 Victoria Rd Kirkcaldy, Fife, KY11DR","The Windsor Hotel, 38,40, Victoria Road, Kirkcaldy, , GB, Fife, KY11DR",0.875
+32880,8899,"Airlie Arms Hotel 4 St. Malcolms Wynd Kirriemuir, Angus, DD84HB","Airlie Arms Hotel, 4, St Malcolm's Wynd, Kirriemuir, Angus, DD84HB",0.8919
+32958,7509,"Cottons, Manchester Road Knutsford Cheshire, Cheshire East, North West, WA160SU","Cottons Hotel & Spa, Manchester Road, Knutsford, Cheshire East, North West, WA160SU",0.8652
+33008,523,"The Tongue Hotel, Tongue Sutherland, Highland, IV274XD","Tongue Hotel, A838, Tongue, , United Kingdom, Highland, IV274XD",0.8
+33108,5504,"Forshaws Hotel, Sure Hotel Collection by Best Western, Blackpool, Talbot Square Blackpool, FY11ND","Forshaws Hotel, Talbot Square, Blackpool, FY11ND",0.8938
+33173,2308,"The Pilatus Guest house, Willshaw Road, 10 BLACKPOOL, North West, FY29SH","The Pilatus, 10, Willshaw Road, Blackpool, , United Kingdom, North West, FY29SH",0.869
+33248,2328,"Number 42, King Edward Ave Blackpool, North West, FY29TA","Number 42, 42, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TA",0.8727
+33269,2294,"The Grosvenor View Guest house, King Edward Avenue, 7 BLACKPOOL, North West, FY29TD","Grosvenor View, 7, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TD",0.8842
+33280,2293,"The Alpha Guest Accommodation, King Edward Avenue, 9 BLACKPOOL, North West, FY29TD","The Alpha, 9, King Edward Avenue, Blackpool, , United Kingdom, North West, FY29TD",0.8842
+33301,1983,"The Royal Station Hotel, Market Street Carnforth, Lancaster, North West, LA59BT","The Royal Station Hotel, Market Street, Carnforth, , United Kingdom, Lancaster, North West, LA59BT",0.8167
+33360,2304,"The Sefton Hotel, Northumberland Avenue, 16 BLACKPOOL, North West, FY29SB","Sefton Hotel, 16, Northumberland Avenue, Blackpool, , United Kingdom, North West, FY29SB",0.88
+33431,2494,"St Albans Hotel Guest House, 355 Promenade South Shore Blackpool Lancashire, North West, FY16BJ","St Albans, 355, Promenade, Blackpool, , United Kingdom, North West, FY16BJ",0.88
+33441,2065,"The Clifton, 43-46 Marine Road West Morecambe, Lancaster, North West, LA31BZ","Clifton Hotel, 43-46, Marine Road West, Morecambe, , United Kingdom, Lancaster, North West, LA31BZ",0.8286
+33457,3637,"The New Guilderoy Hotel, 59 Holmfield Rd North Shore Blackpool North Shore, North West, FY29RU","New Guilderoy Hotel, 59, Holmfield Road, Blackpool, , United Kingdom, North West, FY29RU",0.8769
+33650,2053,"The Morecambe Bay Hotel, 317-318 Marine Road Central MorecambeLancashire, Lancaster, North West, LA45AA","The Morecambe Bay Hotel, 317-318, Marine Road Central, Morecambe, , United Kingdom, Lancaster, North West, LA45AA",0.8966
+33681,2517,"Oban House Hotel, 28 Osborne Road Blackpool, North West, FY41HJ","Oban House Hotel, 28, Osborne Road, Blackpool, , United Kingdom, North West, FY41HJ",0.8
+33797,2052,"Shipping Lanes Hotel, 363 Marine Road East MorecambeLancashire, Lancaster, North West, LA45AQ","The Shipping Lanes Hotel, 363, Marine Road East, Morecambe, , United Kingdom, Lancaster, North West, LA45AQ",0.8846
+33805,2377,"New Odyssey Hotel, 4 6 Burlington Road Blackpool, North West, FY41NL","New Odyssey Hotel, 4, Burlington Road West, Blackpool, , United Kingdom, North West, FY41NL",0.8571
+34022,2476,"The Vernon, 6-8 Wellington Road Blackpool, North West, FY16AR","The Vernon, Wellington Road, Blackpool, , United Kingdom, North West, FY16AR",0.8689
+34034,10831,"Adelaide Lodge, 100 Adelaide Street Blackpool, North West, FY14LA","Adelaide House Hotel, 66-68, Adelaide Street, Blackpool, North West, FY14LA",0.8127
+34050,2542,"HY Hotel BW Premier Collection, 318-328 Clifton Dr N Lytham Saint Annes, Fylde, North West, FY82PB","HY Hotel, 318-328, Clifton Drive North, Lytham St Annes, , United Kingdom, Fylde, North West, FY82PB",0.8053
+34309,10797,"The Haylie Hotel, 108 Irvine Road Largs, North Ayrshire, KA308EY","Haylie Hotel, 138, Irvine Road, Largs, , GB, North Ayrshire, KA308EY",0.8091
+34343,5570,"The Lodge Carfraemill, Lauder Scotland, Scottish Borders, TD26RA","The Lodge, Carfraemill, Scottish Borders, TD26RA",0.8
+34760,4833,"Belmont Hotel Leicester, De Montfort Street Leicester, East Midlands, LE17GR","Belmont House Hotel, 20, De Montfort Street, Leicester, East Midlands, LE17GR",0.8348
+34764,4288,"Holiday Inn Leicester, 129 St. Nicholas Circle Leicester LEI 5LX, East Midlands, LE15LX","Holiday Inn, 129, St Nicholas Circle, Leicester, East Midlands, LE15LX",0.816
+34798,172,"Badgers Mount Hotel, 6 Station Road Elmesthorpe ElmesthorpeLeicestershire, Blaby, East Midlands, LE97SG","Badgers Mount Hotel, 6, Station Road, Elmesthorpe, , GB, Blaby, East Midlands, LE97SG",0.8161
+34872,10010,"The Greyhound Hotel, 3 Garth Rd Builth WellsPowysMid Wales, LD23AR","Greyhound, 3, Garth Road, Builth Wells, Powys, LD23AR",0.8667
+34931,1793,"Edinburghhouse Hotel, 90-92 Pilrig Street EdinburghMidlothian, City of Edinburgh, EH65AY","Edinburgh House Hotel, 90-92, Pilrig Street, Edinburgh, , United Kingdom, City of Edinburgh, EH65AY",0.8696
+34939,390,"Premier Inn Edinburgh Leith Waterfront, 51-53 Newhaven Place LeithEdinburgh, City of Edinburgh, EH64TX","Premier Inn Leith Waterfront, 51-53, Newhaven Place, Edinburgh, , United Kingdom, City of Edinburgh, EH64TX",0.8793
+34941,2473,"Victoria Park House Hotel, 221 Ferry Road EdinburghMidlothian Scotland, City of Edinburgh, EH64NN","Victoria Park House Hotel, 221, Ferry Road, Edinburgh, , United Kingdom, City of Edinburgh, EH64NN",0.85
+35158,3017,"The Shetland Hotel, Holmsgarth Road Lerwick Shetland, Shetland Islands, ZE10PW","The Shetland Hotel, Holmsgarth Road, Shetland, , United Kingdom, Shetland Islands, ZE10PW",0.8
+35189,3986,"The Broadway Hotel, Broadway LetchworthHertfordshire, North Hertfordshire, East of England, SG63NZ","The Broadway Hotel, Letchworth Garden City, North Hertfordshire, East of England, SG63NZ",0.8
+35395,5672,"Arundell Arms, Fore Street Devon, West Devon, South West, PL160AA","The Arundell, Fore Street, West Devon, South West, PL160AA",0.8444
+35416,674,"Travelodge Derry, 22-24 Strand Road Derry Derry, Derry City and Strabane, BT487AB","Travelodge Derry, Strand Road, Derry/Londonderry, , United Kingdom, Derry City and Strabane, BT487AB",0.8357
+35419,2186,"Maldron Hotel Derry, Butcher Street Derry Derry-Londonderry Northern Ireland, Derry City and Strabane, BT486HL","Maldron Hotel Derry, 17-19, Butcher Street, Derry / Londonderry, , United Kingdom, Derry City and Strabane, BT486HL",0.8471
+35504,5634,"DoubleTree by Hilton Lincoln, Brayford Wharf North Lincoln, East Midlands, LN11YW","DoubleTree by Hilton Lincoln, Brayford Wharf North, Lincoln, East Midlands, LN11YW",0.8747
+35519,7047,"Norton Lodge, OLD HARBOUR FARM, NORTON DISNEY LINCOLN, North Kesteven, East Midlands, LN69JR","Norton Lodge, Lincoln, , GB, North Kesteven, East Midlands, LN69JR",0.8
+35945,3146,"Balmoral Lodge Hotel, 41 Queens Road Southport, Sefton, North West, PR99EX","Balmoral Lodge Hotel, 41, Queen Street, Southport, , United Kingdom, Sefton, North West, PR99EX",0.8826
+36086,7097,"Arena House, 82-84 Duke Street Liverpool, North West, L15AA","Arena House, 82-84, Duke Street, Liverpool, North West, L15AA",0.8
+36835,8789,"Bryn Howel Hotel, Trevor Llangollen Denbighshire, LL207UW","Brywn Howel, Llangollen, , GB, Denbighshire, LL207UW",0.8999
+37042,901,"Grey Gull Inn, Glenburn Road Ardrishaig Argyll, Argyll and Bute, PA308EU","The Grey Gull Hotel, Glenburn Road, Ardrishaig, , United Kingdom, Argyll and Bute, PA308EU",0.8966
+37088,1427,"The Crown Hotel, Bruce Street Lockerbie, Dumfries and Galloway, DG111PD","Crown Hotel, Bruce Street, Lochmaben, , United Kingdom, Dumfries and Galloway, DG111PD",0.8
+37164,5764,"Holiday Inn Express London Greenwich, Bugsbys Way Greenwich Greenwich London, SE100GD","Holiday Inn Express London Greenwich, 85, Bugsby Way, London, , GB, SE100GD",0.8857
+37180,6900,"Premier Inn London Croydon Town Centre, Phillips House 6 Lansdowne Road 6 Lansdowne RoadCroydon, London, CR02BX","Premier Inn, 6, Lansdowne Road, Croydon, London, CR02BX",0.8615
+37209,6002,"Premier Inn London Richmond, 136-138 Lower Mortlake Road RichmondLondon, Richmond upon Thames, TW92JZ","Premier Inn, 136-138, Lower Mortlake Road, Richmond, Richmond upon Thames, London, TW92JZ",0.8151
+37216,8058,"The Whitechapel, 49 53 New Road Whitechapel  London WhitechapelLondon, Tower Hamlets, E11HH","Whitechapel Hotel, 49 - 53, New Road, London, Tower Hamlets, E11HH",0.8
+37227,3824,"St Giles Feltham Heathrow, Hounslow Road Middlesex FelthamMiddlesex, London, TW149AD","St Giles Hotel, 4, Hounslow Road, Feltham, London, TW149AD",0.8179
+37230,3823,"Hilton London Heathrow Airport, Heathrow Airport Terminal 4 Hounslow, Hillingdon, London, TW63AF","Hilton London Heathrow Airport, Terminal 4, Hounslow, Hillingdon, TW63AF",0.8
+37288,11289,"Hotel 261, 261 Uxbridge Road Shepherd Bush Shepherds Bush Shepherds BushGreater London, Hammersmith and Fulham, W129DS","Hotel 261, 261-263, Uxbridge Road, London, Hammersmith and Fulham, W129DS",0.8
+37366,8866,"Comfort Inn Victoria, 18 - 24 Belgrave Road LondonGreater London, Westminster, SW1V1QF","Comfort Inn Victoria, 18-24, Belgrave Road, London, Westminster, SW1V1QF",0.895
+37425,1960,"Point A Hotel London Liverpool Street, 13 15 Folgate Street  London, Tower Hamlets, E16BX","POINT.a hotels, 13-15, Folgate Street, London, , United Kingdom, Tower Hamlets, E16BX",0.8
+37534,6761,"Travelodge Excel, 1016 Dockside Road London, Newham, E162FQ","Travelodge London Excel, 1016, Dockside Road, London, Newham, E162FQ",0.8
+37537,9486,"Travelodge London Teddington, Park House Station Road Teddington Teddington London, Richmond upon Thames, TW119AD","Travelodge, Station Road, Teddington, Richmond upon Thames, London, TW119AD",0.8
+37557,6522,"Travelodge London Enfield, 1 Lumina Way Great Cambridge RoadEnfield, London, EN11FS","Travelodge, 1, Lumina Way, Enfield, London, EN11FS",0.825
+37589,8356,"Travelodge London Central Aldgate East, 6 13 Chamber Street Whitechapel London, Tower Hamlets, E18BL","Travelodge, 6-13, Chamber Street, London, Tower Hamlets, E18BL",0.8416
+37594,11216,"Premier Inn London City Tower Hill, 24 26 Prescot Street London, Tower Hamlets, E18BB","Premier Inn, 24, Prescot Street, London, , GB, Tower Hamlets, E18BB",0.8
+37669,4306,"K+K Hotel George Kensington, 1 15 Templeton Place Earl  London, Kensington and Chelsea, SW59NB","K+K Hotel George, 1-15, Templeton Place, London, , GB, Kensington and Chelsea, SW59NB",0.8143
+37673,3960,"Hilton London Kensington Hotel, Holland Park Avenue London, Kensington and Chelsea, W114UL","Hilton London Kensington, 179-199, Holland Park Avenue, London, Kensington and Chelsea, W114UL",0.8
+37697,4685,"Millennium Gloucester Hotel London Kensington, 4-18 Harrington Gardens  London, Kensington and Chelsea, SW74LH","Millennium Gloucester Hotel & Conference Centre, 4-18, Harrington Gardens, London, Kensington and Chelsea, SW74LH",0.8953
+37730,2930,"Kirkdale Hotel, 22 St Peters Road CroydonSurrey, London, CR01HD","Kirkdale Hotel, 22, St. Peter's Road, Croydon, , United Kingdom, London, CR01HD",0.8814
+37755,5465,"Hotel Indigo London Tower Hill, 142 Minories Matheson House London, City of London, EC3N1LS","Hotel Indigo London - Tower Hill, an IHG Hotel, 142, Minories, London, City of London, EC3N1LS",0.8
+37756,3812,"St Pancras Renaissance Hotel London, Euston Road London, Camden, NW12AR","St Pancras Renaissance London Hotel, Euston Road, London, Camden, NW12AR",0.8914
+37797,8038,"100 Queen s Gate Hotel London, Curio Collection by Hilton, 100 Queens Gate South Kensington London, Kensington and Chelsea, SW75AG","100 Queen's Gate Hotel London, Curio Collection by Hilton, 100, Queen's Gate, London, Kensington and Chelsea, SW75AG",0.8875
+37963,4499,"Eurotraveller Hotel Premier Tower Bridge, 194-202 Old Kent Road London, Southwark, SE15TY","Eurotraveller Premier Hotel, 194-202, Old Kent Road, London, Southwark, SE15TY",0.86
+38025,9030,"Shandon House Hotel, 36-38 Church Road Richmond - Upon - ThamesSurrey, Richmond upon Thames, London, TW91UA","Shandon House, 36-38, Church Road, Richmond, Richmond upon Thames, London, TW91UA",0.8043
+38037,3805,"Premier Inn London Putney Bridge, 3 5 Putney Bridge Approach PutneyLondon, Hammersmith and Fulham, SW63JD","Premier Inn, 3-5, Putney Bridge Approach, London, Hammersmith and Fulham, SW63JD",0.8
+38043,4106,"Hilton London Tower Bridge, 5 More London Place Tooley Street Tooley StreetLondon, Southwark, SE12BY","Hilton London Tower Bridge, 5, More London Place, London, Southwark, SE12BY",0.852
+38077,8617,"Holiday Inn Express London Wimbledon South, 200 High Street Colliers Wood Colliers WoodLondon, Merton, SW192BH","Holiday Inn Express, 200, High Street Colliers Wood, London, Merton, SW192BH",0.8143
+38087,8431,"Bexleyheath Marriott Hotel, 1 Broadway BexleyheathEngland, London, DA67JZ","Bexleyheath Marriott Hotel, 1, Broadway, Bexleyheath, Kent, , GB, London, DA67JZ",0.8371
+38129,6291,"ibis London Docklands Canary Wharf, 1 Baffin Way Off Preston Road Off Preston RoadLondon, Tower Hamlets, E149PE","Ibis London Docklands, 1, Baffin Way, London, Tower Hamlets, E149PE",0.8
+38139,11272,"Premier Inn London Kensington, 11 Knaresborough Place Earls Court London, Kensington and Chelsea, SW50TJ","Premier Inn London Kensington (Earl's Court), 11, Knaresborough Place, London, Kensington and Chelsea, SW50TJ",0.8533
+38191,2641,"Park Hotel, 327 Cranbrook Road Ilford IlfordEssex, Redbridge, London, IG14UE","Park Hotel, 327, Cranbrook Road, Ilford, , GB, Redbridge, London, IG14UE",0.8787
+38235,7279,"The Park Hotel, Park Road Teddington Middlesex TeddingtonMiddlesex, Richmond upon Thames, London, TW110AB","The Park Hotel, 19, Park Road, Teddington, Richmond upon Thames, London, TW110AB",0.8779
+38247,8835,"Bakers Hotel B&B, 126 Warwick Way Victoria City Of Westminister London, Westminster, SW1V4JA","Bakers Hotel, 126, Warwick Way, London, Westminster, SW1V4JA",0.8269
+38302,5680,"OYO Grantly Hotel, 50 Shepherds Bush Green Shepherds Bush London, Hammersmith and Fulham, W128PS","OYO Grantly Hotel, 50-51, Shepherds Bush Green, London, Hammersmith and Fulham, W128PS",0.8
+38357,10286,"Plaza Hotel, 53 Shepherds Bush Road HammersmithLondon, Hammersmith and Fulham, W67LU","Plaza Hotel, 53, Shepherds Bush Road, London, , GB, Hammersmith and Fulham, W67LU",0.8036
+38358,5814,"Premier Inn London Croydon South, 104 Coombe Road CroydonSurrey, London, CR05RB","Premier Inn Croydon South, 104, Coombe Road, Croydon, London, CR05RB",0.8833
+38359,5403,"Premier Inn London Croydon Purley A23, The Colonnades Leisure Park 619 Purley Way  Croydon Surrey 619 Purley WayCroydonSurrey, London, CR04RQ","Premier Inn Croydon West, 619, Purley Way, Croydon, London, CR04RQ",0.8818
+38363,3837,"Premier Inn London Kew Bridge, 52 High Street Brentford BrentfordLondon, Hounslow, TW80BB","Premier Inn, 52, Brentford High Street, Brentford, Hounslow, London, TW80BB",0.8172
+38433,10718,"Rossmore Hotel, Cranbrook Road IlfordEssex, Redbridge, London, IG14UA","Rossmore Hotel, 301-309, Cranbrook Road, Ilford, Redbridge, London, IG14UA",0.81
+38454,10685,"Best Western London Ilford Hotel, 5 Argyle Road IlfordEssex, Redbridge, London, IG13BH","Best Western, 3-5, Argyle Road, Ilford, Redbridge, London, IG13BH",0.8941
+38475,7583,"Corinthia Hotel London, Whitehall Place London, Westminster, SW1A2BD","Corinthia Residences, 10, Whitehall Place, London, Westminster, SW1A2BD",0.8513
+38504,3404,"Batty Langley's, 12 Folgate Street Spitalfields SpitalfieldsLondon, Tower Hamlets, E16BX","Batty Langley's 1724, Folgate Street, London, , United Kingdom, Tower Hamlets, E16BX",0.8
+38516,10691,"Citybest Hotel Limited, 31 33 Mansfield Road IlfordEssex, Redbridge, London, IG13BB","City Best Hotel, 31-37, Mansfield Road, Ilford, Redbridge, London, IG13BB",0.81
+38693,10688,"Cranford Hotel, 22 26 Argyle Road IlfordEssex, Redbridge, London, IG13BQ","Cranford Hotel, 22-26, Argyle Road, Ilford, Redbridge, London, IG13BQ",0.8941
+38747,8626,"Pelican London Hotel And Residence, 203 Blackshaw Road TootingLondon, Wandsworth, SW170BZ","Pelican House, 203, Blackshaw Road, London, Wandsworth, SW170BZ",0.8
+38762,10171,"Premier Inn London Lewisham, 1-13 Lewisham High Street LewishamLondonGreater London, SE135AF","Premier Inn London Lewisham, 1-13, Lewisham High Street, London, SE135AF",0.8935
+38818,5596,"Premier Inn London Tottenham Hale, Station Road Tottenham Hale Tottenham HaleTottenham London, Haringey, N179LR","Premier Inn Tottenham Hale, Station Road, London, Haringey, N179LR",0.8
+38866,8837,"Romanos Hotel, 31 Charlwood Street VictoriaLondon, Westminster, SW1V2DU","Romanos Hotel, 31, Charlwood Street, London, Westminster, SW1V2DU",0.8043
+38922,10348,"23 Matheson Road London, Hammersmith and Fulham, W148SN","23 Matheson Road, 23, Matheson Road, London, Hammersmith and Fulham, W148SN",0.8814
+39009,5700,"Premier Inn London Clapham, 638 640 Wandsworth Road Clapham ClaphamLondon, Lambeth, SW83JW","Premier Inn Battersea, 638, Wandsworth Road, London, Lambeth, SW83JW",0.8
+39058,9814,"Forest house hotel, 70 Green Lanes Palmers Green Wood GreenLondon, Enfield, N136BE","Forest House, 70, Green Lanes, London, Enfield, N136BE",0.85
+39200,9738,"The Greenwood Hotel Wetherspoon, 674 Whitton Avenue West NortholtLondon, Ealing, UB54LA","The Greenwood Hotel, 674, Whitton Avenue West, Northolt, , GB, Ealing, London, UB54LA",0.8151
+39386,7727,"Three Falcons Hotel, 1 Orchardson Street Saint JohnÃÂs Wood, Westminster, London, NW88NG","Three Falcons, 1, Orchardson Street, London, Westminster, NW88NG",0.8855
+39417,3653,"The Westin London City, 60 Upper Thames Street, City of London, London, , United Kingdom, EC4V3AD","Westin London City, Upper Thames Street, London, , United Kingdom, City of London, EC4V3AD",0.8
+39485,7026,"Hampton by Hilton London City, 12-20 Osborne Street, Tower Hamlets, London , United Kingdom, E16TE","Hampton by Hilton London City, 12-20, Osborn Street, London, Tower Hamlets, E16TE",0.8889
+40291,10529,"StowAway Waterloo, 137 Lower Marsh, Lambeth, London, SE17AE","Stow-Away, 137, Lower Marsh, London, Lambeth, SE17AE",0.8276
+42875,3584,"ibis Styles London Seven Kings (Opening August 2020), 1 Cameron Road, Redbridge, IG38LG","Ibis Styles, Cameron Road, Ilford, , GB, Redbridge, London, IG38LG",0.8
+43044,7027,"The Buxton, 42 Osborn St, Tower Hamlets, London, E16TD","The Buxton, 42, Osborn Street, London, Tower Hamlets, E16TD",0.8455
+43096,674,"Travelodge Derry, 22-24 Strand Road Derry Derry, Derry City and Strabane, BT487AB","Travelodge Derry, Strand Road, Derry/Londonderry, , United Kingdom, Derry City and Strabane, BT487AB",0.8357
+43098,2186,"Maldron Hotel Derry, Butcher Street Derry Derry-Londonderry Northern Ireland, Derry City and Strabane, BT486HL","Maldron Hotel Derry, 17-19, Butcher Street, Derry / Londonderry, , United Kingdom, Derry City and Strabane, BT486HL",0.8471
+43454,10106,"Premier Inn Lowestoft, 249 Yarmouth Road LowestoftSuffolk, East Suffolk, East of England, NR324AA","Premier Inn, 249, Yarmouth Road, Lowestoft, East Suffolk, East of England, NR324AA",0.8667
+43572,7358,"The Loch Lomond Arms Hotel, Main Road Luss, Argyll and Bute, G838NY","Loch Lomond Arms Hotel, Main Road, Luss, Argyll and Bute, G838NY",0.8293
+43586,247,"Holiday Inn Luton-South M1, Jct.9, London Road Markyate MarkyateLuton, Dacorum, East of England, AL38HH","Holiday Inn, London Road, St Albans, , United Kingdom, Dacorum, East of England, AL38HH",0.8
+43594,5369,"Adelaide House, 51 Regency Square Brighton, Brighton and Hove, South East, BN12FF","Adelaide House, 51, Regency Square, Brighton, , GB, Brighton and Hove, South East, BN12FF",0.8
+43608,4931,"Premier Inn Luton, Osborne Road LutonBeds, East of England, LU13HJ","Premier Inn Luton (Airport), Osborne Road, Luton, East of England, LU13HJ",0.8
+43615,9596,"Linton Hotel Luton, 136 Tennyson Road LutonBeds, East of England, LU13RP","Linton Luton Hotel, 136, Tennyson Road, Luton, East of England, LU13RP",0.843
+43711,11042,"Dorset House B&B, Pound Road Lyme Regis, Dorset, South West, DT73HX","Dorset House, Pound Road, Lyme Regis, South West, DT73HX",0.85
+43735,9212,"The Beach House, Park Lane Milford-on-SeaLymington, New Forest, South East, SO410PT","The Beach House, Park Lane, Lymington, , GB, New Forest, South East, SO410PT",0.8
+43958,7991,"The White House Manor, New Road PrestburyCheshire, Cheshire East, North West, SK104HP","The White House Manor Hotel, New Road, Prestbury, Cheshire East, North West, SK104HP",0.8
+44090,162,"The Olde Bell, High Street Hurley Hurley, Windsor and Maidenhead, South East, SL65LX","The Olde Bell, High Street, Hurley, , United Kingdom, Windsor and Maidenhead, South East, SL65LX",0.8276
+44110,7186,"Hurley House Hotel, Henley Road Hurley Berkshire MaidenheadHurleyBerkshire, Windsor and Maidenhead, South East, SL65LH","Hurley House Hotel, Henley Road, Hurley, Windsor and Maidenhead, South East, SL65LH",0.8
+44132,2647,"Who'd A Thought It, Headcorn Road Grafty Green Maidstone Grafty GreenMaidstoneNr Lenham, South East, ME172AR","Who'd A Thought It, Headcorn Road, Maidstone, Kent, , United Kingdom, South East, ME172AR",0.8
+44202,8926,"Brightham House Bed & Breakfast, Higher Town MalboroughDevon, South Hams, South West, TQ73RN","Brightham House, South Hams, South West, TQ73RN",0.8
+44321,5192,"The Foley Arms Hotel Wetherspoon, 14 Worcester Road MalvernWorcestershire, Malvern Hills, West Midlands, WR144QS","The Foley Arms Hotel, 14, Worcester Road, Great Malvern, Worcestershire, Malvern Hills, West Midlands, WR144QS",0.868
+44383,6355,"Manchester Marriott Victoria & Albert Hotel, Water Street Manchester, North West, M34JQ","Marriott, Water Street, Manchester, North West, M34JQ",0.8649
+44915,376,"Hussar Inn, 219 Canterbury Rd Margate Kent, Thanet, South East, CT95JP","Hussar Hotel, 219, Canterbury Road, Margate, , United Kingdom, Thanet, South East, CT95JP",0.8786
+44939,9238,"Rosslyn Court, 62 Sweyn Rd Cliftonville, Thanet, South East, CT92DD","Rosslyn Court, 62, Sweyn Road, Margate, Kent, , GB, Thanet, South East, CT92DD",0.8667
+44952,3137,"Travelodge Market Harborough, Edinburgh Court Abbey Street Abbey StreetMarket Harborough, East Midlands, LE169AA","Travelodge, 6, Abbey Street, Market Harborough, , GB, East Midlands, LE169AA",0.8
+45017,247,"Holiday Inn Luton-South M1, Jct.9, London Road Markyate MarkyateLuton, Dacorum, East of England, AL38HH","Holiday Inn, London Road, St Albans, , United Kingdom, Dacorum, East of England, AL38HH",0.8
+45338,792,"Best Western Sysonby Knoll, Asfordby Road, Melton Mowbray, East Midlands, LE130HP","Sysonby Knoll Hotel, Asfordby Road, Melton Mowbray, , GB, East Midlands, LE130HP",0.8956
+45362,1909,"Sir Alfred Munnings Hotel, The Street MendhamSuffolk, Mid Suffolk, East of England, IP200NH","The Sir Alfred Munnings, The Street, Harleston, , United Kingdom, Mid Suffolk, East of England, IP200NH",0.8
+45371,6658,"Strawberry Bank Hotel, Main Rd Meriden MeridenCoventryWest Midlands, Solihull, CV77NF","Strawberry Bank Hotel & Restaurant, 72, Main Road, Meriden, , GB, Solihull, West Midlands, CV77NF",0.8625
+45382,4722,"Castle Hotel, Castle St Merthyr Tydfil, CF478BG","Castle Hotel, Castle Street, Merthyr Tydfil, CF478BG",0.8455
+45475,9813,"Longlands Hotel, 293 295 Marton Rd Middlesbrough Middlesbrough, North East, TS42HF","Longlands Hotel, 293-295, Marton Road, Middlesbrough, North East, TS42HF",0.84
+45479,7355,"Premier Inn Middlesbrough Central, Marton Way Middlesbrough, North East, TS43BS","Premier Inn Middlesbrough Central South, Marton Road, Middlesbrough, North East, TS43BS",0.8306
+45480,11090,"Highfield Hotel, Marton Road MiddlesbroughCleveland, North East, TS42PA","The Highfield, Marton Road, Middlesbrough, North East, TS42PA",0.8667
+45482,9923,"Travelodge Middlesbrough, Newport Road Middlesbrough, North East, TS15JF","Travelodge Middlesbrough, Newport Road, Middlesbrough, North East, TS15JF",0.8268
+45537,6275,"Travelodge Middlewich, A54 Holmes Chapel Road Middlewich Cheshire, Cheshire East, North West, CW100JB","Travelodge Middlewich Hotel, Holmes Chapel Road, Middlewich, Cheshire East, North West, CW100JB",0.8239
+45558,165,"The Bull Inn, The Street Barton Mills Barton MillsMildenhall Bury St Edmunds, West Suffolk, East of England, IP286AA","The Bull Inn, The Street, Bury St Edmunds, , United Kingdom, West Suffolk, East of England, IP286AA",0.8
+45585,9212,"The Beach House, Park Lane Milford-on-SeaLymington, New Forest, South East, SO410PT","The Beach House, Park Lane, Lymington, , GB, New Forest, South East, SO410PT",0.8
+45656,11327,"Horwood House, Mursley Road Little Horwood Milton Keynes, Buckinghamshire, South East, MK170PH","Horwood House, Mursley Road, Little Horwood, Milton Keynes, Buckinghamshire, South East, MK170PH",0.8878
+45754,2566,"The Lorna Doone Hotel, High Street Porlock, Somerset, South West, TA248PS","Lorna Doone Hotel & Restaurant, High Street, Minehead, Somerset, , GB, South West, TA248PS",0.8
+45758,2845,"Northfield Hotel, Northfield Road Minehead Somerset, South West, TA245PU","The Nortfield Hotel, Northfield Road, Minehead, , United Kingdom, Somerset, South West, TA245PU",0.8856
+45792,10527,"Exmoor House, Wheddon Cross Exmoor National Park Exmoor National ParkMinehead, Somerset, South West, TA247DU","Exmoor House, Minehead, Somerset, , GB, South West, TA247DU",0.8
+45808,1376,"Locanda On The Weir, Porlock Weir Somerset, South West, TA248PB","Porlock Wier Hotel, Porlock Weir,, Exmoor National Park, , United Kingdom, Somerset, South West, TA248PB",0.8
+45923,1803,"Buccleuch Arms Hotel & Restaurant, High Street Dumfries & GallowayMoffatScotland, Dumfries and Galloway, DG109ET","Buccleuch Arms Hotel, High Street, Moffat, , United Kingdom, Dumfries and Galloway, DG109ET",0.8
+46075,2065,"The Clifton, 43-46 Marine Road West Morecambe, Lancaster, North West, LA31BZ","Clifton Hotel, 43-46, Marine Road West, Morecambe, , United Kingdom, Lancaster, North West, LA31BZ",0.8286
+46081,2053,"The Morecambe Bay Hotel, 317-318 Marine Road Central MorecambeLancashire, Lancaster, North West, LA45AA","The Morecambe Bay Hotel, 317-318, Marine Road Central, Morecambe, , United Kingdom, Lancaster, North West, LA45AA",0.8966
+46090,2052,"Shipping Lanes Hotel, 363 Marine Road East MorecambeLancashire, Lancaster, North West, LA45AQ","The Shipping Lanes Hotel, 363, Marine Road East, Morecambe, , United Kingdom, Lancaster, North West, LA45AQ",0.8846
+46159,5946,"Newcastle House Rothbury, Front Street MorpethRothburyNorthumberland, North East, NE657UT","Newcastle House Hotel, Front Street, Rothbury, Northumberland, North East, NE657UT",0.8477
+46172,8256,"Coquetvale Hotel, Station Road Rothbury RothburyNorthumberland, North East, NE657QH","The Coquetvale Hotel, Station Road, Rothbury, Northumberland, North East, NE657QH",0.8
+46176,6226,"Warkworth House Hotel, 16 Bridge Street WarkworthNorthumberland, North East, NE650XB","Warkworth House Hotel, 16, Bridge Street, Warkworth, Northumberland, North East, NE650XB",0.8055
+46340,11029,"The Poplars Hotel, Cross Street Moulton MoultonNorthampton, West Northamptonshire, East Midlands, NN37RZ","The Poplars Hotel, 33, Cross Street, Northampton, , GB, West Northamptonshire, East Midlands, NN37RZ",0.8
+46445,1956,"Edinburgh Lodges, Nr Carberry Tower MUSSELBURGH, East Lothian, EH218PY","Edinburgh Lodges, A6124, Whitecraig, , United Kingdom, East Lothian, EH218PY",0.8
+46449,3899,"Premier Inn Edinburgh A1 Newcraighall, 91 Newcraighall Road NewcraighallEdinburgh, City of Edinburgh, EH218RX","Premier Inn, 91, Newcraighall Road, Edinburgh, City of Edinburgh, EH218RX",0.8821
+46497,1310,"Crown Hotel, HIGH STREET, NANTWICH CREWE, Cheshire East, North West, CW55AS","Crown Hotel, Bar & Grill, High Street, Nantwich, , United Kingdom, Cheshire East, North West, CW55AS",0.8
+46605,1095,"Ambassador hotel, 24-42 The Parade, Neath Port Talbot, SA111RA","Ambassador Hotel, The Parade, Neath, , United Kingdom, Neath Port Talbot, SA111RA",0.8
+46652,10566,"The Ship Hotel, 83 High Street  New RomneyKent, Folkestone and Hythe, South East, TN288AZ","The Ship Hotel, 83, High Street, New Romney, Kent, Folkestone and Hythe, South East, TN288AZ",0.8784
+46653,10544,"Littlestone Hotel, 3 Littlestone Road New RomneyKent, Folkestone and Hythe, South East, TN288LN","Littlestone Hotel, 3, Littlestone Road, Littlestone, Folkestone and Hythe, South East, TN288LN",0.8913
+46656,7830,"Best Western Deincourt Hotel, London Road Newark-on-TrentNottinghamshire, Newark and Sherwood, East Midlands, NG241TF","Deincourt Hotel, London Road, Newark, , GB, Newark and Sherwood, East Midlands, NG241TF",0.8985
+46757,6784,"Slieve Donard Resort and Spa, Downs Road NewcastleCounty Down, Newry, Mourne and Down, BT330AH","Slieve Donard, Downs Road, Newcastle, Down, Newry, Mourne and Down, BT330AH",0.8474
+46795,6760,"Britannia Hotel Newcastle Airport, Ponteland Woolsington WoolsingtonNewcastle-upon-Tyne, Newcastle upon Tyne, North East, NE138DJ","Britannia Hotel Newcastle Airport, Ponteland, Newcastle upon Tyne, North East, NE138DJ",0.8636
+46804,8430,"Sleeperz Hotel Newcastle, 15 Westgate Road Newcastle upon Tyne, North East, NE11SE","Sleeperz, 15, Westgate Road, Newcastle upon Tyne, North East, NE11SE",0.8
+46812,7156,"Grand Hotel Gosforth Park, High Gosforth Park Newcastle upon Tyne, North East, NE35HN","Grand Hotel Gosforth Park Newcastle, Newcastle upon Tyne, , GB, North East, NE35HN",0.8609
+46813,4711,"Village Hotel Newcastle, Cobalt Business Park West Allotment Newcastle upon Tyne, North Tyneside, North East, NE270BY","The Village Newcastle, 10, The Silverlink North, Newcastle upon Tyne, North Tyneside, North East, NE270BY",0.869
+46828,6001,"Sandman Signature Hotel Newcastle, Gallowgate NewcastleNewcastle-upon-Tyne, Newcastle upon Tyne, North East, NE14SD","Sandman Signature Newcastle Hotel, Gallowgate, Newcastle upon Tyne, North East, NE14SD",0.8
+46859,6655,"The Sea Hotel - Sure Hotel Collection by Best Western, Sea Road South ShieldsTyne & Wear, South Tyneside, North East, NE332LD","The Sea Hotel, Sea Road, South Shields, South Tyneside, North East, NE332LD",0.8
+46861,5414,"Little Haven Hotel, River Drive Littlehaven Tyne & Wear LittlehavenSouth Shields Tyne & Wear, South Tyneside, North East, NE331LH","The Little Haven, River Drive, South Shields, South Tyneside, North East, NE331LH",0.8
+46868,8379,"Dene Hotel, 38 42 Grosvenor Road Jesmond JesmondNewcastle Upon Tyne, North East, NE22RP","Dene House, 36-42, Grosvenor Road, Newcastle upon Tyne, North East, NE22RP",0.8
+46871,8157,"New Northumbria Hotel, 61 73 Osborne Road Jesmond JesmondNewcastle upon Tyne, North East, NE22AN","The New Northumbria Hotel, 61-73, Osborne Road, Newcastle upon Tyne, North East, NE22AN",0.8478
+46874,5872,"Hotel du Vin & Bistro Newcastle, City Road Allan HouseNewcastle-upon-Tyne, Newcastle upon Tyne, North East, NE12BE","Hotel du Vin, City Road, Newcastle upon Tyne, North East, NE12BE",0.8
+46893,2057,"Eslington Villa, 8 Station Road Low Fell Low FellGatesheadTyne & Wear, North East, NE96DR","Eslington Villa, 8, Station Road, Gateshead, , United Kingdom, North East, NE96DR",0.8
+46899,5239,"Premier Inn Newcastle Airport, Ponteland Road PrestwickNewcastle Upon TyneTyne and Wear, North East, NE209DB","Premier Inn, Ponteland Road, Newcastle upon Tyne, North East, NE209DB",0.8
+46901,5871,"Premier Inn Newcastle City Centre Millennium Bridge, City Road Newcastle Upon TyneTyne and Wear, North East, NE12AN","Premier Inn, City Road, Newcastle upon Tyne, North East, NE12AN",0.8
+46902,4784,"Premier Inn Newcastle Gosforth Cramlington, Moor Farm Roundabout Off Front Street Annitsford  Cramlington Tyne & Wear Off Front StreetMoorfarm Industrial EstateNewcastle upon Tyne, Northumberland, North East, NE237QA","Premier Inn, Cramlington, Northumberland, North East, NE237QA",0.8
+46906,8270,"Premier Inn South Shields Port Of Tyne, 2 Hobson Way Newcastle RoadSouth ShieldsTyne and Wear, South Tyneside, North East, NE349PU","Premier Inn - South Shields Port of Tyne, 2, Hobson Way, South Shields, South Tyneside, North East, NE349PU",0.8757
+46913,2236,"Rowers Hotel, St Omers Road Dunston GatesheadTyne & Wear, North East, NE119EJ","Rowers Hotel, St Omers Road, Gateshead, , United Kingdom, North East, NE119EJ",0.8
+46933,5484,"Staybridge Suites Newcastle, Buxton Street Newcastle upon Tyne, North East, NE16NL","Staybridge Suites, Buxton Street, Newcastle upon Tyne, , GB, North East, NE16NL",0.8609
+46937,1954,"easyHotel Newcastle, Proctor House 23 29 Side 23-29 SideNewcastle Upon Tyne, North East, NE13JL","easyHotel, 23-29, Side, Newcastle upon Tyne, , United Kingdom, North East, NE13JL",0.8
+46947,9543,"Premier Inn Sunderland City Centre, Hind Street SunderlandTyne & Wear, North East, SR13QD","Premier Inn, 1-3, Hind Street, Sunderland, North East, SR13QD",0.864
+46958,2320,"Motel One Newcastle, 15-25 High Bridge Newcastle-upon-Tyne, Newcastle upon Tyne, North East, NE11EW","Motel One Newcastle, 15-29, High Bridge, Newcastle upon Tyne, , United Kingdom, North East, NE11EW",0.8
+46965,861,"Rivers Hotel Green Lane Riverside ParkGateshead, North East, NE100SB","Rivers Edge Hotel, Green Lane, Gateshead, , United Kingdom, North East, NE100SB",0.8
+46975,2084,"Premier Inn Newcastle City Centre, 95 Newgate Street Newcastle  NewcastleTyne And Wear, Newcastle upon Tyne, North East, NE15RF","Premier Inn, 95, Newgate Street, Newcastle upon Tyne, , United Kingdom, North East, NE15RF",0.8
+47056,5326,"INNSIDE by Melia Newcastle, River View, Bridge Court, The Close,, Quayside, Newcastle-upon-Tyne, England, Newcastle upon Tyne, North East, NE13BE","Travelodge, Close, Newcastle upon Tyne, , GB, North East, NE13BE",0.8609
+47056,9703,"INNSIDE by Melia Newcastle, River View, Bridge Court, The Close,, Quayside, Newcastle-upon-Tyne, England, Newcastle upon Tyne, North East, NE13BE","INNSiDE, Close, Newcastle upon Tyne, North East, NE13BE",0.8989
+47217,8186,"Holiday Inn Stoke on Trent M6 Jct 15, Clayton Road Newcastle-under-Lyme, West Midlands, ST54DL","Holiday Inn, Clayton Road, Newcastle-under-Lyme, West Midlands, ST54DL",0.8453
+47224,7564,"Clayhanger Guest House 40 42 King Street Newcastle Under LymeStaffordshire, Newcastle-under-Lyme, West Midlands, ST51HX","Clayhanger Guest House, 40-42, King Street, Newcastle-under-Lyme, West Midlands, ST51HX",0.8179
+47255,9219,"Best Western Heath Court Hotel, Moulton Road NewmarketSuffolk, West Suffolk, East of England, CB88DY","Best Western Heath Court Hotel, Moulton Road, Newmarket, West Suffolk, East of England, CB88DY",0.862
+47260,10703,"Ashley House, 13 Old Station Road NewmarketSuffolk, West Suffolk, East of England, CB88DT","Ashley House Hotel, Old Station Road, Newmarket, West Suffolk, East of England, CB88DT",0.8696
+47262,114,"Rosery Country House Hotel, 15 Church Street Exning ExningNewmarketSuffolk, West Suffolk, East of England, CB87EH","The Rosery Hotel, 15, Church Street, Exning, , United Kingdom, West Suffolk, East of England, CB87EH",0.8279
+47273,3122,"Holiday Inn NEWPORT, The Coldra Newport, NP182YG","Holiday Inn Newport, The Coldra, Newport, , United Kingdom, NP182YG",0.8652
+47276,3071,"The Queen's Hotel Wetherspoon, 19 Bridge Street Newport, NP204AN","Travelodge, 66, Bridge Street, Newport, , United Kingdom, NP204AN",0.8986
+47279,694,"Travelodge Newport Isle of Wight, Lugley Street Newport Isle of Wight, South East, PO305ET","Travelodge, 41, Lugley Street, Newport, , GB, Isle of Wight, South East, PO305ET",0.8394
+47338,694,"Hewitts Hotel And Restaurant, Lugley Street NEWPORT, Isle of Wight, South East, PO305ET","Travelodge, 41, Lugley Street, Newport, , GB, Isle of Wight, South East, PO305ET",0.8192
+47437,5049,"The Atlantic Hotel, Dane Road Newquay, Cornwall, South West, TR71EN","Atlantic Hotel, Dane Road, Newquay, Cornwall, South West, TR71EN",0.8987
+48091,1909,"Sir Alfred Munnings Hotel, The Street MendhamSuffolk, Mid Suffolk, East of England, IP200NH","The Sir Alfred Munnings, The Street, Harleston, , United Kingdom, Mid Suffolk, East of England, IP200NH",0.8
+48222,11236,"DoubleTree by Hilton Edinburgh Queensferry Crossing, St Margaret's Head North Queensferry North Queensferry, Fife, KY111HP","DoubleTree by Hilton Edinburgh - Queensferry Crossing, St Margaret's Head, North Queensferry, Fife, KY111HP",0.8
+48245,7738,"The Kings Arms, 1 Kings Arms Street North Walsham, North Norfolk, East of England, NR289JX","Kings Arms Hotel, Kings Arms Street, North Walsham, , GB, North Norfolk, East of England, NR289JX",0.8
+48303,5787,"Travelodge Northampton Wootton, London Road Wootton WoottonNorthampton, West Northamptonshire, East Midlands, NN40TG","Travelodge Northampton Wooton, London Road, Northampton, , GB, West Northamptonshire, East Midlands, NN40TG",0.8
+48308,972,"Hilton Northampton, 100 Watering Lane, Collingtree CollingtreeNorthampton, West Northamptonshire, East Midlands, NN40XW","Hilton Northampton, 100, Watering Lane, Northampton, , GB, West Northamptonshire, East Midlands, NN40XW",0.8624
+48309,5323,"Plough Hotel, Bridge Street Northampton, West Northamptonshire, East Midlands, NN11PF","The Plough Hotel, Bridge Street, Northampton, , GB, West Northamptonshire, East Midlands, NN11PF",0.8
+48337,11029,"The Poplars Hotel, Cross Street Moulton MoultonNorthampton, West Northamptonshire, East Midlands, NN37RZ","The Poplars Hotel, 33, Cross Street, Northampton, , GB, West Northamptonshire, East Midlands, NN37RZ",0.8
+48384,9738,"The Greenwood Hotel Wetherspoon, 674 Whitton Avenue West NortholtLondon, Ealing, UB54LA","The Greenwood Hotel, 674, Whitton Avenue West, Northolt, , GB, Ealing, London, UB54LA",0.8151
+48393,7459,"Wincham Hall Hotel, Hall Lane WinchamCheshire, Cheshire West and Chester, North West, CW96DG","Wincham Hall Hotel, Hall Lane, Wincham, Cheshire West and Chester, North West, CW96DG",0.8
+48395,8844,"Hartford Hall Hotel By Marston's Inns, 81 School Lane Northwich, Cheshire West and Chester, North West, CW81PW","Hartford Hall Hotel, 81, School Lane, Cheshire West and Chester, North West, CW81PW",0.8118
+48412,11112,"Best Western Brook Hotel, 2 Barnard Road NorwichNorfolk, East of England, NR59JB","Best Western Brook Hotel, 2, Barnard Road, Norwich, , GB, East of England, NR59JB",0.8652
+48430,5875,"Travelodge Norwich Central Riverside, 8 12 St. Vedast Street Norwich, East of England, NR11BT","Travelodge, 8,10,12, Saint Vedast Street, Norwich, , GB, East of England, NR11BT",0.8526
+48435,4474,"Holiday Inn Norwich City, Carrow Road Norwich, East of England, NR11HU","Holiday Inn Norwich City, Carrow Road, Norwich, , GB, East of England, NR11HU",0.8809
+48436,4479,"The George Hotel, BW Signature Collection, 10 Arlington Lane, Newmarket Road Norwich, East of England, NR22DA","The George Hotel, 10, Arlington Lane, Norwich, , GB, East of England, NR22DA",0.8953
+48450,11200,"Barnham Broom Hotel Golf & Spa, Honingham Road Barnham Broom Barnham Broom NorwichNorfolk, South Norfolk, East of England, NR94DD","Barnham Broom Hotel & Country Club, Honingham Road, Norwich, , GB, South Norfolk, East of England, NR94DD",0.8452
+48463,6848,"Premier Inn Norwich Nelson City Centre, Prince Of Wales Road NorwichNorfolk, East of England, NR11DX","Premier Inn, Prince of Wales Road, Norwich, , GB, East of England, NR11DX",0.8
+48476,7717,"The Norfolk Mead Hotel, Church Loke Coltishall ColtishallNorfolk, Broadland, East of England, NR127DN","Norfolk Mead Hotel & Spa, Church Loke, Broadland, East of England, NR127DN",0.8
+48486,5040,"Hilton Nottingham, Milton Street Nottingham, East Midlands, NG13PZ","Hilton Nottingham, Milton Street, Nottingham, East Midlands, NG13PZ",0.8
+48492,389,"Premier Inn Nottingham CC, Chapel Quarter, Chapel Bar, 7 NOTTINGHAM, East Midlands, NG16JS","Premier Inn, 7, Chapel Quarter, Chapel Bar, Nottingham, , United Kingdom, East Midlands, NG16JS",0.84
+48497,3916,"Mercure Nottingham Sherwood Hotel, 296 Mansfield Rd Nottinghamshire, East Midlands, NG52BT","Mercure Nottingham Sherwood Hotel, 296, Mansfield Road, Nottingham, East Midlands, NG52BT",0.871
+48498,5340,"Doubletree By Hilton Hotel Nottingham Gateway, Nuthall Road Nottingham, East Midlands, NG86AZ","DoubleTree by Hilton Hotel Nottingham - Gateway, Nuthall Road, Nottingham, East Midlands, NG86AZ",0.8675
+48505,178,"The Britannia Nottingham Hotel, St James Street Nottingham, East Midlands, NG16BN","Britannia Hotel, Saint James's Street, Nottingham, , United Kingdom, East Midlands, NG16BN",0.8571
+48511,11105,"Holiday Inn Derby Nottingham M1 J25, Bostocks Lane Sandiacre SandiacreNottingham, Erewash, East Midlands, NG105NJ","Holiday Inn, Bostocks Lane, Nottingham, Erewash, East Midlands, NG105NJ",0.8
+48521,1553,"Travelodge Nottingham Central, Maid Marian Way Nottingham Nottinghamshire, East Midlands, NG16AJ","Travelodge Nottingham Central, 63, Main Marian Way, Nottingham, , United Kingdom, East Midlands, NG16AJ",0.88
+48525,940,"Hogs Head Hotel, Awsworth Lane Main Street Awsworth. Nottingham, Broxtowe, East Midlands, NG162RN","The Hogs Head Hotel, Awsworth Lane, Nottingham, , GB, Broxtowe, East Midlands, NG162RN",0.8053
+48534,5469,"Premier Inn Nottingham South, Loughborough Road Ruddington RuddingtonNottinghamNottinghamshire, Rushcliffe, East Midlands, NG116LS","Premier Inn, Loughborough Road, Nottingham, , GB, Rushcliffe, East Midlands, NG116LS",0.8
+48536,1014,"Robin 7 Lodge City Centre, 9 St James's Terrace Nottingham, East Midlands, NG16FW","Robin 7 Rooms, 9, Saint James's Terrace, Nottingham, , GB, East Midlands, NG16FW",0.8769
+48563,7450,"Bennetts Hotel, 20-22 Derby Road Long Eaton Long EatonNottingham, Erewash, East Midlands, NG101LW","Bennetts, 20-22, Derby Road, Nottingham, Erewash, East Midlands, NG101LW",0.8
+48697,10011,"Wisteria Hotel, 4 Catmose Street Oakham Rutland, East Midlands, LE156HW","Wisteria Hotel, 4, Catmos Street, Oakham, , GB, Rutland, East Midlands, LE156HW",0.8889
+48709,1267,"The Crown Inn, 19 High Street East Uppingham, Rutland, East Midlands, LE159PY","The Falcon Hotel, 7, High Street East, Oakham, , GB, Rutland, East Midlands, LE159PY",0.8155
+48746,8507,"Falls of Lora Hotel, Connel Ferry Argyll Scotland, Argyll and Bute, PA371PB","Falls of Lora Hotel, Connel, Argyll and Bute, PA371PB",0.8
+48756,6825,"Oban Bay Hotel, Corran Esplanade ObanArgyll, Argyll and Bute, PA345AE","Oban Bay Hotel, Corran Esplanade, Oban, , GB, Argyll and Bute, PA345AE",0.8
+48893,721,"The Fountain Inn, Fore Street OkehamptonDevon, West Devon, South West, EX201AP","Fountain Hotel, Fore Street, Okehampton, , United Kingdom, West Devon, South West, EX201AP",0.8
+48999,4719,"The Queen Hotel, 40 Dartmouth Road Bucks OlneyBuckinghamshire, Milton Keynes, South East, MK464BH","The Queen Hotel, 40, Dartmouth Road, Olney, , GB, Milton Keynes, South East, MK464BH",0.8527
+49008,7521,"Kellys Inn, 232 Omagh Road GarvagheyBallygawleyCounty Tyrone, Fermanagh and Omagh, BT702DX","Kelly's Inn, 232, Omagh Road, Garvaghey, Fermanagh and Omagh, BT702DX",0.8942
+49048,5972,"Wynnstay Hotel, Church St Oswestry Shropshire, West Midlands, SY112SZ","The Wynnstay Hotel, 43, Church Street, Oswestry, , GB, Shropshire, West Midlands, SY112SZ",0.8455
+49151,11315,"Oxford Spires Four Pillars, Abingdon Road Oxford, South East, OX14PS","Oxford Spires, Abingdon Road, Oxford, South East, OX14PS",0.8227
+49153,6334,"Mercure Oxford Eastgate Hotel, 73 High Street Oxfordshire Oxford, South East, OX14BE","Mercure Oxford Eastgate Hotel, 73, High Street, Oxford, South East, OX14BE",0.8941
+49159,10018,"Royal Oxford Hotel, Park End St Oxford, South East, OX11HR","Royal Oxford Hotel, Park End Street, Oxford, South East, OX11HR",0.8538
+49173,677,"Cotswold House, 363 Banbury Road Oxford, South East, OX27PL","Cotswold House Bed & Breakfast, 363, Banbury Road, Oxford, , United Kingdom, South East, OX27PL",0.8
+49211,8304,"Hampton by Hilton Oxford, Grenoble Road  Oxford, South East, OX44XP","Hampton by Hilton Oxford, Grenoble Road, Oxford, South East, OX44XP",0.8722
+49484,293,"Russell Court, 31 Esplanade Road, Torbay, South West, TQ46BL","Russell Hotel, Esplanade Road, Paignton, , United Kingdom, Torbay, South West, TQ46BL",0.8
+49627,4894,"The Park Hotel Peebles, Innerleithen Road PeeblesScotland, Scottish Borders, EH458BA","Park Hotel, Innerleithen Road, Scottish Borders, EH458BA",0.8
+49807,7845,"Twr y Felin Hotel, Caerfai Road Pembrokeshire, SA626QT","Twr y Felin Hotel, Ffordd Caerfai, Pembrokeshire, SA626QT",0.8333
+50620,2573,"Glendale Hotel, Plymouth Road PenarthCardiff, Vale of Glamorgan, CF643DH","Glendale Hotel, 8-10, Plymouth Road, Penarth, , United Kingdom, Vale of Glamorgan, CF643DH",0.8
+50642,8193,"Navaar House, 23 Bog Road PenicuikMid Lothian, Midlothian, EH269BY","Navaar House, 23-25, Bog Road, Midlothian, EH269BY",0.8
+51184,9574,"The Royal George Hotel, Tay Street Perth Scotland, Perth and Kinross, PH15LD","Royal George Hotel, Tay Street, Perth, Perth and Kinross, PH15LD",0.8
+51214,7635,"Grampian Hotel, 37 York Place Perth Scotland, Perth and Kinross, PH28EH","Grampian Hotel, 37-39, York Place, Perth, Perth and Kinross, PH28EH",0.8
+51244,6401,"Glencarse Hotel, Main Street Glencarse GlencarsePerth, Perth and Kinross, PH27LX","Glencarse Hotel, 7, Main Street, Glencarse, Perth and Kinross, PH27LX",0.8
+51284,4568,"Holiday Inn Peterborough West, Thorpe Wood Peterborough, East of England, PE36SG","Holiday Inn Peterborough West, Thorpe Wood, Peterborough, , GB, East of England, PE36SG",0.8705
+51377,10515,"The Seaview Hotel, Seaview Road Boddam, Aberdeenshire, AB423NS","Seaview Hotel, Seaview Road, Boddam, , GB, Aberdeenshire, AB423NS",0.8
+51398,73,"Langrish House, Langrish  Petersfield, East Hampshire, South East, GU321RN","Langrish House, Petersfield, , United Kingdom, East Hampshire, South East, GU321RN",0.8
+51422,4839,"The Old Railway Station, Station Road West Sussex, Chichester, South East, GU280JF","The Old Railway Station, Station Road, Petworth, Chichester, South East, GU280JF",0.8
+51582,4887,"Moulin Hotel, 11 13 Kirkmichael Road Pitlochry, Perth and Kinross, PH165EW","Moulin Hotel, Kirkmichael Road, Moulin, Perth and Kinross, PH165EW",0.8
+51585,2174,"McKays Hotel, Bar & Restaurant, 138 Atholl Road Pitlochry, Perth and Kinross, PH165AG","McKays Townhouse, 113, Atholl Road, Pitlochry, , United Kingdom, Perth and Kinross, PH165AG",0.8339
+51585,6796,"McKays Hotel, Bar & Restaurant, 138 Atholl Road Pitlochry, Perth and Kinross, PH165AG","McKays, 113, Atholl Road, Pitlochry, Perth and Kinross, PH165AG",0.8642
+51982,2566,"The Lorna Doone Hotel, High Street Porlock, Somerset, South West, TA248PS","Lorna Doone Hotel & Restaurant, High Street, Minehead, Somerset, , GB, South West, TA248PS",0.8
+52019,655,"Port Charlotte Hotel, Main Street Isle Of Islay Isle of Islay, Argyll and Bute, PA487TU","Port Charlotte Hotel, Main Street, Port Charlotte, , United Kingdom, Argyll and Bute, PA487TU",0.8
+52525,9948,"The Boyne Hotel, 2 North High Street Portsoy, Aberdeenshire, AB452PA","The Boyne Hotel, 2, North High Street, Aberdeenshire, AB452PA",0.8125
+52581,7991,"The White House Manor, New Road PrestburyCheshire, Cheshire East, North West, SK104HP","The White House Manor Hotel, New Road, Prestbury, Cheshire East, North West, SK104HP",0.8
+52718,8723,"The White Horse Inn Hotel, 2 The Square West Sussex Storrington StorringtonWest Sussex, Horsham, South East, RH204DJ","The White Horse, 2, The Square, Storrington, Horsham, South East, RH204DJ",0.8875
+52721,5984,"Abingworth Hall, Storrington Road Thakeham ThakehamPulborough, Horsham, South East, RH203EF","Abingworth Hall, Storrington Road, Pulborough, , GB, Horsham, South East, RH203EF",0.8437
+53132,5684,"Miller of Mansfield, High Street Goring GoringReading, South Oxfordshire, South East, RG89AW","The Miller of Mansfield, High Street, Goring, South Oxfordshire, South East, RG89AW",0.8
+53147,4654,"Travelodge Reading Whitley, Basingstoke Road, 387 READING, South East, RG20JE","Travelodge, 387, Basingstoke Road, Reading, South East, RG20JE",0.8667
+53155,696,"Beech House Hotel, 60 Bath Road Reading Berkshire, South East, RG302AY","Beech House, Bath Road, Reading, , United Kingdom, South East, RG302AY",0.8
+53330,1909,"Sir Alfred Munnings Hotel, The Street MendhamSuffolk, Mid Suffolk, East of England, IP200NH","The Sir Alfred Munnings, The Street, Harleston, , United Kingdom, Mid Suffolk, East of England, IP200NH",0.8
+53398,11330,"Glynhill Hotel, 169 Paisley Road RenfrewGlasgow, Renfrewshire, PA48XB","Glynhill Leisure Hotel, 169, Renfrew Road, Renfrewshire, PA48XB",0.8993
+53654,8273,"Orange Tree, 45 Kew Road RichmondSurrey, Richmond upon Thames, London, TW92NQ","The Orange Tree, 45, Kew Road, Richmond, Richmond upon Thames, London, TW92NQ",0.8548
+53658,9024,"Richmond Inn Hotel, 50-56 Sheen Road RichmondSurrey, Richmond upon Thames, London, TW91UG","Richmond Inn Hotel, 50-56, Sheen Road, Richmond, Richmond upon Thames, London, TW91UG",0.8714
+53877,7064,"The Original Rosslyn Hotel, 2-4 Main Street RoslinScotland, Midlothian, EH259LE","The Original Rosslyn Inn, Main Street, Midlothian, EH259LE",0.8
+53959,3266,"Hill Park Hotel, 10 Heath Road Rosyth Rosyth, Fife, KY112BT","Hillpark Hotel, 10, Heath Road, Rosyth, , GB, Fife, KY112BT",0.8973
+53963,5946,"Newcastle House Rothbury, Front Street MorpethRothburyNorthumberland, North East, NE657UT","Newcastle House Hotel, Front Street, Rothbury, Northumberland, North East, NE657UT",0.8477
+53967,8256,"Coquetvale Hotel, Station Road Rothbury RothburyNorthumberland, North East, NE657QH","The Coquetvale Hotel, Station Road, Rothbury, Northumberland, North East, NE657QH",0.8
+54007,3304,"Commodore Guest House and Self Catering, 12 Battery Place Rothesay, Argyll and Bute, PA209DP","Cannon House Hotel, 5, Battery Place, Rothesay, , GB, Argyll and Bute, PA209DP",0.8759
+54036,6936,"Blue Bell, Rothwell Rothwell, North Northamptonshire, East Midlands, NN146BP","The Blue Bell Hotel, Bell Hill, Kettering, North Northamptonshire, East Midlands, NN146BP",0.8
+54101,9279,"Diamond House, 28 30 Hillmorton Rd RugbyWarwickshire, West Midlands, CV225AA","Diamond House, 30, Hillmorton Road, , GB, Rugby, West Midlands, CV225AA",0.8516
+54134,4029,"Campanile Runcorn, Lowlands Road  Runcorn Cheshire, Halton, North West, WA75TP","Campanile, Lowlands Road, Runcorn, Halton, North West, WA75TP",0.8
+54370,4775,"Best Western Dolphin Hotel, London Road Saint IvesCambridgeshire, Huntingdonshire, East of England, PE275EP","Dolphin Hotel, London Road, St Ives, Huntingdonshire, East of England, PE275EP",0.8
+54383,1236,"The Lion Hotel, High Street  Buckden, Huntingdonshire, East of England, PE195XA","The Lion, 46, High Street, St Neots, , United Kingdom, Huntingdonshire, East of England, PE195XA",0.8
+54424,6912,"AC Hotel Manchester Salford Quays, 17 19 Trafford Road Salford Quays Salford QuaysManchester, North West, M53AW","AC Hotel, 17, Trafford Road, Salford, North West, M53AW",0.8
+54425,7732,"Travelodge Manchester Central, 11 Blackfriars Street Townbury House Manchester, Salford, North West, M35AL","Travelodge Manchester Central, 11, Blackfriars Street, Salford, North West, M35AL",0.8071
+54490,7212,"Mercure Salisbury White Hart Hotel, St John St  Salisbury, Wiltshire, South West, SP12SD","Mercure Salisbury White Hart, 1, St John's Street, Salisbury, Wiltshire, South West, SP12SD",0.8106
+54771,8180,"Bertram Lodge, Leed Street, 3 SANDOWN, Isle of Wight, South East, PO369DA","Bertram Lodge, 3, Leed Street, Sandown, , GB, Isle of Wight, South East, PO369DA",0.875
+54772,2784,"Melville Hall Hotel and Utopia Spa, Melville Street Sandown Isle of Wight, South East, PO369DH","Melville Hall Hotel, Melville Street, Sandown, , GB, Isle of Wight, South East, PO369DH",0.8891
+55391,3017,"The Shetland Hotel, Holmsgarth Road Lerwick Shetland, Shetland Islands, ZE10PW","The Shetland Hotel, Holmsgarth Road, Shetland, , United Kingdom, Shetland Islands, ZE10PW",0.8
+55488,1146,"The Avondale, 4 5 Avondale Road SeafordEast Sussex, Lewes, South East, BN251RJ","The Avondale, 4-5, Avondale Road, Seaford, , United Kingdom, Lewes, South East, BN251RJ",0.8733
+55489,9404,"The Wellington, 33 Steyne Road SeafordEast Sussex, Lewes, South East, BN251HT","Wellington Hotel, 33, Steyne Road, Seaford, Lewes, South East, BN251HT",0.861
+55523,7481,"The Bamburgh Castle Inn, Seahouses Northumberland, North East, NE687SQ","Bamburgh Castle Inn, Harbour Road, Seahouses, Northumberland, North East, NE687SQ",0.8999
+55544,7675,"Sella Park House Hotel, Calderbridge Cumbria, Cumberland, North West, CA201DW","Sella Park, Calder Bridge, Cumberland, North West, CA201DW",0.8
+55604,5354,"The Seaview Hotel And Restaurant, The High Street Seaview, Isle of Wight, South East, PO345EX","Seaview Hotel, High Street, Seaview, , GB, Isle of Wight, South East, PO345EX",0.8538
+55675,10353,"The Glen Hotel, Yarrow Terrace Selkirk, Scottish Borders, TD75AS","The Glen Hotel, Yarrow Terrace, Selkirk, Scottish Borders, TD75AS",0.8
+55799,5551,"Bourne Hall Country Hotel, Luccombe Rd Shanklin Isle of Wight, South East, PO376RR","Bourne Hall Country House Hotel, 11, Luccombe Road, Shanklin, Isle Of Wight, , GB, South East, PO376RR",0.875
+55825,5235,"Luccombe Manor Country House Hotel, Popham Road Shanklin Isle of Wight, South East, PO376RG","Luccombe Manor, Popham Road, Shanklin, , GB, Isle of Wight, South East, PO376RG",0.8956
+55825,5236,"Luccombe Manor Country House Hotel, Popham Road Shanklin Isle of Wight, South East, PO376RG","Rylstone Manor Hotel, 10, Popham Road, Shanklin, , GB, Isle of Wight, South East, PO376RG",0.8
+55834,8395,"The Kenbury B&B, Clarence Road Shanklin, Isle of Wight, South East, PO377BH","The Kenbury, Clarence Road, Shanklin, , GB, Isle of Wight, South East, PO377BH",0.8415
+55866,8862,"Victoria Lodge Hotel, Alexandra Road Shanklin Isle Of Wight, South East, PO376AF","Victoria Lodge Hotel, 5, Alexandra Road, Shanklin, , GB, Isle of Wight, South East, PO376AF",0.8928
+56087,5734,"Holiday Inn London Shepperton, Felix Lane Shepperton, Spelthorne, South East, TW178NP","Holiday Inn Shepperton, Felix Lane, Shepperton, Surrey, , GB, Spelthorne, South East, TW178NP",0.8965
+56291,7378,"Premier Inn Shrewsbury Town Centre, Smithfield Road Shrewsbury Shrewsbury, Shropshire, West Midlands, SY11QB","Premier Inn, Smithfield Road, Shrewsbury, Shropshire, West Midlands, SY11QB",0.8495
+56484,7378,"Premier Inn Shrewsbury Town Centre, Smithfield Road Shrewsbury Shrewsbury, Shropshire, West Midlands, SY11QB","Premier Inn, Smithfield Road, Shrewsbury, Shropshire, West Midlands, SY11QB",0.8495
+56781,1294,"Hotel Riviera, The Esplanade SidmouthDevon, East Devon, South West, EX108AY","Hotel Riviera, The Esplanade, Sidmouth, , United Kingdom, East Devon, South West, EX108AY",0.8
+56783,495,"The Belmont Hotel, The Esplanade Sidmouth, East Devon, South West, EX108RX","Belmont Hotel, The Esplanade, Sidmouth, , United Kingdom, East Devon, South West, EX108RX",0.8622
+56787,1295,"The Bedford Hotel, Esplanade Sidmouth Devon, East Devon, South West, EX108NR","Bedford Hotel, The Esplanade, Sidmouth, , United Kingdom, East Devon, South West, EX108NR",0.8455
+56788,1297,"The Elizabeth, The Esplanade SidmouthDevon, East Devon, South West, EX108AT","Elizabeth Hotel, The Esplanade, Sidmouth, , United Kingdom, East Devon, South West, EX108AT",0.8
+56789,1296,"Kingswood & Devoran Hotel, The Esplanade SidmouthDevon, East Devon, South West, EX108AX","The Kingswood Hotel, The Esplanade, Sidmouth, , United Kingdom, East Devon, South West, EX108AX",0.8
+56790,4354,"The Woodlands Hotel, Station Road SidmouthDevon, East Devon, South West, EX108HG","Woodlands Hotel, Station Road, Sidmouth, East Devon, South West, EX108HG",0.8
+56794,1292,"Hunters Moon Hotel, Sid Road SidmouthDevon, East Devon, South West, EX109AA","Hunters Moon, Sid Road, East Devon, , United Kingdom, South West, EX109AA",0.8
+56822,7536,"The Golf Hotel, Criffel Street  Silloth - On - Solway, Cumberland, North West, CA74AB","The Golf Hotel, Criffel Street, Silloth, Cumberland, North West, CA74AB",0.8
+56889,3284,"The Queens Hotel, 49 Scarborough Avenue Lincolnshire SkegnessLincolnshire, East Lindsey, East Midlands, PE252TD","The Queens Hotel, 49, Scarbrough Avenue, Skegness, , GB, East Lindsey, East Midlands, PE252TD",0.8125
+56905,10246,"Hotel No 8, South Parade SkegnessLincolnshire, East Lindsey, East Midlands, PE253HW","Hotel No8, 8, South Parade, Skegness, East Lindsey, East Midlands, PE253HW",0.8
+56922,5545,"Balmoral, 28 South Parade SkegnessLincolnshire, East Lindsey, East Midlands, PE253HW","The Balmoral Hotel, 28, South Parade, Skegness, , GB, East Lindsey, East Midlands, PE253HW",0.8805
+56926,3288,"The Chatsworth Bed and Breakfast, 15-16 North Parade SkegnessLincolnshire, East Lindsey, East Midlands, PE252UB","The Chatsworth Hotel, 15-16, North Parade, Skegness, , GB, East Lindsey, East Midlands, PE252UB",0.8
+57218,11266,"Slaley Hall SlaleyHexhamNorthumberland, North East, NE470BX","Slaley Hall, Slaley, Northumberland, North East, NE470BX",0.8174
+57391,8067,"Royal Ship, Queens Square Dolgellau, Gwynedd, LL401AR","Royal Ship Hotel, Queen Square, Dolgellau, Gwynedd, LL401AR",0.888
+57979,11189,"The Arden Hotel & Leisure Club, Coventry Road, Bickenhill BickenhillSolihull, West Midlands, B920EH","Arden Hotel, Coventry Road, Birmingham, , GB, Solihull, West Midlands, B920EH",0.8
+57991,6658,"Strawberry Bank Hotel, Main Rd Meriden MeridenCoventryWest Midlands, Solihull, CV77NF","Strawberry Bank Hotel & Restaurant, 72, Main Road, Meriden, , GB, Solihull, West Midlands, CV77NF",0.8625
+57993,11198,"Forest Hotel, Station Approach DorridgeSolihull, West Midlands, B938JA","The Forest Hotel, Station Approach, Solihull, West Midlands, B938JA",0.8
+58099,2566,"The Lorna Doone Hotel, High Street Porlock, Somerset, South West, TA248PS","Lorna Doone Hotel & Restaurant, High Street, Minehead, Somerset, , GB, South West, TA248PS",0.8
+58119,2845,"Northfield Hotel, Northfield Road Minehead Somerset, South West, TA245PU","The Nortfield Hotel, Northfield Road, Minehead, , United Kingdom, Somerset, South West, TA245PU",0.8856
+58127,10550,"The Phoenix Hotel, 15 Fore Street Chard, Somerset, South West, TA201PH","The Phoenix Hotel, Fore St, Chard, Somerset, South West, TA201PH",0.8166
+58141,5075,"Travelodge Taunton, Riverside Retail Park Hankridge Farm Blackbrook Park Hankridge FarmBlackbrook ParkTaunton, Somerset, South West, TA12LR","Travelodge, Heron Gate Office Park, Taunton, Somerset, , GB, South West, TA12LR",0.8
+58158,6974,"Meryan House Hotel, Bishops Hull Road Bishops Hull Bishops HullTaunton, Somerset, South West, TA15EG","Meryan House Hotel, Bishops Hull Road, Taunton, , GB, Somerset, South West, TA15EG",0.8
+58162,5144,"Days Inn Taunton, Roadchef Motorway Svc Area M5 Southbound Trullm M5 Southbound TrullmTaunton, Somerset, South West, TA37PF","Days Inn, Taunton, Somerset, , GB, South West, TA37PF",0.8
+58433,5270,"The Tudor Hotel & Restaurant, 21 St Mary's Street Bridgwater, Somerset, South West, TA63LX","The Tudor Hotel & Restaurant, 21-25, St Mary Street, Bridgwater, Somerset, , GB, South West, TA63LX",0.88
+58437,9757,"Holiday Inn Express Bridgwater M5, Market Way, Bridgwater, , United Kingdom, Somerset, South West, TA66DF","Holiday Inn Express, Market Way, Bridgwater, Somerset, , GB, South West, TA66DF",0.8609
+58518,6654,"The Great Western Hotel, Station Approach, Somerset, South West, TA11QW","The Great Western Hotel, Station Approach, Taunton, Somerset, , GB, South West, TA11QW",0.8
+58838,6655,"The Sea Hotel - Sure Hotel Collection by Best Western, Sea Road South ShieldsTyne & Wear, South Tyneside, North East, NE332LD","The Sea Hotel, Sea Road, South Shields, South Tyneside, North East, NE332LD",0.8
+58839,5414,"Little Haven Hotel, River Drive Littlehaven Tyne & Wear LittlehavenSouth Shields Tyne & Wear, South Tyneside, North East, NE331LH","The Little Haven, River Drive, South Shields, South Tyneside, North East, NE331LH",0.8
+58844,8270,"Premier Inn South Shields Port Of Tyne, 2 Hobson Way Newcastle RoadSouth ShieldsTyne and Wear, South Tyneside, North East, NE349PU","Premier Inn - South Shields Port of Tyne, 2, Hobson Way, South Shields, South Tyneside, North East, NE349PU",0.8757
+58886,4773,"Macdonald Botley Park Hotel & Spa, Winchester Road Botley Boorley Green Boorley GreenSouthampton, Eastleigh, South East, SO322UA","Macdonald Botley Park Hotel & Spa, Winchester Road, Southampton, Eastleigh, South East, SO322UA",0.8
+58886,5641,"Macdonald Botley Park Hotel & Spa, Winchester Road Botley Boorley Green Boorley GreenSouthampton, Eastleigh, South East, SO322UA","Macdonald Botley Park Hotel & Spa, Winchester Road, Southampton, Eastleigh, South East, SO322UA",0.8
+58928,5016,"Premier Inn Southampton City Centre, 6 Dials New Road Southampton, South East, SO140AB","Premier Inn, New Road, Southampton, South East, SO140AB",0.8182
+58932,11254,"Premier Inn Southampton North, Romsey Road Nursling NurslingSouthampton, Test Valley, South East, SO160XJ","Premier Inn Southampton North, Romsey Road, Southampton, Test Valley, South East, SO160XJ",0.8
+59134,3146,"Balmoral Lodge Hotel, 41 Queens Road Southport, Sefton, North West, PR99EX","Balmoral Lodge Hotel, 41, Queen Street, Southport, , United Kingdom, Sefton, North West, PR99EX",0.8826
+59444,247,"Holiday Inn Luton-South M1, Jct.9, London Road Markyate MarkyateLuton, Dacorum, East of England, AL38HH","Holiday Inn, London Road, St Albans, , United Kingdom, Dacorum, East of England, AL38HH",0.8
+59446,469,"Mercure St Albans The Noke, Watford Road St. Albans, St Albans, East of England, AL23DS","Mercure Noke Hotel St Albans, Watford Road, St. Albans, , United Kingdom, East of England, AL23DS",0.8878
+59452,1228,"Ardmore House Hotel, 54 Lemsford Rd Saint AlbansHertfordshire, St Albans, East of England, AL13PR","Ardmore House Hotel, 54, Lemsford Road, St Albans, Hertfordshire, , GB, East of England, AL13PR",0.832
+59497,2663,"Five Pilmour Place, 5 Pilmour Place Saint AndrewsScotland, Fife, KY169HZ","Pilmour Hotel, 1, Pilmour Place, St Andrews, , United Kingdom, Fife, KY169HZ",0.8
+59758,1452,"Manor House Hotel, 11-12 Main Street Saint BeesCumbria, Cumberland, North West, CA270DE","Manor House, 11-12, Main Street, St Bees, , United Kingdom, Cumberland, North West, CA270DE",0.8
+59763,1453,"Queens Hotel, Main Street St Bees, Cumberland, North West, CA270DE","Queens Hotel, 130, Main Street, St Bees, , United Kingdom, Cumberland, North West, CA270DE",0.82
+59887,8300,"The St Ives Bay Hotel, The Terrace St Ives, Cornwall, South West, TR262BP","St Ives Bay Hotel, The Terrace, St Ives, , GB, Cornwall, South West, TR262BP",0.8
+60070,10887,"Spread Eagle, Watling Street Gailey, South Staffordshire, West Midlands, ST195PN","Spread Eagle by Marston's Inns, Watling Street, Gailey, South Staffordshire, West Midlands, ST195PN",0.8916
+60085,6829,"Premier Inn Burton On Trent Central, Wellington Road Burton On Trent Staffordshire, East Staffordshire, West Midlands, DE142DQ","Premier Inn, Wellington Road, Burton-on-Trent, East Staffordshire, West Midlands, DE142DQ",0.8
+60103,6536,"Dovecliff Hall Hotel, Dovecliff Road Stretton StrettonBurton upon TrentStaffordshire, East Staffordshire, West Midlands, DE130DJ","Dovecliff Hall Hotel, Dovecliff Road, Burton-on-Trent, East Staffordshire, West Midlands, DE130DJ",0.8
+60108,8186,"Holiday Inn Stoke on Trent M6 Jct 15, Clayton Road Newcastle-under-Lyme, West Midlands, ST54DL","Holiday Inn, Clayton Road, Newcastle-under-Lyme, West Midlands, ST54DL",0.8453
+60111,5998,"Travelodge Stoke-on-Trent Trentham, LONGTON ROAD, 206 STOKE ON TRENT, West Midlands, ST48BU","Travelodge, Longton Road, Stoke-on-Trent, West Midlands, ST48BU",0.8274
+60150,163,"Grail Court Hotel, Station street Burton-Upon-TrentStaffordshire, East Staffordshire, West Midlands, DE141BN","Grail Court Hotel, Station Street, Burton-on-Trent, , United Kingdom, East Staffordshire, West Midlands, DE141BN",0.8
+60166,8087,"Premier Inn Tamworth South, Watling Street Wilnecote WilnecoteTamworth, West Midlands, B775PN","Premier Inn - Tamworth South, Watling Street, Tamworth, West Midlands, B775PN",0.8
+60175,344,"Three Queens Hotel, One Bridge Street Burton upon TrentStaffordshire, East Staffordshire, West Midlands, DE141SY","Three Queen's Hotel, 1, Bridge Street, Burton-on-Trent, , United Kingdom, East Staffordshire, West Midlands, DE141SY",0.8
+60204,2108,"Hoar Cross Hall, Maker Lane.Hoar Cross Hoar CrossBurton upon TrentStaffordshire, East Staffordshire, West Midlands, DE138QS","Hoar Cross Hall, Maker Lane, Burton-on-Trent, , United Kingdom, East Staffordshire, West Midlands, DE138QS",0.8
+60213,658,"The Boars Head Hotel, Station Road Draycott In The Clay Draycott-in-the-clay Draycott in the Clay Ashbourne, East Staffordshire, West Midlands, DE65GX","Boars Head Hotel, Station Road, Ashbourne, , United Kingdom, East Staffordshire, West Midlands, DE65GX",0.8
+60216,235,"The White Hart Hotel, 6-8 Carter Street Uttoxeter, East Staffordshire, West Midlands, ST148EU","The White Hart Hotel, Carter Street, Uttoxeter, , United Kingdom, East Staffordshire, West Midlands, ST148EU",0.8563
+60221,8074,"Tamworth Arms, Lichfield Street TamworthEngland, West Midlands, B797QL","The Tamworth Arms, 71, Lichfield Street, Tamworth, West Midlands, B797QL",0.8
+60237,7564,"Clayhanger Guest House 40 42 King Street Newcastle Under LymeStaffordshire, Newcastle-under-Lyme, West Midlands, ST51HX","Clayhanger Guest House, 40-42, King Street, Newcastle-under-Lyme, West Midlands, ST51HX",0.8179
+60241,10887,"Spread Eagle, Watling Street Gailey, South Staffordshire, West Midlands, ST195PN","Spread Eagle by Marston's Inns, Watling Street, Gailey, South Staffordshire, West Midlands, ST195PN",0.8916
+60274,9538,"Hilton Garden Inn Stoke on Trent  United Kingdom, Potteries Way, Hanley, Stoke on Trent , United Kingdom, Stoke-on-Trent, West Midlands, ST14QA","Hilton Garden Inn Stoke on Trent, Potteries Way, Stoke-on-Trent, West Midlands, ST14QA",0.8364
+60275,4657,"Days Inn by Wyndham Stafford, Roadchef Motorway Service Area, M6 Southbound Staffordshire, Stone, England, West Midlands, ST150XE","Days Inn, Stafford, West Midlands, ST150XE",0.8
+60484,273,"The William Cecil, High Street St Martins StamfordLincolnshire, South Kesteven, East Midlands, PE92LJ","The William Cecil Hotel, 36-38, High Street St Martin's, Stamford, , United Kingdom, South Kesteven, East Midlands, PE92LJ",0.8
+60496,3460,"Candlesticks, 1 Church Ln StamfordLincolnshire, South Kesteven, East Midlands, PE92JU","Candlesticks, 1, Church Lane, Stamford, , United Kingdom, South Kesteven, East Midlands, PE92JU",0.87
+60502,3961,"Beamish Hall Country House Hotel BW Premier Collection, Beamish StanleyDurham, County Durham, North East, DH90YB","Beamish Hall Country House Hotel, Stanley, County Durham, North East, DH90YB",0.8222
+60525,2775,"Novotel London Stansted, Round Coppice Road . London Stansted Airport Stansted, Uttlesford, East of England, CM241SF","Novotel Stansted Airport, Round Coppice Road, Stansted, , GB, Uttlesford, East of England, CM241SF",0.8769
+60556,10129,"Novotel Stevenage, Knebworth Park Stevenage, East of England, SG12AX","Novotel, Stevenage, East of England, SG12AX",0.8
+60579,1955,"Golden Lion Hotel, 8 10 King St Stirling Scotland, FK81BD","Golden Lion, 8-10, King Street, Stirling, , United Kingdom, FK81BD",0.8333
+60717,4319,"Premier Inn Stockton On Tees Middlesbrough, Whitewater Way Thornaby Stockton On Tees ThornabyStockton On TeesCountry Durham, Stockton-on-Tees, North East, TS176QB","Premier Inn Stockton on Tees/Middlesbrough, Whitewater Way, Stockton-on-Tees, , GB, North East, TS176QB",0.8609
+60725,3332,"Kingswood Guest House, 379 Norton Road Norton Stockton On Tees, Stockton-on-Tees, North East, TS202PJ","Kingswood Hotel, 379, Norton Road, Stockton-on-Tees, , GB, North East, TS202PJ",0.8
+60732,2183,"Rosedene House, Viewley Hill Farm Stockton-on-Tees, North East, TS201PQ","Rosedene House B&B, Sandy Road West, Stockton-on-Tees, , United Kingdom, North East, TS201PQ",0.8822
+60743,9523,"Hampton By Hilton Stockton On Tees, Church Road Stockton-on-Tees, North East, TS181TW","Hampton by Hilton Stockton on Tees, Church Road, Stockton-on-Tees, , GB, North East, TS181TW",0.8609
+60758,1779,"Woodlands Park Hotel, Woodlands Lane Stoke D'abernon Stoke D'Abernon CobhamSurrey, Elmbridge, South East, KT113QB","Woodlands Park Hotel, Woodlands Lane, Stoke D'abernon, Cobham,, , United Kingdom, Elmbridge, South East, KT113QB",0.8014
+60776,5998,"Travelodge Stoke-on-Trent Trentham, LONGTON ROAD, 206 STOKE ON TRENT, West Midlands, ST48BU","Travelodge, Longton Road, Stoke-on-Trent, West Midlands, ST48BU",0.8274
+60810,9538,"Hilton Garden Inn Stoke on Trent  United Kingdom, Potteries Way, Hanley, Stoke on Trent , United Kingdom, Stoke-on-Trent, West Midlands, ST14QA","Hilton Garden Inn Stoke on Trent, Potteries Way, Stoke-on-Trent, West Midlands, ST14QA",0.8364
+60881,4657,"Days Inn by Wyndham Stafford, Roadchef Motorway Service Area, M6 Southbound Staffordshire, Stone, England, West Midlands, ST150XE","Days Inn, Stafford, West Midlands, ST150XE",0.8
+60932,4256,"Royal Hotel, Cromwell St StornowayIsle Of Lewis, Na h-Eileanan Siar, HS12DG","Royal Hotel, Stornoway, , GB, Na h-Eileanan Siar, HS12DG",0.8
+61101,3809,"Crowne Plaza Stratford Upon Avon, Bridgefoot Stratford Upon Avon, Stratford-on-Avon, West Midlands, CV376YR","Crowne Plaza, Bridgefoot, Stratford-Upon-Avon, Stratford-on-Avon, West Midlands, CV376YR",0.8608
+61105,3678,"The White Swan Hotel, Rother Street Stratford-upon-AvonWarwickshire, Stratford-on-Avon, West Midlands, CV376NH","White Swan Hotel, Rother Street, Stratford-upon-Avon, , United Kingdom, Stratford-on-Avon, West Midlands, CV376NH",0.8
+61105,5658,"The White Swan Hotel, Rother Street Stratford-upon-AvonWarwickshire, Stratford-on-Avon, West Midlands, CV376NH","White Swan Hotel, Rother Street, Stratford-upon-Avon, Stratford-on-Avon, West Midlands, CV376NH",0.8
+61149,5698,"Indigo Stratford Upon Avon, 4 Chapel Street Stratford Upon Avon, Stratford-on-Avon, West Midlands, CV376HA","Hotel Indigo, Chapel Street, Stratford-on-Avon, West Midlands, CV376HA",0.8
+61350,9493,"The Mill Hotel, Walnut Tree Lane SudburySuffolk, Babergh, East of England, CO101BD","The Mill Hotel, Walnut Tree Lane, Sudbury, , GB, Babergh, East of England, CO101BD",0.8
+61353,8757,"The George and Dragon Hotel, Hall Street Long Melford Long MelfordSudbury, Babergh, East of England, CO109JA","George and Dragon Hotel, Hall Street, Sudbury, Babergh, East of England, CO109JA",0.8
+61364,658,"The Boars Head Hotel, Station Road Draycott In The Clay Draycott-in-the-clay Draycott in the Clay Ashbourne, East Staffordshire, West Midlands, DE65GX","Boars Head Hotel, Station Road, Ashbourne, , United Kingdom, East Staffordshire, West Midlands, DE65GX",0.8
+61403,9543,"Premier Inn Sunderland City Centre, Hind Street SunderlandTyne & Wear, North East, SR13QD","Premier Inn, 1-3, Hind Street, Sunderland, North East, SR13QD",0.864
+61476,5294,"Strattons Hotel, 4 Ash Close SwaffhamNorfolk, Breckland, East of England, PE377NH","Strattons Hotel, 4, Ash Close, Swaffham, , GB, Breckland, East of England, PE377NH",0.8485
+61550,10173,"Travelodge Swansea Central, Princess Way Swansea, SA13LQ","Travelodge, Princess Way, Swansea, SA13LQ",0.8687
+61723,5774,"Holiday Inn Swindon, Marlborough Road Swindon, South West, SN36AQ","Holiday Inn Swindon, Marlborough Road, Swindon, South West, SN36AQ",0.8
+61902,8087,"Premier Inn Tamworth South, Watling Street Wilnecote WilnecoteTamworth, West Midlands, B775PN","Premier Inn - Tamworth South, Watling Street, Tamworth, West Midlands, B775PN",0.8
+61906,8074,"Tamworth Arms, Lichfield Street TamworthEngland, West Midlands, B797QL","The Tamworth Arms, 71, Lichfield Street, Tamworth, West Midlands, B797QL",0.8
+61939,378,"Peckforton Castle, Stone House Lane TARPORLEY, Cheshire East, North West, CW69TN","Peckforton Castle, Stone House Lane, , United Kingdom, Cheshire East, North West, CW69TN",0.8
+61976,5075,"Travelodge Taunton, Riverside Retail Park Hankridge Farm Blackbrook Park Hankridge FarmBlackbrook ParkTaunton, Somerset, South West, TA12LR","Travelodge, Heron Gate Office Park, Taunton, Somerset, , GB, South West, TA12LR",0.8
+61981,6974,"Meryan House Hotel, Bishops Hull Road Bishops Hull Bishops HullTaunton, Somerset, South West, TA15EG","Meryan House Hotel, Bishops Hull Road, Taunton, , GB, Somerset, South West, TA15EG",0.8
+61982,5144,"Days Inn Taunton, Roadchef Motorway Svc Area M5 Southbound Trullm M5 Southbound TrullmTaunton, Somerset, South West, TA37PF","Days Inn, Taunton, Somerset, , GB, South West, TA37PF",0.8
+62030,6654,"The Great Western Hotel, Station Approach, Somerset, South West, TA11QW","The Great Western Hotel, Station Approach, Taunton, Somerset, , GB, South West, TA11QW",0.8
+62127,9486,"Travelodge London Teddington, Park House Station Road Teddington Teddington London, Richmond upon Thames, TW119AD","Travelodge, Station Road, Teddington, Richmond upon Thames, London, TW119AD",0.8
+62128,7279,"The Park Hotel, Park Road Teddington Middlesex TeddingtonMiddlesex, Richmond upon Thames, London, TW110AB","The Park Hotel, 19, Park Road, Teddington, Richmond upon Thames, London, TW110AB",0.8779
+62209,9118,"The Tontine, Tontine Hill Ironbridge IronbridgeTelford, Telford and Wrekin, West Midlands, TF87AL","Tontine Hotel, Tontine Hill, Telford, , GB, Telford and Wrekin, West Midlands, TF87AL",0.8
+62217,9118,"Bridge View Guest House, 10 Tontine Hill Ironbridge, Telford and Wrekin, West Midlands, TF87AL","Tontine Hotel, Tontine Hill, Telford, , GB, Telford and Wrekin, West Midlands, TF87AL",0.8
+62234,8289,"Cameley Lodge, Cameley Temple Cloud Temple CloudBristol, Bath and North East Somerset, South West, BS395AH","Cameley Lodge, Temple Cloud, Bath and North East Somerset, South West, BS395AH",0.8
+62591,7856,"The Ormond At Tetbury, 23 Long Street Tetbury Gloucestershire, Cotswold, South West, GL88AA","The Ormond, Long Street, Tetbury, Cotswold, South West, GL88AA",0.8
+62746,3080,"Trigony House Hotel, Closeburn Dumfries And Galloway, DG35EZ","Trigony House Hotel, A76, Closeburn, , United Kingdom, Dumfries and Galloway, DG35EZ",0.8011
+62928,1791,"Weston House 6 Luke St BamptonDevon, Mid Devon, South West, EX169NF","Weston House, 6, Luke Street, Tiverton, Devon, , GB, Mid Devon, South West, EX169NF",0.8333
+63017,523,"The Tongue Hotel, Tongue Sutherland, Highland, IV274XD","Tongue Hotel, A838, Tongue, , United Kingdom, Highland, IV274XD",0.8
+63084,6211,"The Heritage Hotel, Shedden Hill  TorquayDevon, Torbay, South West, TQ25TY","Heritage Hotel, Torquay, Torbay, South West, TQ25TY",0.8
+63126,1328,"The Robin Hill, 74 Braddons Hill Road East TorquayDevon, Torbay, South West, TQ11HF","Robin Hill Guest House, 74, Braddons Hill Road East, Torquay, , United Kingdom, Torbay, South West, TQ11HF",0.8339
+63143,3229,"The Somerville, 515 Babbacombe Road TorquayDevon, Torbay, South West, TQ11HJ","The Somerville, 515, Babbacombe Road, Torquay, , United Kingdom, Torbay, South West, TQ11HJ",0.8093
+63157,2202,"Hotel Barton, 543 Babbacombe Road TorquayDevon, Torbay, South West, TQ11HQ","Barton, 543, Babbacombe Road, Torquay, , United Kingdom, Torbay, South West, TQ11HQ",0.8093
+63190,6112,"Livermead House Hotel, Sea Front TorquayDevon, Torbay, South West, TQ26QJ","Livermead House Hotel, Torquay, Torbay, South West, TQ26QJ",0.8
+63194,2206,"The Palms, 537 Babbacombe Road TorquayDevon, Torbay, South West, TQ11HQ","Palms Hotel, 537, Babbacombe Road, Torquay, , United Kingdom, Torbay, South West, TQ11HQ",0.8093
+63204,6382,"The Babbacombe Hotel, Babbacombe Downs Road The Sea FrontBabbacombeTorquay, Torbay, South West, TQ13LH","The Babbacombe Hotel, Torquay, Torbay, South West, TQ13LH",0.8
+63210,1727,"The Ravenswood B&B, 535 Babbacombe Road TorquayDevon, Torbay, South West, TQ11HQ","Ravenswood Hotel, 535, Babbacombe Road, Torquay, , United Kingdom, Torbay, South West, TQ11HQ",0.8093
+63307,6181,"Sherwood Palm Hotel, The Sherwood Palm Hotel, Torbay, South West, TQ25HP","Sherwood Hotel, Torquay, Torbay, South West, TQ25HP",0.8
+63382,5527,"Royal Seven Stars Hotel, The Plains TotnesDevon, South Hams, South West, TQ95DD","Royal Seven Stars Hotel, The Plains, Totnes, South Hams, South West, TQ95DD",0.8
+63858,542,"Caledonian Hotel 'A Bespoke Hotel, Quay Street UllapoolRoss-Shire, Highland, IV262UG","Caledonian Hotel, Quay Street, Ullapool, , United Kingdom, Highland, IV262UG",0.8
+63868,9021,"The Arch Inn, 10 11 West Shore Street UllapoolWester Ross, Highland, IV262UR","The Arch Inn, 10-11, West Shore Street, Ullapool, Highland, IV262UR",0.8082
+64045,235,"The White Hart Hotel, 6-8 Carter Street Uttoxeter, East Staffordshire, West Midlands, ST148EU","The White Hart Hotel, Carter Street, Uttoxeter, , United Kingdom, East Staffordshire, West Midlands, ST148EU",0.8563
+64335,4510,"The Springs & Golf Club, Wallingford Road WALLINGFORD, South Oxfordshire, South East, OX106BE","The Springs Hotel, 1, Wallingford Road, North Stoke, South Oxfordshire, South East, OX106BE",0.8
+64354,5138,"Metro Inns Walsall, Birmingham Rd Walsall, West Midlands, WS53AB","Metro Inns Walsall, Birmingham Road, Walsall, West Midlands, WS53AB",0.8786
+64448,6226,"Warkworth House Hotel, 16 Bridge Street WarkworthNorthumberland, North East, NE650XB","Warkworth House Hotel, 16, Bridge Street, Warkworth, Northumberland, North East, NE650XB",0.8055
+64496,3980,"The Park Royal QHotels, Stretton Road Stretton Stretton Warrington, North West, WA44NS","Park Royal Hotel, Stretton Road, Warrington, North West, WA44NS",0.8285
+64500,9719,"The Patten Arms Hotel, Parker Street Warrington, North West, WA11LS","Patten Arms Hotel, Parker Street, Warrington, North West, WA11LS",0.8794
+64527,5271,"Holiday Inn Leamington Spa Warwick, Olympus Avenue Tachbrook Park Tachbrook ParkLeamington Spa, Warwick, West Midlands, CV346RJ","Holiday Inn, Olympus Avenue, Warwick, West Midlands, CV346RJ",0.8
+64531,6523,"Ardencote, The Cumsey Lye Green Road Claverdon, Stratford-on-Avon, West Midlands, CV358LT","Ardencote Manor Hotel, Lye Green Road, Claverdon, Stratford-on-Avon, West Midlands, CV358LT",0.8005
+64534,4792,"Holiday Inn Express Warwick Stratford upon Avon, Stratford Road Longbridge Warwick, West Midlands, CV346TW","Holiday Inn Express, Stratford Road, Warwick, West Midlands, CV346TW",0.8
+64593,8053,"Holiday Inn London Watford Junction, 65-67 Clarendon Road Watford, East of England, WD171DS","Holiday Inn, 65-67, Clarendon Road, Watford, , GB, East of England, WD171DS",0.8937
+64810,5469,"Premier Inn Nottingham South, Loughborough Road Ruddington RuddingtonNottinghamNottinghamshire, Rushcliffe, East Midlands, NG116LS","Premier Inn, Loughborough Road, Nottingham, , GB, Rushcliffe, East Midlands, NG116LS",0.8
+64932,6155,"The Royal Hotel, 1 South Parade Weston-super-MareNorth Somerset, South West, BS231JP","Royal Hotel, South Parade, Weston-Super-Mare, North Somerset, South West, BS231JP",0.8
+65360,10527,"Exmoor House, Wheddon Cross Exmoor National Park Exmoor National ParkMinehead, Somerset, South West, TA247DU","Exmoor House, Minehead, Somerset, , GB, South West, TA247DU",0.8
+65367,7515,"Wheyrigg Hall Hotel, Wheyrigg Wheyrigg Wigton Cumbria, Cumberland, North West, CA70DH","Wheyrigg Hall Hotel, Wheyrigg, Cumberland, North West, CA70DH",0.8529
+65851,2607,"The Windsor Hotel, South Parade Whitley BayTyne and Wear, North Tyneside, North East, NE262RF","Dunes Hotel, South Parade, Whitley Bay, , United Kingdom, North Tyneside, North East, NE262RF",0.8
+65960,6893,"Holiday Inn Leicester Wigston, 299 Leicester Road Wigston FieldsLeicesterLeicestershire, Oadby and Wigston, East Midlands, LE181JW","Holiday Inn, Wigston, 297-299, Leicester Road, Wigston, , GB, Oadby and Wigston, East Midlands, LE181JW",0.8395
+65962,7515,"Wheyrigg Hall Hotel, Wheyrigg Wheyrigg Wigton Cumbria, Cumberland, North West, CA70DH","Wheyrigg Hall Hotel, Wheyrigg, Cumberland, North West, CA70DH",0.8529
+65964,7536,"The Golf Hotel, Criffel Street  Silloth - On - Solway, Cumberland, North West, CA74AB","The Golf Hotel, Criffel Street, Silloth, Cumberland, North West, CA74AB",0.8
+66043,6802,"Premier Inn Manchester Wilmslow, Racecourse Road Wilmslow WilmslowCheshire, Cheshire East, North West, SK95LR","Premier Inn Manchester (Wilmslow), Racecourse Road, Cheshire East, North West, SK95LR",0.8
+66046,278,"Premier Inn Manchester (Handforth), 30 Wilmslow Road HandforthCheshire, Cheshire East, North West, SK93EW","Premier Inn Manchester (Handforth), Wilmslow Road, , United Kingdom, Cheshire East, North West, SK93EW",0.8
+66464,5473,"Castle Hotel Windsor Mgallery By Sofitel, 18 High Street  Windsor WindsorBerkshire, Windsor and Maidenhead, South East, SL41LJ","The Castle Hotel, 18, High Street, Windsor, Windsor and Maidenhead, South East, SL41LJ",0.8404
+66466,9009,"The Crown And Cushion, 84 Hight Street Eton EtonBerkshire, Windsor and Maidenhead, South East, SL46AF","The Crown and Cushion, 84, High Street, Windsor and Maidenhead, South East, SL46AF",0.8571
+66483,5472,"Macdonald Windsor, 23 High Street WindsorBerkshire, Windsor and Maidenhead, South East, SL41LH","Macdonald Windsor Hotel, 23, High Street, Windsor, Windsor and Maidenhead, South East, SL41LH",0.8692
+66551,7758,"Lyncombe Lodge Hotel, LYNCOMBE DRIVE BRISTOL, North Somerset, South West, BS255PQ","Lyncombe Lodge, Lyncombe Drive, Bristol, North Somerset, South West, BS255PQ",0.8869
+66560,11372,"The Winsford Lodge, Station Road WinsfordCheshire, Cheshire West and Chester, North West, CW73DE","The Winsford Lodge, 85-87, Station Road, Winsford, Cheshire West and Chester, North West, CW73DE",0.8
+66654,8,"The Old Court Hotel, 39-43 Bridge Street WitneyOxfordshire, West Oxfordshire, South East, OX281DA","The Old Court Hotel, Bridge Street, West Oxfordshire, , United Kingdom, South East, OX281DA",0.8
+66729,5684,"Miller of Mansfield, High Street Goring GoringReading, South Oxfordshire, South East, RG89AW","The Miller of Mansfield, High Street, Goring, South Oxfordshire, South East, RG89AW",0.8
+66730,1195,"Cantley House Hotel a Bespoke Hotel, Milton Road Wokingham Berkshire, South East, RG405QG","Cantley House Hotel, Milton Road, Wokingham, Berkshire, , United Kingdom, South East, RG405QG",0.8
+66747,4654,"Travelodge Reading Whitley, Basingstoke Road, 387 READING, South East, RG20JE","Travelodge, 387, Basingstoke Road, Reading, South East, RG20JE",0.8667
+66755,696,"Beech House Hotel, 60 Bath Road Reading Berkshire, South East, RG302AY","Beech House, Bath Road, Reading, , United Kingdom, South East, RG302AY",0.8
+66757,7502,"Dial House Hotel, 62 Dukes Ride CrowthorneBerkshire, Bracknell Forest, South East, RG456DL","Dial House Hotel, 62, Duke's Ride, Crowthorne, , GB, Bracknell Forest, South East, RG456DL",0.8571
+66916,4557,"Novotel Wolverhampton, Union Street Wolverhampton, West Midlands, WV13JN","Novotel Wolverhampton, Union Street, Wolverhampton, West Midlands, WV13JN",0.8852
+66920,7130,"Quality Hotel Wolverhampton, Tettenhall Road 60 Wolverhampton, West Midlands, WV14SW","Quality Hotel, 40-50, Tettenhall Road, Wolverhampton, West Midlands, WV14SW",0.8727
+66933,7253,"The York Hotel, 138 140 Tettenhall Road TettenhallWolverhampton, West Midlands, WV60BQ","The York Hotel, 138, Tettenhall Road, Wolverhampton, West Midlands, WV60BQ",0.8
+67189,2237,"The Hall Park Hotel, 23 Carlton Road WorkingtonCumbria, Cumberland, North West, CA144BX","Hall Park hotel, 23, Carlton Road, Workington, , United Kingdom, Cumberland, North West, CA144BX",0.8532
+67190,2240,"The Sleepwell Inn, Washington Street Workington, Cumberland, North West, CA143AX","The Sleepwell Inn, Washington Street, Workington, , United Kingdom, Cumberland, North West, CA143AX",0.8

@@ -1,0 +1,2 @@
+orig_indexA,orig_indexB,text_a,text_b,lat_a,long_a,lat_b,long_b,distance_m,prediction,true_label,generated_text,correct
+6076,5608,"Brooklands Over 50's Only, 28/30 King Edward Avenue Blackpool, North West, FY29TA","Smart Hotel Guest house, 1A King Edward Avenue Blackpool, North West, FY29TD",53.83543,-3.05176,53.83537,-3.05372,128.7820613709649,0,0,NO_MATCH,True

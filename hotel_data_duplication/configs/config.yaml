@@ -1,0 +1,313 @@
+
+
+
+# bert final config
+# data:
+#   # Now includes the clusterA/clusterB columns
+#   input_csv: "./data/hotel_pairs_with_clusters.csv"
+#   test_size: 0.2
+#   random_seed: 42
+#   inference_labels: data/inference_labels.csv
+#   test_csv: data/addresses_corrected_filled.csv
+#   distance_threshold_m: 500  # For geo-filtering in inference
+
+# model:
+#   name_or_path: "bert-base-uncased"
+#   max_length: 256            # Reasonable for address pairs
+#   num_labels: 2              # binary match head
+#   num_entity_labels:         # Leave blank—train.py will infer this from the CSV
+
+# training:
+#   num_epochs: 10           # change
+#   output_dir: "scripts/scripts/outputs/no_editdist"
+#   batch_size: 32             # Smaller batches improve generalization
+#   eval_batch_size: 32
+#   learning_rate: 1e-3     #1e-3 chnage
+#   weight_decay: 0.01
+#   save_total_limit: 3
+#   metric_for_best_model: "f1"
+
+#   logging_strategy: "steps"
+#   logging_steps: 20
+
+#   wandb_project: "bert-hotel-duplication"
+#   run_name: "bert-base-uncased-v1"
+#   wandb_log_model: "end"
+#   wandb_watch: "false"
+
+#   fp16: true
+#   gradient_accumulation_steps: 1
+#   warmup_ratio: 0.1
+
+#   # Add class weights to address imbalance
+#   class_weights: [1.0, 3.0]
+
+#   # Optional: Focal Loss hyperparams
+#   focal_gamma: 2.0
+#   focal_alpha: 0.25
+#   lambda_match_start: 0.5
+#   lambda_match_end:   1.0
+#   lambda_id_start:    1.0
+#   lambda_id_end:      0.5
+
+
+# inference:
+#   batch_size: 32
+#   max_pairs: 500000
+
+# configs/config.yaml
+
+# data:
+#   # relative to hotel_data_duplication/
+#   input_csv: "../data/hotel_pairs.csv"
+#   test_size: 0.2
+#   random_seed: 42
+
+# model:
+#   name_or_path: "meta-llama/Meta-Llama-3-8B-Instruct"
+#   max_length: 256
+#   num_labels: 2
+
+# lora:
+#   rank: 8
+#   alpha: 32
+#   target_modules:
+#     - q_proj
+#     - v_proj
+#   dropout: 0.05
+
+# training:
+#   output_dir: "outputs/llama3-dupe"
+#   epochs: 10
+#   batch_size: 32
+#   val_split: 0.1
+#   learning_rate: 2e-4
+#   weight_decay: 0.01
+#   warmup_ratio: 0.1
+#   use_8bit: false
+#   int8_threshold: 6.0
+#   patience: 3
+#   logging_steps: 50
+#   eval_steps: 200
+#   save_total_limit: 3
+
+# inference:
+#   batch_size: 32
+#   max_pairs: 500000
+
+# data:
+#   # for training split
+#   input_csv: "../data/hotel_pairs.csv"
+#   test_size: 0.2
+#   random_seed: 42
+
+#   # for evaluation — these files live in scripts/
+#   addresses_csv: "../data/addresses_corrected_filled.csv"
+#   inference_labels: "../data/inference_labels.csv"
+#   distance_threshold_m: 500         # meters for geo‑filter
+
+# model:
+#   name_or_path: "meta-llama/Meta-Llama-3-8B-Instruct"
+#   max_length: 256
+#   num_labels: 2
+
+# lora:
+#   rank: 8
+#   alpha: 32
+#   target_modules:
+#     - q_proj
+#     - v_proj
+#   dropout: 0.05
+
+# training:
+#   # your LoRA checkpoint dir under scripts/outputs
+#   output_dir: "scripts/scripts/outputs/llama3-dupe"
+#   epochs: 10
+#   # batch_size: 8
+#   val_split: 0.1
+#   learning_rate: 2e-4
+#   weight_decay: 0.01
+#   warmup_ratio: 0.1
+#   # use_8bit: false
+#   int8_threshold: 6.0
+#   patience: 3
+#   logging_steps: 50
+#   eval_steps: 200
+#   save_total_limit: 3
+
+#   use_4bit: true
+#   use_8bit: false
+#   batch_size: 2
+#   gradient_accumulation_steps: 8
+#   fp16: true
+
+# inference:
+#   batch_size: 8
+#   max_pairs: 500000
+#   threshold: 0.5
+
+
+#edit distance freezing
+# data:
+#   # Now includes the clusterA/clusterB columns
+#   input_csv: "./data/hotel_pairs_with_clusters.csv"
+#   test_size: 0.2
+#   random_seed: 42
+#   inference_labels: data/inference_labels.csv
+#   test_csv: data/addresses_corrected_filled.csv
+#   distance_threshold_m: 500  # For geo-filtering in inference
+
+# model:
+#   name_or_path: "bert-base-uncased"
+#   max_length: 256            # Reasonable for address pairs
+#   num_labels: 2              # binary match head
+#   num_entity_labels:         # Leave blank—train.py will infer this from the CSV
+
+# training:
+#   num_epochs: 10           # change
+#   output_dir: "scripts/scripts/outputs/no_editdist"
+#   batch_size: 32             # Smaller batches improve generalization
+#   eval_batch_size: 32
+#   learning_rate: 1e-3     #1e-3 chnage
+#   weight_decay: 0.01
+#   save_total_limit: 3
+#   metric_for_best_model: "f1"
+
+#   logging_strategy: "steps"
+#   logging_steps: 20
+
+#   wandb_project: "bert-hotel-duplication"
+#   run_name: "bert-base-uncased-v1"
+#   wandb_log_model: "end"
+#   wandb_watch: "false"
+
+#   fp16: true
+#   gradient_accumulation_steps: 1
+#   warmup_ratio: 0.1
+
+#   # Add class weights to address imbalance
+#   class_weights: [1.0, 3.0]
+
+#   # Optional: Focal Loss hyperparams
+#   focal_gamma: 2.0
+#   focal_alpha: 0.25
+#   lambda_match_start: 0.5
+#   lambda_match_end:   1.0
+#   lambda_id_start:    1.0
+#   lambda_id_end:      0.5
+
+
+# inference:
+#   batch_size: 32
+#   max_pairs: 500000
+#   use_edit_dist: false
+
+
+
+#llama best config
+
+
+# data:
+#   # for training split
+#   input_csv: "../data/hotel_pairs.csv"
+#   test_size: 0.2
+#   random_seed: 42
+
+#   # for evaluation — these files live in scripts/
+#   addresses_csv: "../data/addresses_corrected_filled.csv"
+#   inference_labels: "../data/inference_labels.csv"
+#   distance_threshold_m: 500         # meters for geo‑filter
+
+# model:
+#   name_or_path: "meta-llama/Meta-Llama-3-8B-Instruct"  # The Llama generative model
+#   max_length: 256  # Maximum length of input tokens
+#   num_labels: 2    # Number of output labels for classification (e.g., binary classification)
+
+# lora:
+#   rank: 8  # LoRA rank for parameter efficient fine-tuning
+#   alpha: 32  # Scaling factor for LoRA
+#   target_modules:
+#     - q_proj
+#     - v_proj  # Targeting these modules for LoRA
+#   dropout: 0.05  # Dropout rate for LoRA
+
+# training:
+#   output_dir: "outputs/llama3-dupe"  # Directory for LoRA checkpoints
+#   epochs: 10  # Number of epochs to train
+#   val_split: 0.1  # Validation split
+#   learning_rate: 1e-5  # Learning rate
+#   weight_decay: 0.01  # Weight decay for regularization
+#   warmup_ratio: 0.1  # Warm-up ratio for learning rate scheduler
+#   int8_threshold: 6.0  # Threshold for using int8 precision if needed
+#   patience: 3  # Early stopping patience
+#   logging_steps: 50  # Frequency of logging during training
+#   eval_steps: 200  # Frequency of evaluation during training
+#   save_total_limit: 3  # Limit the number of saved checkpoints
+
+#   use_4bit: true  # Enable 4-bit quantization for reduced memory usage
+#   use_8bit: false  # Disable 8-bit quantization
+#   batch_size: 2  # Training batch size
+#   gradient_accumulation_steps: 8  # Gradient accumulation for large models
+#   fp16: true  # Use FP16 precision for faster training
+
+# inference:
+#   batch_size: 8  # Batch size for inference
+#   max_pairs: 500000  # Maximum number of pairs to process
+#   threshold: 0.5  # Threshold for classifying pairs as similar or not
+#   save_intermediate_results: true    # Save results every N pairs
+#   progress_update_frequency: 1000    # Print progress every N pairs
+#   memory_cleanup_frequency: 50       # Clear memory every N pairs
+
+
+# llama config test
+
+data:
+  # for training split
+  input_csv: "../data/hotel_pairs.csv"
+  test_size: 0.2
+  random_seed: 42
+
+  # for evaluation — these files live in scripts/
+  addresses_csv: "../data/addresses_corrected_test.csv"
+  inference_labels: "../data/inference_labels_test.csv"
+  distance_threshold_m: 500         # meters for geo‑filter
+
+model:
+  name_or_path: "meta-llama/Meta-Llama-3-8B-Instruct"  # The Llama generative model
+  max_length: 256  # Maximum length of input tokens
+  num_labels: 2    # Number of output labels for classification (e.g., binary classification)
+
+lora:
+  rank: 8  # LoRA rank for parameter efficient fine-tuning
+  alpha: 32  # Scaling factor for LoRA
+  target_modules:
+    - q_proj
+    - v_proj  # Targeting these modules for LoRA
+  dropout: 0.05  # Dropout rate for LoRA
+
+training:
+  output_dir: "outputs/llama3-dupe"  # Directory for LoRA checkpoints
+  epochs: 10  # Number of epochs to train
+  val_split: 0.1  # Validation split
+  learning_rate: 1e-5  # Learning rate
+  weight_decay: 0.01  # Weight decay for regularization
+  warmup_ratio: 0.1  # Warm-up ratio for learning rate scheduler
+  int8_threshold: 6.0  # Threshold for using int8 precision if needed
+  patience: 3  # Early stopping patience
+  logging_steps: 50  # Frequency of logging during training
+  eval_steps: 200  # Frequency of evaluation during training
+  save_total_limit: 3  # Limit the number of saved checkpoints
+
+  use_4bit: true  # Enable 4-bit quantization for reduced memory usage
+  use_8bit: false  # Disable 8-bit quantization
+  batch_size: 2  # Training batch size
+  gradient_accumulation_steps: 8  # Gradient accumulation for large models
+  fp16: true  # Use FP16 precision for faster training
+
+inference:
+  batch_size: 8  # Batch size for inference
+  max_pairs: 500000  # Maximum number of pairs to process
+  threshold: 0.5  # Threshold for classifying pairs as similar or not
+  save_intermediate_results: true    # Save results every N pairs
+  progress_update_frequency: 1000    # Print progress every N pairs
+  memory_cleanup_frequency: 50       # Clear memory every N pairs
