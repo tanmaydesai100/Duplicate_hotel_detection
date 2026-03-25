@@ -7,6 +7,3 @@ __pycache__/
 
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
-
-# Prevent committing large raw Kaggle exports
-kaggle/*.csv
